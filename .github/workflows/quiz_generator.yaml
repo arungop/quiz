@@ -24,7 +24,7 @@ jobs:
 
       - name: Run quiz generation script
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # Use a GitHub secret for your API key.
+          OPENAI_API_KEY: ${{ secrets.OPEN_API_KEY }}  # Use a GitHub secret for your API key.
         run: |
           python openai_gen.py  # Replace with the actual name of your Python script.
 
