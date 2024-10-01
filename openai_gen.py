@@ -2,7 +2,8 @@ from openai import OpenAI
 from datetime import datetime
 import pandas as pd
 
-client = OpenAI(api_key="OPEN_API_KEY")
+# Initialize OpenAI client with the environment variable
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Get today's date
 today_date = datetime.now().strftime("%Y-%m-%d")
