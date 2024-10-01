@@ -1,0 +1,30 @@
+name: Generate UPSC Quiz
+
+on:
+  schedule:
+    - cron: '30 1 * * *'  # This runs daily at 1:30 AM UTC, which is 7 AM IST.
+  workflow_dispatch:  # Allows manual triggering of the workflow.
+
+jobs:
+  generate_quiz:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'  # Specify the Python version you want to use.
+
+      - name: Install dependencies
+        run: |
+          pip install openai pandas
+
+      - name: Run quiz generation script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # Use a GitHub secret for your API key.
+        run: |
+          python your_script_name.py  # Replace with the actual name of your Python script.
+
