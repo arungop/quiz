@@ -26,5 +26,5 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # Use a GitHub secret for your API key.
         run: |
-          python your_script_name.py  # Replace with the actual name of your Python script.
+          python openai_gen.py  # Replace with the actual name of your Python script.
 
