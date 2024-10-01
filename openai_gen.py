@@ -1,5 +1,6 @@
 from openai import OpenAI
 from datetime import datetime
+import os
 import pandas as pd
 
 # Initialize OpenAI client with the environment variable
