@@ -51,6 +51,8 @@ if response.status_code == 200:
 
             Also the options must be logical with the questions.
 
+            Answer must be from [A, B, C, D]
+
             Output must be a csv with headers: "question, A, B, C, D, answer".
             """
 
