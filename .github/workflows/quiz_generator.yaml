@@ -18,6 +18,14 @@ jobs:
         with:
           python-version: '3.8'
 
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -28,4 +36,20 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # Use the GitHub secret as an environment variable
         run: |
           python openai_gen.py  # Replace with your script name
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Auto-generate quiz for $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
