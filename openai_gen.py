@@ -39,9 +39,9 @@ if response.status_code == 200:
 
             # Define the prompt to generate UPSC-level quiz questions
             prompt = f"""
-            Generate 6 quiz questions based on the following text extracted from significant news topics.
+            Generate 10 quiz questions based on the following text extracted from significant news topics.
 
-            Ensure that the questions are relevant to the UPSC and SSC exams and framed to encourage critical thinking.
+            Ensure that the questions are relevant to the SSC exams and framed to encourage critical thinking.
 
             All questions must be based on the text provided below:
 
