@@ -85,10 +85,13 @@ if response.status_code == 200:
             if df.iloc[0]['question'] == 'question':
                 df = df.drop(index=0)
 
+            # Save 6 questions for time constrains
+            df_6 = df.head(6)
+
             # Define the CSV file name
             csv_file_name = f'data/quiz_questions_{today_date}.csv'
 
             # Save DataFrame to CSV without quotes and without the index
-            df.to_csv(csv_file_name, index=False, quoting=csv.QUOTE_NONE, escapechar='\\')
+            df_6.to_csv(csv_file_name, index=False, quoting=csv.QUOTE_NONE, escapechar='\\')
 
             print(f'Successfully saved quiz questions to {csv_file_name}')
