@@ -36,7 +36,7 @@ jobs:
                   OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }} # Use the GitHub secret as an environment variable
                   GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # Assuming you need this for the Gemini API
               run: |
-                  python openai_gen.py  # Replace with your script name
+                  python quiz_gen.py  # Replace with your script name
 
             - name: Configure Git
               run: |
