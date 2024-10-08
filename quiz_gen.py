@@ -45,7 +45,7 @@ else:
                 "response_mime_type": "text/plain",
             }
 
-            model = genai.GenerativeModel(
+            model = genai.ChatGoogleGenerativeAI(
                 model_name="gemini-1.5-flash",
                 generation_config=generation_config,
                 system_instruction=f"""
