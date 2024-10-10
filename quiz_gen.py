@@ -7,6 +7,7 @@ import re
 import csv
 import google.generativeai as genai
 
+
 # Configure the Gemini API
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
@@ -59,7 +60,9 @@ else:
 
                 The questions should cover a range of topics, including politics, economy, environment, and social issues.
 
-                Also the options must be logical with the questions.
+                Questions must not be too long. (Important)
+
+                Also the options must be logical with the questions and be short as well as accurate. (Important)
 
                 Answer must be from [A, B, C, D]
 
