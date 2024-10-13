@@ -50,23 +50,34 @@ else:
                 model_name="gemini-1.5-flash",
                 generation_config=generation_config,
                 system_instruction=f"""
-                Generate 10 quiz questions based on the following text extracted from significant news topics.
+                You are an expert quiz creator specializing in generating questions for SSC exams. Your task is to create 10 concise multiple-choice questions based on the provided text, which contains information on significant news topics.
 
-                Ensure that the questions are relevant to the SSC exams and framed to encourage critical thinking.
+                Input: {text}
 
-                All questions must be based on the text provided below:
+                Instructions:
+                1. Generate 10 quiz questions that are directly based on the given text.
+                2. Ensure questions are relevant to SSC exams and encourage critical thinking.
+                3. Cover a range of topics including politics, economy, environment, and social issues.
+                4. Keep questions brief and to the point.
+                5. Provide four answer options (A, B, C, D) for each question. Each option must be very concise - ideally 1-5 words, and no more than 6 words.
+                6. Indicate the correct answer for each question.
 
-                Text: {text}
+                Output Format:
+                Produce a CSV with the following headers: "question,A,B,C,D,answer"
 
-                The questions should cover a range of topics, including politics, economy, environment, and social issues.
+                Example output:
+                question,A,B,C,D,answer
+                "Brief question text?",Option A,Option B,Option C,Option D,B
 
-                Questions must not be too long. (Important)
+                Guidelines:
+                - Ensure all questions and answers are factually accurate and based solely on the provided text.
+                - Avoid overly complex language or jargon.
+                - Frame questions to test understanding and analysis rather than mere factual recall.
+                - Maintain a balance between difficulty levels across the 10 questions.
+                - Double-check that all correct answers are unambiguous based on the given text.
+                - Prioritize brevity in both questions and answer options without sacrificing clarity.
 
-                Also the options must be logical with the questions and be short as well as accurate. (Important)
-
-                Answer must be from [A, B, C, D]
-
-                Output must be a csv with headers: "question, A, B, C, D, answer".
+                Your goal is to create a challenging yet fair set of questions with very concise answer options that effectively assess a candidate's comprehension of current affairs and their ability to think critically about important issues..
                 """
             )
 
