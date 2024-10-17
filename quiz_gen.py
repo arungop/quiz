@@ -7,52 +7,89 @@ import re
 import csv
 import google.generativeai as genai
 
-
 # Configure the Gemini API
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 # Get yesterday's date in 'dd-mm-yyyy' format
 yesterday = (datetime.now() - timedelta(1)).strftime('%d-%m-%Y')
 
-# Base URL with yesterday's date
-url = f'https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/{yesterday}'
+# Drishti IAS base URL with yesterday's date
+drishti_url = f'https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/{yesterday}'
 
-# Fetch the webpage content
-try:
-    response = requests.get(url)
-    response.raise_for_status()  # Raise an error for bad responses (4xx, 5xx)
-except requests.RequestException as e:
-    print(f"Error fetching the URL: {e}")
-else:
+# Wikipedia current events portal URL
+wiki_url = "https://en.wikipedia.org/wiki/Portal:Current_events"
+
+# Function to fetch content from Drishti IAS
+def fetch_drishti_content(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        print(f"Error fetching Drishti IAS URL: {e}")
+        return None
+
     soup = BeautifulSoup(response.content, 'html.parser')
-
-    # Find the content inside the 'list-category' div
     list_category = soup.find('div', {'class': 'list-category'})
-
+    
     if list_category:
-        # Locate the <article> tag inside the 'list-category' div
         article_content = list_category.find('article')
-
         if article_content:
-            # Fetch the text from the article
-            text = article_content.get_text(strip=True)
+            return article_content.get_text(strip=True)
+    print("No article content found in the list-category div.")
+    return None
 
-            # Create the model
-            generation_config = {
-                "temperature": 1,
-                "top_p": 0.95,
-                "top_k": 64,
-                "max_output_tokens": 8192,
-                "response_mime_type": "text/plain",
-            }
+# Function to fetch content from Wikipedia
+def fetch_wiki_content(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        print(f"Error fetching Wikipedia URL: {e}")
+        return None
 
-            model = genai.GenerativeModel(
-                model_name="gemini-1.5-flash",
-                generation_config=generation_config,
-                system_instruction=f"""
+    soup = BeautifulSoup(response.content, 'html.parser')
+    current_events_section = soup.find('div', class_='p-current-events-events')
+
+    if current_events_section:
+        return current_events_section.get_text(strip=True)
+    print("Could not find the current events section on Wikipedia.")
+    return None
+
+# Fetch Drishti IAS content
+drishti_text = fetch_drishti_content(drishti_url)
+
+# If Drishti content is not found, fetch from Wikipedia
+if not drishti_text:
+    print("Using Wikipedia as fallback...")
+    wiki_text = fetch_wiki_content(wiki_url)
+
+    if wiki_text:
+        # Proceed with the Wikipedia text if available
+        text_to_use = wiki_text
+    else:
+        # Exit if neither source has content
+        print("No valid content found in either Drishti IAS or Wikipedia.")
+        exit(1)
+else:
+    # Use the Drishti text if available
+    text_to_use = drishti_text
+
+# Set up the quiz generation request for the Gemini API
+generation_config = {
+    "temperature": 0.7,     # Lowered for more focused output
+    "top_p": 0.9,          # Slightly lower for more coherent responses
+    "top_k": 40,           # Fewer candidates to focus generation
+    "max_output_tokens": 1024,  # Reasonable limit for question length
+    "response_mime_type": "text/plain",
+}
+
+model = genai.GenerativeModel(
+    model_name="gemini-1.5-flash",
+    generation_config=generation_config,
+    system_instruction=f"""
                 You are an expert quiz creator specializing in generating questions for SSC exams. Your task is to create 10 concise multiple-choice questions based on the provided text, which contains information on significant news topics.
 
-                Input: {text}
+                Input: {text_to_use}
 
                 Instructions:
                 1. Generate 10 quiz questions that are directly based on the given text.
@@ -79,54 +116,51 @@ else:
 
                 Your goal is to create a challenging yet fair set of questions with very concise answer options that effectively assess a candidate's comprehension of current affairs and their ability to think critically about important issues..
                 """
-            )
+)
 
-            # Start a chat session with the model
-            chat_session = model.start_chat(history=[])
-            response = chat_session.send_message("Generate the quiz questions")
+# Start a chat session with the model
+chat_session = model.start_chat(history=[])
+response = chat_session.send_message("Generate the quiz questions")
 
-            # Extract the generated text from the response
-            generated_text = response.text
+# Extract the generated text from the response
+generated_text = response.text
 
-            # Debug: Print the generated text
-            print("Generated Text:\n", generated_text)
+# Debug: Print the generated text
+print("Generated Text:\n", generated_text)
 
-            # Parse the generated text into a list of questions and answers
-            questions = []
-            lines = generated_text.strip().split('\n')
+# Parse the generated text into a list of questions and answers
+questions = []
+lines = generated_text.strip().split('\n')
 
-            for line in lines[1:]:  # Skip the header
-                # Remove double quotes and extra spaces from each line
-                line = re.sub(r'"', '', line).strip()
+for line in lines[1:]:  # Skip the header
+    # Remove double quotes and extra spaces from each line
+    line = re.sub(r'"', '', line).strip()
 
-                # Assuming each line contains a question followed by options and the answer
-                parts = [part.strip() for part in line.split(',')]
-                if len(parts) == 6:  # Ensure there are 5 options and an answer
-                    questions.append(parts)
+    # Assuming each line contains a question followed by options and the answer
+    parts = [part.strip() for part in line.split(',')]
+    if len(parts) == 6:  # Ensure there are 5 options and an answer
+        questions.append(parts)
 
-            # Create a DataFrame
-            df = pd.DataFrame(questions, columns=["question", "A", "B", "C", "D", "answer"])
+# Create a DataFrame
+df = pd.DataFrame(questions, columns=["question", "A", "B", "C", "D", "answer"])
 
-            # Ensure we only keep valid questions
-            df = df[df['question'] != 'question']  # Remove any rows where the question is a header
+# Ensure we only keep valid questions
+df = df[df['question'] != 'question']  # Remove any rows where the question is a header
 
-            # Save 6 questions for time constraints
-            df_6 = df.head(6)
+# Save 6 questions for time constraints
+df_6 = df.head(6)
 
-            # Get today's date for the filename
-            today_date = datetime.now().strftime("%Y-%m-%d")
+# Get today's date for the filename
+today_date = datetime.now().strftime("%Y-%m-%d")
 
-            # Define the CSV file name
-            csv_file_name = f'data/quiz_questions_{today_date}.csv'
+# Define the CSV file name
+csv_file_name = f'data/quiz_questions_{today_date}.csv'
 
-            # Ensure the output directory exists
-            os.makedirs(os.path.dirname(csv_file_name), exist_ok=True)
+# Ensure the output directory exists
+os.makedirs(os.path.dirname(csv_file_name), exist_ok=True)
 
-            # Save DataFrame to CSV without quotes and without the index
-            df_6.to_csv(csv_file_name, index=False, quoting=csv.QUOTE_MINIMAL, escapechar='\\')
+# Save DataFrame to CSV without quotes and without the index
+df_6.to_csv(csv_file_name, index=False, quoting=csv.QUOTE_MINIMAL, escapechar='\\')
 
-            print(f'Successfully saved quiz questions to {csv_file_name}')
-        else:
-            print("No article content found in the list-category div.")
-    else:
-        print("No list-category div found in the page.")
+print(f'Successfully saved quiz questions to {csv_file_name}')
+
