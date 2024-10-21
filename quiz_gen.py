@@ -13,11 +13,35 @@ genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 # Get yesterday's date in 'dd-mm-yyyy' format
 yesterday = (datetime.now() - timedelta(1)).strftime('%d-%m-%Y')
 
-# Drishti IAS base URL with yesterday's date
-drishti_url = f'https://www.drishtiias.com/current-affairs-news-analysis-editorials/news-analysis/{yesterday}'
+# DD News RSS feed URL
+dd_news_url = "https://ddnews.gov.in/en/feed"
 
 # Wikipedia current events portal URL
 wiki_url = "https://en.wikipedia.org/wiki/Portal:Current_events"
+
+# Function to fetch content from DD News
+def fetch_dd_news_content(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        print(f"Error fetching DD News URL: {e}")
+        return None
+
+    # Use 'lxml-xml' parser for XML
+    soup = BeautifulSoup(response.content, 'lxml-xml')  
+    items = soup.find_all('item')
+    
+    news_items = []
+    for item in items:
+        title = item.title.text
+        description = item.description.text
+        news_items.append(f"{title} {description}")  # Combine title and description
+
+    if news_items:
+        return news_items  # Return all news items
+    print("No news items found in DD News feed.")
+    return None
 
 # Function to fetch content from Wikipedia
 def fetch_wiki_content(url):
@@ -36,42 +60,23 @@ def fetch_wiki_content(url):
     print("Could not find the current events section on Wikipedia.")
     return None
 
-# Function to fetch content from Drishti IAS
-def fetch_drishti_content(url):
-    try:
-        response = requests.get(url)
-        response.raise_for_status()
-    except requests.RequestException as e:
-        print(f"Error fetching Drishti IAS URL: {e}")
-        return None
+# Fetch DD News content
+dd_news_texts = fetch_dd_news_content(dd_news_url)
 
-    soup = BeautifulSoup(response.content, 'html.parser')
-    list_category = soup.find('div', {'class': 'list-category'})
-    
-    if list_category:
-        article_content = list_category.find('article')
-        if article_content:
-            return article_content.get_text(strip=True)
-    print("No article content found in the list-category div.")
-    return None
+# If DD News content is not found, fetch from Wikipedia
+if not dd_news_texts:
+    print("Using Wikipedia as fallback...")
+    wiki_text = fetch_wiki_content(wiki_url)
 
-# Fetch Wikipedia content
-wiki_text = fetch_wiki_content(wiki_url)
-
-# If Wikipedia content is not found, fetch from Drishti IAS
-if not wiki_text:
-    print("Using Drishti IAS as fallback...")
-    drishti_text = fetch_drishti_content(drishti_url)
-
-    if drishti_text:
-        print("Drishti IAS content retrieved successfully.")
-        text_to_use = drishti_text
+    if wiki_text:
+        print("Wikipedia content retrieved successfully.")
+        text_to_use = wiki_text
     else:
-        print("No valid content found in either Wikipedia or Drishti IAS.")
+        print("No valid content found in either DD News or Wikipedia.")
         exit(1)
 else:
-    print("Wikipedia content retrieved successfully.")
-    text_to_use = wiki_text
+    print("DD News content retrieved successfully.")
+    text_to_use = "\n".join(dd_news_texts)  # Combine all news items into a single text
 
 # Only proceed if valid content is found
 if text_to_use.strip():
