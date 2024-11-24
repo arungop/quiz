@@ -1,4 +1,4 @@
-name: Generate UPSC Quiz
+name: Generate Quiz
 
 on:
     schedule:
