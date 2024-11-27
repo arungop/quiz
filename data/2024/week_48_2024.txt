@@ -949,3 +949,184 @@ Earlier, the Bangladesh Hindu-Buddhist-Christian Oikya Parishad sent an open let
 Link: https://ddnews.gov.in/en/india-urges-bangladesh-to-ensure-safety-of-hindus-and-all-minorities-after-arrest-of-hindu-priest/
 Fetch Time: 2024-11-26 13:41:57
 
+Title: All you need to know about PAN 2.0
+Publication Date: Tue, 26 Nov 2024 17:47:46 +0000
+Content: A day after the Cabinet Committee on Economic Affairs approved PAN 2.0, the Income Tax Department on Tuesday issued a detailed clarification on the project, comprising 11 frequently asked questions (FAQs) to offer taxpayers detailed insights into the new system.
+1. What is PAN 2.0? 
+PAN 2.0 is an e-Governance initiative by the Income Tax Department aimed at re-engineering business processes for taxpayer registration services. The objective is to enhance the quality of PAN services by adopting the latest technology. The project consolidates all processes related to PAN allotment, updates, corrections, and merges TAN-related services. Additionally, online PAN authentication/validation services will be available for user agencies, including financial institutions, banks, and central and state government bodies.
+2. How will PAN 2.0 differ from the existing setup? 
+i. Integration of Platforms: Currently, PAN-related services are hosted across three portals (e-Filing Portal, UTIITSL Portal, and Protean e-Gov Portal). PAN 2.0 will unify all PAN/TAN-related services under a single portal, providing end-to-end services like allotment, corrections, Aadhaar-PAN linking, online PAN validation (OPV), and e-PAN requests. 
+ii. Adoption of Paperless Processes: PAN 2.0 will enable fully online, paperless processes, unlike the existing modes. 
+iii. Taxpayer Facilitation: PAN updates/corrections will be free, and e-PANs will be sent to registered email addresses. For physical PAN cards, applicants must pay Rs 50 for domestic delivery or Rs 15 plus postal charges for international delivery.
+3. Do existing PAN cardholders need to apply for a new PAN under the upgraded system? 
+No, existing PAN cardholders are not required to apply for a new PAN under PAN 2.0.
+4. Can corrections like name, spelling, or address changes be made to PAN? 
+Yes. Existing PAN holders can update details such as name, date of birth, email, mobile number, or address free of cost after PAN 2.0 is launched. Until then, PAN holders can update email, mobile, or address through Aadhaar-based facilities using these links: 
+– [NSDL Address Update](https://www.onlineservices.nsdl.com/paam/endUserAddressUpdate.html) 
+– [UTIITSL Address Update](https://www.pan.utiitsl.com/PAN_ONLINE/homeaddresschange)
+For other updates/corrections, users can follow the existing process by visiting physical centers or applying online with applicable fees.
+5. Do I need to replace my current PAN card under PAN 2.0? 
+No, your current PAN card remains valid unless you request updates or corrections.
+6. What about those using outdated addresses? How will new PAN cards be delivered? 
+No new PAN cards will be delivered unless requested by the holder due to updates/corrections. Address changes can be made for free using the Aadhaar-based update facilities mentioned above.
+7. If new PAN cards are QR code-enabled, will older ones still work? What is the purpose of the QR code? 
+i. QR codes have been a feature since 2017-18 and will continue under PAN 2.0 with enhancements like dynamic QR codes that display the latest data in the PAN database. 
+ii. PAN holders with older cards without QR codes can request a new card in both the current and PAN 2.0 systems. 
+iii. QR codes validate PAN details, and a specific QR reader app displays details such as photo, name, signature, and date of birth.
+8. What is the “Common Business Identifier for all business-related activities”? 
+As announced in the Union Budget 2023, PAN will serve as a common identifier for business establishments required to use it across all specified government agency systems.
+9. Will the Common Business Identifier replace the PAN? 
+No, PAN itself will function as the Common Business Identifier.
+10. What does the “Unified Portal” mean? 
+Currently, PAN-related services are spread across three portals. Under PAN 2.0, all services related to PAN and TAN, including allotments, corrections, and validation, will be hosted on a single unified portal. This will streamline processes, reduce delays, and simplify grievance redressal.
+11. How will the system address cases of duplicate PANs? 
+Under the Income Tax Act, 1961, individuals cannot hold more than one PAN. If anyone holds multiple PANs, they are required to notify their jurisdictional assessing officer for deactivation. PAN 2.0 will employ advanced system logic and centralized mechanisms to minimize instances of duplicate PANs.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/all-you-need-to-know-about-pan-2-0/
+Fetch Time: 2024-11-27 02:43:59
+
+Title: Pakistan: Violent clashes erupt as PTI protestors seize Islamabad’s zero point
+Publication Date: Tue, 26 Nov 2024 17:28:42 +0000
+Content: After violent clashes with security forces that left at least six people dead earlier in the day, thousands of Pakistan Tehreek-e-Insaf (PTI) protestors have forced their way into Islamabad and seized Zero Point ‘D-Chowk,’ where they plan to stage an indefinite sit-in until their leader, former Prime Minister Imran Khan, is released from jail.
+Violence continues to erupt across the capital as security forces struggle to contain the unrest. Bushra Bibi, the wife of Imran Khan and the rally’s driving force, has urged party workers and supporters to maintain their grip on the sensitive location.
+Addressing a massive crowd at Jinnah Avenue, Bushra Bibi took an oath from the supporters, pledging to stay at the site until her husband’s release. “Promise me that we will not leave D-Chowk until Imran Khan is released and stands here among us. If anyone claims I have left, know that it is a lie,” she said.
+“I appeal to the people of Rawalpindi and Islamabad to join us. Do not leave D-Chowk, even if we face a shortage of food and water. We will stay here for as long as it takes,” she added, cautioning protestors not to trust any statements allegedly made by Imran Khan from Adiala Jail.
+“Our plan will not change until Imran Khan comes out and tells us what to do next. No matter the pressure, wait for him to address us directly,” she insisted.
+Meanwhile, the government has warned of “extreme measures” to protect the capital from what it described as “mob attacks.”
+“We have called in the Pakistan Army to secure the Red Zone. I want to warn PTI again not to test our patience. We are exercising extreme caution and refraining from using force against PTI miscreants to avoid loss of life and bloodshed. However, our forces have been attacked with gunfire and direct assaults, leading to the martyrdom of police and ranger personnel,” said Federal Information Minister Atta Tarar.
+“PTI wants to see dead bodies to play its dirty politics and is exploiting innocent lives to further its evil agenda. We will not allow this chaos to continue for too long,” he added.
+Despite the government’s warnings, PTI leadership remains in contact with Imran Khan, seeking his input on backdoor negotiations with the government. However, Bushra Bibi has reiterated that the protest will not end until Khan is released.
+Analysts suggest that Bushra Bibi has emerged as the central decision-maker in the PTI, overshadowing senior leaders like Khyber Pakhtunkhwa Chief Minister Ali Amin Gandapur.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/pakistan-violent-clashes-erupt-as-pti-protestors-seize-islamabads-zero-point/
+Fetch Time: 2024-11-27 02:43:59
+
+Title: ‘Committed to upholding communal harmony,’ Says Bangladesh govt after jailing Hindu priest
+Publication Date: Tue, 26 Nov 2024 16:51:29 +0000
+Content: Facing severe backlash from Hindus worldwide over the shocking arrest and jailing of Chinmoy Krishna Das Brahmachari, the spokesperson of the Bangladesh Sanatan Jagaran Mancha and head of Pundarik Dham in Chittagong, the Bangladesh government, led by Chief Advisor Muhammad Yunus, went into damage control mode, asserting its commitment to “upholding communal harmony” in the country.
+After being taken into custody by the Dhaka Metropolitan Police’s Detective Branch (DB) at Hazrat Shahjalal International Airport around 4:30 PM on Monday, Das was presented before Judge Kazi Shariful Islam of Chittagong’s 6th Metropolitan Court at around 10:30 AM local time on Tuesday.
+The judge, after rejecting his bail plea, sent the Hindu priest—who is also associated with the International Society for Krishna Consciousness (ISKCON)—to jail.
+Condemning the shocking developments, the Ministry of External Affairs (MEA) said on Tuesday that it had noted with “deep concern” the arrest and denial of bail to Das, who is also affiliated with ISKCON in Bangladesh.
+Highlighting the broader context of continuing violence against minorities in Bangladesh, especially Hindus, the MEA added, “This incident follows multiple attacks on Hindus and other minorities by extremist elements in Bangladesh. Documented cases of arson, looting of minority homes and businesses, theft, vandalism, and desecration of deities and temples have been deeply troubling.”
+“It is unfortunate that, while the perpetrators of these incidents remain at large, charges are being pressed against a religious leader who was presenting legitimate demands through peaceful gatherings. We also note with concern the attacks on minorities protesting peacefully against the arrest of Shri Das,” the Ministry said.
+India also urged Bangladeshi authorities to ensure the safety and security of Hindus and all minorities, including their right to peaceful assembly and expression.
+Reacting to MEA’s statement late Tuesday evening, the Bangladesh Foreign Ministry said that the matter was an “internal affair” of Bangladesh.
+“It is with utter dismay and a deep sense of hurt that the Government of Bangladesh notes that the arrest of Sri Chinmoy Krishna Das has been misconstrued by certain quarters since Sri Chinmoy Krishna Das was arrested on specific charges. The Government of Bangladesh maintains that such unfounded statements not only misrepresent facts but also stand contrary to the spirit of friendship and understanding between the two neighboring countries,” read a statement issued by the Bangladesh Foreign Ministry.
+It further emphasized that India’s statement does not reflect the harmony that exists among the peoples of all faiths and the commitment and efforts of the Bangladeshi government and its people in maintaining such unity.
+“Bangladesh reaffirms in the strongest terms that every Bangladeshi, regardless of religious identity, has the right to establish, maintain, and perform respective religious rituals and practices or express views without hindrance. Ensuring the safety and security of all citizens, particularly religious minorities, remains a duty of the Government of Bangladesh. This was yet again vindicated by the peaceful observance of Durga Puja throughout Bangladesh only last month,” the statement continued.
+Meanwhile, local authorities in Chittagong have claimed that a lawyer was killed during a clash between police and followers of Das in the Chattogram Court Building area.
+The Bangladesh Foreign Ministry stated that the interim government is deeply concerned over the “brutal killing” of 32-year-old advocate Saiful Islam Alif, and authorities have stepped up security in the port city to ensure that religious harmony is maintained at all costs.
+However, local media quoted Hindu leaders who denied any involvement in the lawyer’s death.
+“Kanchan Acharjee, a central leader of the Sammilita Jagaran Jote, denied the involvement of their organization in the violence and the killing of the lawyer in Chattogram. He also demanded the authorities concerned carry out a proper investigation into the killing and bring the culprits to justice,” reported Bangladesh’s Daily Star.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/committed-to-upholding-communal-harmony-says-bangladesh-govt-after-jailing-hindu-priest/
+Fetch Time: 2024-11-27 02:43:59
+
+Title: Terrorist organizations challenging India’s security will face befitting reply: PM Modi on Constitution day
+Publication Date: Tue, 26 Nov 2024 15:56:38 +0000
+Content: On the occasion of Constitution Day, Prime Minister Narendra Modi reaffirmed India’s commitment to countering terrorist threats, asserting that any terrorist organization challenging India’s security will receive a “befitting reply.” Speaking at a special event at the Supreme Court, the Prime Minister emphasized the significance of the Indian Constitution, marking its 75th year and highlighting its guiding role in shaping the nation’s present and future.
+Reflecting on the Constitution’s enduring relevance, PM Modi described it as a “vibrant, constantly flowing stream.” He said that the Constitution is not just a historical document but a living guide that continues to shape India’s policies, ensuring the welfare of citizens and facilitating ease of living. The Prime Minister also stressed the government’s ongoing efforts to implement policies in alignment with the spirit of the Constitution.
+In his speech, PM Modi recalled the tragic Mumbai terror attack of 2008, which occurred on Constitution Day, and paid tribute to those who lost their lives. He underscored the nation’s resolve to confront terrorism, adding, “Every terrorist organization challenging the security of India will get a befitting reply.”
+The Prime Minister also highlighted various initiatives that reflect the government’s commitment to improving citizens’ quality of life. Citing the Digital Life Certificate, a facility that enables senior citizens to confirm their pensions online without having to visit banks in person, PM Modi pointed out that around 1.5 crore senior citizens have benefited from the service.
+Continuing his focus on welfare, PM Modi mentioned the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana, which has now expanded to cover citizens over the age of 70. He also emphasized the importance of accessible tap water, noting that while it may seem commonplace today, only three crore households had access to it even after 75 years of independence.
+On the cultural and moral foundation of India, PM Modi referred to the original copy of the Constitution, which includes images of Lord Ram and Mother Sita. These images, he explained, symbolize the core human values that continue to guide India’s policies and decisions today.
+The Prime Minister also addressed challenges to the Constitution, particularly referencing the Emergency imposed by the Indira Gandhi government. He reflected on his government’s historic decision to abrogate Article 370 in Jammu and Kashmir, which he said ensured full implementation of the Constitution in the region. “It’s the power of the Constitution that today, in Jammu and Kashmir, Babasaheb Ambedkar’s Constitution is fully implemented,” he said.
+PM Modi acknowledged the significant transformation India is undergoing, with the Constitution serving as a beacon during this period of change. He quoted Dr. B.R. Ambedkar, who famously stated during the Constituent Assembly debates, “The Constitution is not a mere lawyer’s document. Its spirit is always the spirit of age.” This spirit, according to the Prime Minister, continues to guide India’s progress.
+During the Constitution Day celebrations, Chief Justice of India Sanjiv Khanna presented a painting made by a prisoner from Tihar Jail to PM Modi. The Prime Minister also released the Annual Report of the Indian Judiciary 2023-24, marking another significant milestone in the country’s judicial journey.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/terrorist-organizations-challenging-indias-security-will-face-befitting-reply-pm-modi-on-constitution-day/
+Fetch Time: 2024-11-27 02:43:59
+
+Title: Amit Sadh returns with the thrilling season 2 of ‘motorcycles saved my life’
+Publication Date: Tue, 26 Nov 2024 15:53:52 +0000
+Content: Amit Sadh, the Bollywood actor renowned for his passion for motorcycling, is back with the much-anticipated Season 2 of “Motorcycles Saved My Life (MSML).” Building on the success of the first season, which followed his transformative 5,288-kilometer solo journey through Kinnaur, Spiti, Zanskar Valley, and Leh, the new season ventures even deeper into the rugged beauty of Leh and Ladakh, offering an experience filled with raw adventure and profound personal discovery.
+In the first season, Amit took viewers on a thrilling ride through breathtaking landscapes. But for Season 2, he pushes beyond the well-trodden paths, venturing into hidden corners of the Himalayas, from remote villages to untouched plains, and exploring locations that are steeped in rich culture and history.
+This season takes audiences on an intimate journey through the tranquility of Pangong Lake, the ancient meditation caves of Alchi, and the nomadic settlements of the Kharnak Valley, revealing the unfiltered essence of adventure and the deep human connections found along the way.
+Speaking about the second season, Amit shared said, “Motorcycles Saved My Life is more than just a ride—it’s a journey into the soul. Season 1 was transformative, but this time, I’ve ventured even further into the unknown. It’s about pushing boundaries, embracing the wild, and finding connections in the most unexpected places. Whether it’s sharing moments with nomads or exploring untouched landscapes, this season is a celebration of the freedom and joy that riding brings.”
+Season 2 of “Motorcycles Saved My Life”
+Reflecting on his transformative journey in Season 1, Amit recalls how his ride on the Triumph Tiger wasn’t merely a test of endurance but a quest for deeper connection with nature, the people he met, and himself. For Amit, MSML became more than a television series—it was a platform for him to showcase his authentic self and invite his fans to join him on a deeply personal journey of growth and discovery.
+Season 2, however, takes this philosophy to a whole new level, as Amit pushes into even more remote and untouched locations in Ladakh. The landscapes he encounters are nothing short of otherworldly—vast plains, isolated villages, and locations that seem frozen in time. Amidst this raw beauty, Amit finds profound moments of connection with nature and the people who inhabit these remote areas, offering a glimpse into a way of life that remains largely untouched by modernity.
+One of the highlights of this season includes Amit’s time spent at Tso Kar, where he not only immersed himself in the serene surroundings of the village of Thukje but also got a taste of the nomadic lifestyle. There, he forged meaningful connections with locals, who shared their unique ways of life, deepened by their enduring relationship with the land.
+Amit’s emotional journey continued in Kharnak Valley, where he met Chopel Ji, the Goba, or leader, of the nomads of Thukje. In their temporary settlement, Amit learned firsthand about the sacrifices and resilience required to live in such a harsh environment. He was moved by the strength of their culture and the quiet dignity they carried, even in the face of the challenges of their nomadic existence.
+A Journey of Self-Discovery
+Throughout his journey, Amit had several opportunities to witness the region’s rich wildlife. On the remote plains, he encountered blue sheep, kiyangs (wild horses), and herds of goats, underscoring the pristine, untouched nature of Ladakh and its thriving ecosystem. Amit also had an unforgettable camping experience at Merak Village, on the peaceful southern banks of Pangong Lake. There, under the stars, he braved the icy waters of the lake, and in a rare and magical moment, witnessed a double rainbow, a sight that reinforced the wonder and beauty of the region.
+One of the season’s most touching moments occurred when Amit met a group of international motorcyclists at Merak. Despite their diverse backgrounds, a shared love for riding created an instant bond among them. Amit remarked that the shared passion for motorcycles bridges cultural and geographic divides, creating connections that transcend borders.
+Another highlight was his visit to Thiksey, where Amit engaged in a profound conversation with a senior Lama. The Lama’s calm demeanor and insightful wisdom had a lasting impact on Amit, prompting deep reflection on his own journey and personal growth.
+While exploring the Buddhist meditation caves of Alchi, Amit was struck by the rich history and spiritual energy of the place. However, he also noticed something that troubled him deeply—graffiti and names scribbled on the walls of the caves. The disrespect shown to such sacred spaces left him uneasy, underscoring the importance of preserving and honoring the cultural and spiritual heritage of these sacred sites.
+Spiritual Reflections
+Throughout the season, Amit’s journey was marked by moments of introspection and growth. For him, Motorcycles Saved My Life is more than just about crossing kilometers or ticking off destinations from a list. It’s about experiencing life in its rawest form, embracing the freedom that riding offers, and finding beauty in both the landscapes and the people encountered along the way.
+As Amit put it, “Riding isn’t just about the destination; it’s about the joy, the freedom, and the connection I feel with the road and the bike beneath me. It’s about finding the beauty in the landscapes, the people I meet, and even the challenges I face along the way.”
+The philosophy behind MSML aligns seamlessly with Reise Moto, a key collaborator for the series. The company’s tagline, “The Joy of Riding,” resonates deeply with Amit’s approach to motorcycling and exploration. Through this collaboration, both Amit and Reise Moto seek to inspire viewers to embrace the thrill of adventure and the unparalleled joy that comes from connecting with the world through the lens of a motorcycle.
+“Life is a Ride”
+Beyond his work on Motorcycles Saved My Life, Amit Sadh has a busy year ahead, with several exciting film projects lined up. He is set to appear in two much-anticipated movies: Pune Highway, a gripping thriller directed by Bugs Bhargav and produced under the 10 Years Younger Productions banner, and Pratap, an action-packed drama by UV Films where Amit plays an encounter specialist in a high-stakes, powerful role. Both films showcase Amit’s impressive range as an actor and promise to keep audiences on the edge of their seats.
+But for Amit, Motorcycles Saved My Life is more than just a show—it’s a movement. Through every episode, he invites viewers to join him in embracing the joy of adventure, reconnecting with their inner spirit, and experiencing the transformative power of exploration. As he eloquently put it, “Life is a ride. It’s not about getting from point A to point B; it’s about enjoying the journey, the people you meet along the way, and the moments that make life unforgettable.”
+Link: https://ddnews.gov.in/en/amit-sadh-returns-with-the-thrilling-season-2-of-motorcycles-saved-my-life/
+Fetch Time: 2024-11-27 02:43:59
+
+Title: Election Commission announces bypolls for six Rajya Sabha seats on December 20
+Publication Date: Tue, 26 Nov 2024 14:50:49 +0000
+Content: The Election Commission of India has announced bypolls for six vacant Rajya Sabha seats, with elections scheduled for December 20. The results will be declared the same day.
+The six vacancies include three seats from Andhra Pradesh and one each from Odisha, West Bengal, and Haryana. All the seats became vacant following the resignations of their respective members.
+The Election Commission has set December 10 as the last date for filing nominations, with the deadline for withdrawing candidature on December 13.
+The resignations that led to the bypolls are those of Venkataramana Rao Mopidevi, Beedha Masthan Rao Yadav, and Ryaga Krishnaiah from Andhra Pradesh; Sujeet Kumar from Odisha; Jawhar Sircar from West Bengal; and Krishan Lal Panwar from Haryana.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/election-commission-announces-bypolls-for-six-rajya-sabha-seats-on-december-20/
+Fetch Time: 2024-11-27 02:43:59
+
+Title: Seven NDRF teams deployed as IMD warns of heavy rain in Tamil Nadu and Puducherry
+Publication Date: Tue, 26 Nov 2024 14:34:24 +0000
+Content: In anticipation of heavy to very heavy rainfall over the next three days, seven teams from the 4th Battalion of the National Disaster Response Force (NDRF), each comprising 30 rescuers and two canine units, have been mobilized across Tamil Nadu and Puducherry. The teams are set to be deployed in key districts, including Karaikal, Thanjavur, Tiruvarur, Cuddalore, Nagapattinam, and Mayiladuthurai, to assist in rescue and relief operations.
+The Regional Meteorological Centre (RMC) in Chennai reported on Tuesday that a depression over the southwest Bay of Bengal has intensified into a deep depression and is likely to develop into a cyclonic storm by Wednesday, November 27. The system is expected to move northwards toward the Tamil Nadu coast, skirting Sri Lanka’s coastline.
+S. Balachandran, Director of the RMC, Chennai, confirmed the development, saying, “The depression intensified into a deep depression this morning and is likely to strengthen into a cyclonic storm. Continuous monitoring is underway to track its movement and intensification.”
+The India Meteorological Department (IMD) has issued multiple weather alerts, including a red alert for extremely heavy rainfall in Mayiladuthurai, Nagapattinam, and Tiruvarur on November 26, extending to two other districts on November 27. Chennai has been placed under a yellow alert for heavy rain from November 27 to 29, with neighboring districts, including Kancheepuram, Tiruvallur, and Chengalpattu, under yellow and orange alerts until November 30.
+The city of Chennai and its suburbs have already experienced widespread rainfall, leading to waterlogging in several areas. Streets remain inundated with rainwater mixed with sewage, causing disruptions and forcing residents to remain indoors. Schools and colleges in multiple districts, including Nagapattinam, Mayiladuthurai, and Tiruvarur, have been closed as a precautionary measure.
+The IMD has forecast intense rainfall activity for November 26, with extremely heavy rain expected in Mayiladuthurai, Nagapattinam, Tiruvarur, and Karaikal. Heavy to very heavy rain is also predicted for isolated locations in Chennai, Tiruvallur, Kancheepuram, Chengalpattu, Villupuram, Cuddalore, and Puducherry.
+For November 27, light to moderate rain accompanied by thunderstorms and lightning is expected in most parts of Tamil Nadu, Puducherry, and Karaikal. On November 28, similar weather conditions are forecast, particularly in coastal Tamil Nadu and parts of interior Tamil Nadu.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/seven-ndrf-teams-deployed-as-imd-warns-of-heavy-rain-in-tamil-nadu-and-puducherry/
+Fetch Time: 2024-11-27 02:43:59
+
+Title: Constitution has lived up to every expectation and need of country: PM Modi
+Publication Date: Tue, 26 Nov 2024 13:58:41 +0000
+Content: Prime Minister Narendra Modi on Tuesday lauded the Indian Constitution as a guiding light that has lived up to the nation’s expectations and needs, highlighting its role in shaping India’s transformation. Speaking at the Constitution Day celebrations held in the Supreme Court, the Prime Minister emphasized the Constitution’s enduring relevance in steering the country through monumental changes.
+“Our Constitution has fulfilled every expectation and need of the country. It is due to its power that the vision of Baba Saheb’s Constitution has been fully realized in Jammu and Kashmir,” PM Modi said, referring to the complete implementation of the Indian Constitution in the region following the abrogation of Article 370. He added that for the first time, Constitution Day was also celebrated in Jammu and Kashmir, marking a historic milestone.
+The Prime Minister underscored the transformative phase India is currently experiencing and attributed this progress to the Constitution’s guiding principles. Quoting Dr. B.R. Ambedkar, the chief architect of the Constitution, he said, “The Constitution is not a mere lawyer’s document; its spirit is always the spirit of the age.”
+PM Modi also paid homage to the victims of the 26/11 Mumbai terror attacks, which coincides with Constitution Day, and issued a stern warning to terrorist organizations. “Those who challenge India’s security will face a befitting response. I pay tribute to those who lost their lives in the Mumbai terror attack and reiterate the country’s commitment to safeguarding its security.”
+As part of the celebrations, Chief Justice of India Sanjiv Khanna presented PM Modi with a painting created by a prisoner from Tihar Jail. Additionally, the Prime Minister released the Annual Report of Indian Judiciary 2023-24, showcasing the judiciary’s achievements and initiatives over the past year.
+Marking the 75th year of the adoption of the Indian Constitution, PM Modi expressed pride in the nation’s journey, saluting the members of the Constituent Assembly who laid the foundation for a modern, democratic India. “This Constitution is our guiding light, ensuring that our democracy thrives and our nation progresses,” he said.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/constitution-has-lived-up-to-every-expectation-and-need-of-country-pm-modi/
+Fetch Time: 2024-11-27 02:43:59
+
+Title: World’s oldest man dies aged 112 in England
+Publication Date: Tue, 26 Nov 2024 13:44:48 +0000
+Content: John Tinniswood, an Englishman born the same year the Titanic sank and who survived two world wars and two global pandemics, has died aged 112, Guinness World Records said on Tuesday, months after it recognised him as the world’s oldest man.
+Tinniswood passed away on Monday at a care home in Southport, northwest England, surrounded by “music and love”, his family told Guinness World Records in a statement.
+“John had many fine qualities. He was intelligent, decisive, brave, calm in any crisis, talented at maths and a great conversationalist,” his family said.
+Born in August 1912 in Liverpool, he went on to meet his wife Blodwen at a dance before marrying her in 1942, at the height of World War II when he served in the Royal Army Pay Corps, which was responsible for finances and food supplies.
+Tinniswood, who is survived by a daughter, four grandchildren and three great-grandchildren, later worked as an accountant in the oil industry before retiring aged 60. His wife died in 1986.
+From the age of 100 to 110 he received a birthday card each year from the late Queen Elizabeth, who was 14 years his junior. She died in 2022.
+Besides eating a portion of his favourite food (battered fish and chips) every Friday, Tinniswood followed no special diet.
+He stayed mentally active, keeping up with the news and managing his own finances, which may have contributed to his longevity, Guinness World Records said.
+When Guinness World Records awarded him the title of world’s oldest man in April this year, Tinniswood said there was no huge secret to his longevity, insisting it was “just luck”.
+“You either live long or you live short, and you can’t do much about it,” he said.
+(Reuters)
+Link: https://ddnews.gov.in/en/worlds-oldest-man-dies-aged-112-in-england/
+Fetch Time: 2024-11-27 02:43:59
+
+Title: Bangladeshi cybercriminals target ISKCON’s spiritual media platforms after arrest of Hindu priest
+Publication Date: Tue, 26 Nov 2024 12:48:56 +0000
+Content: Hours after Bangladeshi authorities arrested and sent Hindu priest Chinmoy Krishna Das Brahmachari to jail, ISKCON Bangladesh reported on Tuesday that its official social media page—critical for the promotion of Sanatan Dharma and the well-being of the Hindu community in the country—has been targeted by cybercriminals.
+In a social media post, Charu Chanda Das Brahmachari, Secretary General of ISKCON Bangladesh, revealed that the organization’s official Facebook page, ISKCON TV Dhaka, had been maliciously attacked and removed by a group calling itself “Cyber Defender Bangladesh.” This group, claiming to be cybersecurity experts, publicly took responsibility for the attack, which violates Facebook’s policies and constitutes cyber harassment of the Hindu community.
+“Unfortunately, our ISKCON TV Dhaka page was targeted and taken down by this group. This platform is integral for promoting Sanatan Dharma, ISKCON’s teachings, and Hindu spiritual values. Such acts are deeply distressing and unacceptable,” said Charu Chanda Das.
+The attack was not limited to ISKCON TV Dhaka. Other significant platforms, including Mayapur TV, Jayapataka Swami Bangla, and the ISKCON Youth Forum Sylhet, were also targeted, causing widespread disruption.
+In response, ISKCON has taken immediate action. “We have filed a General Diary (GD) with the Bangladesh Police and are in continuous communication with the Cyber Crime Investigation Department, DMP, Dhaka. The Deputy Commissioner of Cyber Crime Investigation has assured us of strict action against the perpetrators. We trust their support and are hopeful for swift justice,” Charu Chanda Das said.
+He also highlighted the efforts of Garuda Cyber Shield, a team of dedicated Hindu cyber experts providing voluntary support to safeguard ISKCON’s online platforms. While the team successfully restored the ISKCON TV Dhaka page once, it was taken down again by the attackers. “Despite this setback, Garuda Cyber Shield continues its efforts to restore the page and enhance its security. Cyber harassment is a crime, and such attacks on religious platforms should not be tolerated,” he emphasized.
+Charu Chanda Das also criticized Bangladeshi authorities for arresting Hindu priest Chinmoy Krishna Das Brahmachari, who is closely associated with ISKCON Bangladesh.
+The priest was detained by the Detective Branch (DB) of Dhaka Metropolitan Police at Hazrat Shahjalal International Airport on Monday. He was produced before Judge Kazi Shariful Islam of Chittagong’s 6th Metropolitan Magistrate Court on Tuesday morning, where his bail plea was rejected, and he was sent to jail.
+ISKCON Bangladesh, along with other Hindu organizations, has condemned the arrest, urging the Indian government to intervene. In a statement released late Monday, ISKCON said, “It is outrageous to make baseless allegations that ISKCON has anything to do with terrorism anywhere in the world. ISKCON is a peace-loving Bhakti movement. We urge the Indian government to speak to the Bangladeshi authorities and ensure the immediate release of Chinmoy Krishna Das.”
+The organization further highlighted its prayers to Lord Krishna for the protection of devotees and reaffirmed its commitment to promoting harmony and spirituality despite the challenges posed by such attacks.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/bangladeshi-cybercriminals-target-iskcons-spiritual-media-platforms-after-arrest-of-hindu-priest/
+Fetch Time: 2024-11-27 02:43:59
+
