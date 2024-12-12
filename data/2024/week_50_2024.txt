@@ -1080,3 +1080,166 @@ The minister also advocated for the adoption of ethanol as an alternative fuel, 
 Link: https://ddnews.gov.in/en/changes-in-cost-of-fuel-and-road-can-bring-the-logistics-cost-to-9-nitin-gadkari/
 Fetch Time: 2024-12-11 07:36:11
 
+Title: Hackathons solve big problems: PM Modi
+Publication Date: Wed, 11 Dec 2024 17:33:00 +0000
+Content: Prime Minister Narendra Modi praised the transformative impact of technological solutions developed through the Smart India Hackathon while addressing participants of its 2024 edition via video conferencing on Wednesday. The event, a flagship initiative by the Ministry of Education, has become a hub for young innovators to tackle real-world challenges through creativity and collaboration.
+In its 7th edition, the Smart India Hackathon has empowered students nationwide to devise innovative solutions, collaborating with government and industry stakeholders.
+“Many of the solutions from the hackathons held in the last seven years are proving to be highly beneficial for the people of the country today,” PM Modi said.
+During an hour-long interaction, PM Modi encouraged participants, calling them the next generation of problem-solvers. He emphasized the importance of nurturing a scientific mindset and fostering innovation across all sectors, urging youth to adopt out-of-the-box thinking as a regular practice.
+The Prime Minister also referenced the recently approved One Nation One Subscription scheme, designed to make scholarly research articles and journals accessible across India. The scheme, with an allocation of ₹6,000 crore for 2025-2027, ensures that young innovators have access to critical information resources.
+PM Modi reaffirmed the government’s commitment to empowering youth through initiatives like the National Education Policy 2020, which aims to cultivate scientific temper and creativity from an early age.
+“The world recognizes India’s strength lies in its youth and their innovative prowess,” he added, pledging to equip young minds with the necessary tools and resources to meet the country’s aspirations. “For every challenge, India demands innovative approaches, and this hackathon exemplifies how the process of innovation is as crucial as the product itself,” he added.
+(ANI)
+Link: https://ddnews.gov.in/en/hackathons-solve-big-problems-pm-modi/
+Fetch Time: 2024-12-12 02:46:00
+
+Title: India committed to ethical AI and combating fake news: Ashwini Vaishnaw
+Publication Date: Wed, 11 Dec 2024 16:43:32 +0000
+Content: Union Minister for Electronics and Information Technology, Ashwini Vaishnaw, emphasized India’s commitment to tackling ethical challenges in artificial intelligence (AI) and combating fake news on social media.
+Addressing the Parliament, he called for robust debates and responsible innovation to address these global concerns, while proposing accountability measures for social media platforms.
+He stressed the need for a balanced approach, saying, “Freedom of speech and accountability must coexist. If society and this House agree, we can work towards framing a new law to ensure responsible communication in the digital age.”
+Vaishnaw also addressed concerns about privacy and AI governance, highlighting the government’s proactive steps to develop indigenous technologies under the ‘India AI Mission.’
+“To address the emerging landscape of AI, we have initiated eight projects aimed at creating tools and technologies within the country,” he added.
+Highlighting India’s global leadership in AI, the minister said that the country is one of the leading ones in shaping global thought on AI governance.
+“India’s voice continues to hold weight in shaping global thought on AI governance,” he said, adding that the tools developed under the ‘India AI Mission’ will help ensure the country stays at the forefront of responsible AI innovation.
+Link: https://ddnews.gov.in/en/ethical-ai-challenges-and-social-media-accountability-ashwini-vaishnaw/
+Fetch Time: 2024-12-12 02:46:00
+
+Title: Continuity, inclusion, and innovation will be priorities, says RBI Governor Sanjay Malhotra
+Publication Date: Wed, 11 Dec 2024 16:10:58 +0000
+Content: Sanjay Malhotra, the newly appointed Governor of the Reserve Bank of India (RBI), outlined his vision for the central bank after assuming office on Wednesday. Malhotra emphasized that his tenure would focus on policy continuity, financial inclusion, and innovation while addressing the evolving challenges of the global economy.
+ 
+Reflecting on the RBI’s legacy, Malhotra acknowledged the institution’s significant responsibility and the contributions it has made over the years. “It is a huge responsibility,” he said, stressing the need for stability in policy frameworks. “Stability in policy is very, very important… Even in my previous role, we worked to ensure continuity in taxation, fiscal, and monetary policies. Businesses and individuals need continuity and stability rather than day-to-day changes.”
+ 
+Malhotra highlighted the necessity of remaining agile in a rapidly changing world, given the complexities posed by geopolitical tensions, climate change, and economic uncertainties. “We cannot be stuck to continuity alone. While maintaining stability, we must remain alert and agile,” he said.
+ 
+“We do maintain Continuity and stability. We cannot be stuck to it and we have to be alert and agile,” he added.
+ 
+Reiterating the RBI’s commitment to financial inclusion, Malhotra noted the progress achieved so far but acknowledged the need for further collaboration with stakeholders. “There is still more to be done,” he said. 
+ 
+“We will work with regulators, governments, and other stakeholders to ensure that the benefits of financial inclusion reach everyone.”
+ 
+RBI Governor Malhotra pointed to India’s success with the Unified Payments Interface (UPI) and its growing global recognition. “How we can further use technology to reduce costs and make financial inclusion more accessible and pervasive and innovation will be a key (priority).”
+ 
+“Innovation will be key, but we must be conscious of the risks it may entail,” he said. “We will put in place requisite safeguards and guardrails to ensure that innovation thrives without unintended consequences.”
+ 
+Malhotra stressed the importance of consultation in policymaking, emphasizing that expertise is not confined to any single institution. “Consultation will remain a key pillar of our policymaking process,” he said, pledging to continue the RBI’s practice of engaging with stakeholders to uphold public trust and ensure decisions align with the public interest.
+ 
+Succeeding Shaktikanta Das, who led the RBI since December 2018 and played a pivotal role during the COVID-19 pandemic, Malhotra brings a wealth of experience in economic and financial matters to his new role. As the head of the RBI, he is expected to focus on maintaining inflation targets, fostering economic growth, and ensuring the resilience of India’s financial sector amid global challenges.
+ 
+(ANI)
+Link: https://ddnews.gov.in/en/continuity-inclusion-and-innovation-will-be-priorities-says-rbi-governor-sanjay-malhotra/
+Fetch Time: 2024-12-12 02:46:00
+
+Title: 8.6 lakh candidates enrolled in ‘IndiaAI Future Skills’ initiative: IT Minister
+Publication Date: Wed, 11 Dec 2024 14:48:55 +0000
+Content: Union Minister for Electronics and Information Technology Ashwini Vaishnaw has announced that 8.6 lakh candidates have enrolled in the IndiaAI Future Skills platform, a program aimed at democratizing Artificial Intelligence (AI) education and skilling.
+The IndiaAI Mission, built on seven foundational pillars, seeks to make AI technology accessible to all, fostering inclusivity and innovation. Vaishnaw underscored the transformative potential of this mission in democratizing AI and its applications.
+The Future Skills initiative, developed in partnership with industry stakeholders, provides cutting-edge training programs tailored to meet evolving industry demands. This effort aims to create a workforce ready to navigate the AI-driven future.
+A key focus of the initiative is decentralizing technology by empowering Tier 2 and Tier 3 cities. Vaishnaw shared that AI Data Labs are being established in cities such as Gorakhpur, Lucknow, Shimla, Aurangabad, Patna, Buxar, and Muzaffarpur. This move aims to spread technological advancements across the country, ensuring they are not limited to urban hubs.
+The government is also creating an ecosystem that supports startups, AI labs, 5G facilities, and semiconductor training centers, ensuring technological opportunities are evenly distributed nationwide.
+Highlighting the vast potential of AI, Vaishnaw emphasized its role in transforming critical sectors such as agriculture, education, healthcare, logistics, and finance. By developing AI solutions tailored to India’s unique challenges, the government aims to enhance productivity and improve lives.
+“AI’s most impactful applications will be in sectors that directly influence people’s lives. These solutions will address the specific needs of our country,” Vaishnaw added.
+Link: https://ddnews.gov.in/en/8-6-lakh-candidates-enrolled-in-indiaai-future-skills-initiative-it-minister/
+Fetch Time: 2024-12-12 02:46:00
+
+Title: bauma CONEXPO INDIA 2024 kicks off with a grand opening
+Publication Date: Wed, 11 Dec 2024 14:44:34 +0000
+Content: India’s premier construction, mining, and infrastructure trade fair, bauma CONEXPO INDIA 2024, opened with grandeur at the India Expo Centre, Greater Noida. The event brought together top industry leaders, policymakers, and global delegates, setting a dynamic tone for India’s infrastructure growth story.
+Union Minister for Road Transport and Highways, Nitin Gadkari, inaugurated the event by lighting the ceremonial lamp and unveiling the exhibition catalogue. In his keynote address, Gadkari outlined his vision for India’s infrastructure development, emphasizing sustainable technologies and innovative practices.
+Among the dignitaries present were Narender Kumar Kardam, Director of the Border Roads Organisation; Manoj Bapna, Joint DG Works of the Military Engineering Service; Dimitrov Krishnan, Chairman of bauma CONEXPO INDIA 2024 and Managing Director of Volvo CE India Pvt. Ltd.; Bhupinder Singh, CEO of Messe Muenchen India; K. Vishwanathan, All India President of the Builders Association of India; Vinayak Pai, President of the Construction Federation of India and MD & CEO of TATA Projects Ltd.; and Arvind Garg, Immediate Past Chairman of bauma CONEXPO INDIA and Senior Executive Vice President & Head of the Construction & Mining Machinery Business at Larsen & Toubro Ltd.
+Nitin Gadkari, during his speech, underscored India’s position as the world’s third-largest construction equipment market, producing 1.35 lakh units annually. He said that this figure is projected to grow to 2.5 lakh units by 2030. With current exports valued at ₹6,700 crore and estimated investments of ₹32,000 crore, the industry’s future looks promising.
+Gadkari urged industry leaders to prioritize investments in research and development (R&D) for advanced technologies and innovative designs. He also advocated for the adoption of alternative fuels like biodiesel, ethanol, LNG, hydrogen, and methanol to reduce carbon emissions and enhance sustainability.
+He highlighted the growing global recognition of India’s high-quality, cost-effective machinery, with many international companies opting for equipment made in India, even in advanced markets like the US. He stressed the importance of exploring export opportunities through innovative and economical solutions.
+“Our highway development projects are transforming India’s transportation network. Projects like the Mumbai-Delhi Expressway, Delhi-Dehradun Expressway, and Kashmir-Kanyakumari Highway—with multiple tunnels, expressways, and bypasses—are reducing travel time and enhancing logistics efficiency. By 2025, we aim to lower India’s logistics cost from 14-16% to 9%, making the country globally competitive,” he added.
+The Minister called on industry players to invest heavily in R&D to ensure long-term success and global competitiveness. He outlined four guiding principles for businesses: proven technology, economic viability, availability of raw materials, and marketability of finished products.
+“Once again, I congratulate everyone on this exceptional industry platform. I look forward to seeing this sector grow by 60% or more in the coming years. Let’s work together to build a stronger, cleaner, and globally competitive India,” he added.
+Link: https://ddnews.gov.in/en/bauma-conexpo-india-2024-kicks-off-with-a-grand-opening/
+Fetch Time: 2024-12-12 02:46:00
+
+Title: COP16 in Riyadh: turning the tide on Desertification
+Publication Date: Wed, 11 Dec 2024 14:38:47 +0000
+Content: As the 16th session of the United Nations Convention to Combat Desertification (COP16) nears its conclusion in Riyadh, Saudi Arabia, the atmosphere is charged with urgency. Delegates are racing to finalize agreements that could redefine humanity’s approach to one of its most pressing environmental challenges: desertification and land degradation. With the conference wrapping up on December 13, the stakes have never been higher.
+A sobering new report reveals that over 75% of the Earth’s land has become permanently drier in recent decades. Incredibly, drylands have expanded by 4.3 million square kilometers, nearly one-third larger than India. This data highlights a global transformation of fundamental ecological systems, with devastating long-term implications.
+COP16, marking the 30th anniversary of the UNCCD, has seen several groundbreaking initiatives. The newly launched Riyadh Global Drought Resilience Partnership has already secured $2.15 billion in commitments, signaling a pivotal shift from reactive crisis management to proactive, long-term resilience building. Key contributors include the Islamic Development Bank and the OPEC Fund for International Development, alongside a commitment of $150 million from Saudi Arabia.
+India has emerged as a key player at COP16. Environment Minister Bhupender Yadav delivered a powerful address at the Ministerial Dialogue on Migration, linking land degradation to forced displacement. India’s “whole of ecosystem” strategy integrates traditional knowledge with cutting-edge technology, focusing on restoring 26 million hectares of degraded land by 2030. Notable programs include the Amrit Sarovars initiative for water body rejuvenation and the distribution of Soil Health Cards to farmers, all backed by AI, satellite technology, and GIS tools for soil and water management.
+A key development at the conference was the release of the World Drought Atlas, created with the European Commission Joint Research Centre. This resource offers 21 case studies and practical solutions for managing droughts. Additionally, the prototype for the International Drought Resilience Observatory was introduced, which will launch in 2026. This AI-powered platform will provide real-time data to help countries prepare for drought conditions.
+The financial costs of droughts are staggering. A report titled “Economics of Drought” revealed that droughts currently cost the global economy $307 billion annually, a figure that could rise significantly by 2050, when three-quarters of the world’s population will be affected. The good news, however, is that every dollar invested in nature-based solutions could generate up to $27 in benefits.
+Experts at COP16 have also expressed concern over the state of Earth’s ecosystems. The publication Stepping Back from the Precipice notes that six out of nine critical ecological thresholds have been breached, emphasizing the urgency of action. To restore over one billion hectares of land, experts estimate that $2.6 trillion will be needed by 2030. Africa alone requires $191 billion annually to restore 600 million hectares.
+A key focus of COP16 is the negotiation of a global drought resilience regime, a framework that could set binding commitments for international cooperation on drought resilience. This would mark a significant step in addressing future environmental challenges.
+As COP16 wraps up, UN Deputy Secretary-General Amina J. Mohammed’s statement serves as a reminder of the stakes: “By 2050, three in four people will be affected by drought worldwide. But you are in Riyadh to turn the tide.” The outcome of this conference has the potential to shape global efforts to preserve land and secure a sustainable future.
+Link: https://ddnews.gov.in/en/cop16-in-riyadh-turning-the-tide-on-desertification/
+Fetch Time: 2024-12-12 02:46:00
+
+Title: Bangladesh: Mitali Express returns to India after five months
+Publication Date: Wed, 11 Dec 2024 13:37:54 +0000
+Content: The Mitali Express, the inter-country train connecting Dhaka and New Jalpaiguri in India, has returned to India after being suspended for nearly five months.
+The train rakes re-entered India through the Chilahati-Haldibari border in Cooch Behar District of West Bengal on Wednesday morning amid heightened security measures, according to Bangladesh Railway sources.
+The Mitali Express, designated as train number 13132/31, originally left New Jalpaiguri for Dhaka on July 17 but had been unable to return due to the political unrest in Bangladesh. The disruption was caused by the Anti-Discrimination Student Movement in Bangladesh.
+According to the Dhaka Tribune newspaper, the train entered India’s Haldibari station from Chilahati in Nilphamari, Bangladesh, with assistance from a Bangladesh Railway engine. Once in Haldibari, the coaches were handed over to Indian authorities, and the engine returned to Chilahati.
+The Mitali Express is a vital passenger link between the two nations, particularly it connects Dhaka with Northern West Bengal and Sikkim, launched on June 1, 2022.
+Apart from the Mitali Express, there are two other passenger trains between India and Bangladesh: the Maitree Express, which connects Dhaka with Kolkata and the Bandhan Express connecting Khulna with Kolkata.
+Given the deteriorating law and order situation in Bangladesh, the Indian Railway has suspended all three Inter-country passenger trains for an indefinite period. The rakes of the Maitree Express and Bandhan Express are in India.
+Link: https://ddnews.gov.in/en/bangladesh-mitali-express-returns-to-india-after-five-months/
+Fetch Time: 2024-12-12 02:46:00
+
+Title: Bangladesh: No relief to Chinmoy Krishna Das, court rejects 3 petitions
+Publication Date: Wed, 11 Dec 2024 12:44:55 +0000
+Content: In Bangladesh, the Chattogram Metropolitan Sessions Judge’s Court has rejected three petitions filed by Supreme Court lawyer Advocate Rabindra Ghosh on behalf of Chinmoy Krishna Brahmachari.  The spokesperson for Bangladesh Sammilita Sanatani Jagaran Jote, Chinmoy Krishna Das, was arrested on sedition charges on November 25, from Dhaka Airport.
+ 
+The petitions sought an expedited hearing date for Chinmoy’s bail plea, the submission of case documents, and other related reliefs. However, the court dismissed them, citing the absence of a power of attorney (vakalatnama) from any member of the Chattogram Bar Association, according to Assistant Public Prosecutor (PP) Advocate Md. Raihanul Wazed Chowdhury, according to the media reports.
+ 
+However, advocate Rabindra Ghose said that there is an option of impunity for senior lawyers. “There is a High Court direction to allow senior lawyers to hear cases in absence of filing lawyers. The court could have accepted the petitions as I am a senior Supreme Court lawyer aging 75,” the Business Standard (TBS), a leading local newspaper quotes Advocate Ghose.
+ 
+“The lawyer defending Chinmoy has been framed in a case. Another lawyer’s chamber has been vandalized. Out of fear they are not in a position to appear in the court”, Rabindar Ghose alleged.
+ 
+He also alleged that a group of lawyers harassed him and assaulted outside the court. “I have been bullied and attacked by about 40 people wearing black coats. I doubt they are not lawyers, they are rather outsiders who harassed me for defending Chinmoy in the court”,  TBS quotes Advocate Ghose.
+ 
+The hearing, which began at 11:00am, witnessed a tense moment when Rabindra Ghosh referred to a deceased Chattogram Bar lawyer as merely “deceased” instead of “martyr.” This triggered protests from other lawyers present in the courtroom, causing a brief commotion, reports TBS.
+ 
+India has expressed hope that the trial will be ‘fair and transparent’ as the arrested Hindus have legal rights which should be respected. New Delhi has repeatedly appealed to officials of the interim government in Dhaka to ensure the safety of Hindus and all minorities.
+ 
+External Affairs Ministry spokesperson Randhir Jaiswal said last month, “The interim government must fulfill its responsibility to protect all minorities. We are concerned about the increasing incidents of extremist rhetoric, violence and incitement. These developments cannot be dismissed as mere media exaggeration. We once again call on Bangladesh to take all steps to protect minorities.”
+ 
+During his visit to Dhaka on Monday, Foreign Secretary Vikram Misri had conveyed to Dhaka the concerns related to the security and welfare of minorities during his meetings with Bangladesh’s interim government’s Chief Advisor Muhammad Yunus and Foreign Affairs Advisor Touhid Hossain.
+Link: https://ddnews.gov.in/en/bangladesh-no-relief-to-chinmoy-krishna-das-court-rejects-3-petitions/
+Fetch Time: 2024-12-12 02:46:00
+
+Title: National Maritime Heritage Complex a monumental tribute to India’s maritime history: Union Minister Sonowal
+Publication Date: Wed, 11 Dec 2024 12:11:14 +0000
+Content: The development of the National Maritime Heritage Complex at Gujarat’s Lothal is set to serve as a monumental tribute to India’s ancient maritime history, bringing to life the technological advancements, trade routes, and cultural exchanges that our ancestors pioneered, Union Minister for Ports and Shipping, Sarbananda Sonowal, said on Wednesday.
+
+Speaking at the India Maritime Heritage Conclave held in the national capital, the Union Minister said the development of NMHC aligns perfectly with the Prime Minister’s vision of a new India, where the country is not only reclaiming its past but also preparing for a future where it can be a dominant force in the maritime sector.
+
+“Lothal, one of the important Harappan cities, was a thriving maritime hub over 5,000 years ago. 
+The National Maritime Heritage Complex will serve as a monumental tribute to India’s ancient maritime history, bringing to life the technological advancements, trade routes, and cultural exchanges that our ancestors pioneered,” he added.
+
+The Union Cabinet in October approved the development of the National Maritime Heritage Complex (NMHC) at Lothal, Gujarat. 
+The project will be completed in two phases. The Cabinet also accorded in-principle approval for Phase 1B and Phase 2, as per the master plan, by raising funds through voluntary resources/contributions and executing them after the funds are raised.
+The construction of the Lighthouse Museum under Phase 1B will be funded by the Directorate General of Lighthouses and Lightships (DGLL).
+
+As per the Prime Minister’s vision to showcase India’s 4,500-year-old maritime heritage, the Ministry of Ports, Shipping, and Waterways (MoPSW) is setting up a world-class National Maritime Heritage Complex (NMHC) at Lothal.
+
+Vice President Jagdeep Dhankhar was also present at the conclave today. Speaking on the occasion, he said the museum was India’s commitment to owning its sea legacy.
+“Our maritime heritage is inextricably woven into the fabric of India’s ancient civilization. Southern dynasties like the Cholas revolutionized maritime commerce. The National Maritime Heritage Complex in Lothal exemplifies the very commitment to owning our sea legacy. It is gratifying to note that this is one of several initiatives taken by the government in the past decade in this direction. The maritime sector facilitates an extraordinary 95% of India’s trade volume. India is strategically developing its blue economy,” he said.
+The objective of this conclave is to delve into India’s past maritime heritage through insightful sessions, discussions, and compelling narratives that highlight the lives of coastal communities, trade routes, and pivotal maritime events that have played a vital role in shaping its cultural and economic trajectory.
+
+Spread across two days at Yashobhoomi, New Delhi, the conclave features a series of sessions exploring diverse themes, from ancient trade networks to contemporary maritime advancements.
+(With inputs from ANI)
+Link: https://ddnews.gov.in/en/national-maritime-heritage-complex-a-monumental-tribute-to-indias-maritime-history-union-minister-sonowal/
+Fetch Time: 2024-12-12 02:46:00
+
+Title: Blinken to testify in Congress on Afghanistan weeks before his term ends
+Publication Date: Wed, 11 Dec 2024 11:49:40 +0000
+Content: Secretary of State Antony Blinken will testify to a Republican-led House of Representatives committee on Wednesday on the August 2021 U.S. withdrawal from Afghanistan, ending a long dispute with the panel weeks before the end of his term.
+The House Foreign Affairs Committee and the State Department have have been wrangling over Blinken’s appearance for months. Panel Republicans voted in September – weeks before the presidential election – to recommend the top U.S. diplomat be held in contempt of Congress for failing to comply with a subpoena.
+The U.S.’s chaotic withdrawal from Afghanistan after 20 years of war became intensely politicized during the 2024 president campaign pitting President-elect Donald Trump against Vice President Kamala Harris.
+Trump, who returns to the White House on Jan. 20, has decried the withdrawal from Afghanistan and vowed to go after those responsible for it. During his campaign, he said he would ask for the resignation of every senior official “who touched the Afghanistan calamity.”
+Democrats have insisted some blame for the messy end of the war – less than seven months into Joe Biden’s presidency – should be laid at the feet of Trump, who began the withdrawal process by signing a deal with Afghanistan’s militant Islamist Taliban in 2020.
+The State Department had contended the Foreign Affairs panel was provided with large amounts of information, with Blinken testifying before Congress on Afghanistan more than 14 times and the department providing nearly 20,000 pages of records, multiple high-level briefings and transcribed interviews.
+The committee’s chairman, Representative Michael McCaul, released a report on Sept. 8 on a Republican investigation of the Afghanistan withdrawal, blasting Biden’s administration for failures surrounding the evacuation.
+“While I wish he had not delayed this crucial appearance until the end of his tenure as head of the State Department, I look forward to hearing his testimony and asking poignant questions to help House Republicans and the next administration ensure nothing like this ever happens again,” McCaul said in a statement.
+(Reuters)
+Link: https://ddnews.gov.in/en/blinken-to-testify-in-congress-on-afghanistan-weeks-before-his-term-ends/
+Fetch Time: 2024-12-12 02:46:00
+
