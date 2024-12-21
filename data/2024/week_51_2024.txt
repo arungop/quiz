@@ -2863,3 +2863,186 @@ The formal exercise for preparing the Budget for the next financial year has alr
 Link: https://ddnews.gov.in/en/finance-minister-nirmala-sitharaman-holds-pre-budget-meeting-in-jaisalmer/
 Fetch Time: 2024-12-21 07:33:25
 
+Title: Indian diaspora, 101-year-old former IFS officer greet PM Modi on arrival in Kuwait Kuwait City
+Publication Date: Sat, 21 Dec 2024 12:28:55 +0000
+Content: The Indian community gave a rousing reception to Prime Minister Narendra Modi as he arrived at his hotel in Kuwait City on Saturday afternoon, shortly after he touched down in the Gulf nation, kicking off his historic two-day visit, the first by an Indian PM to the country in 43 years.
+Among those who met Prime Minister Modi warmly was 101-year-old Mangal Sain Handa, a former Indian Foreign Service (IFS) officer, who now resides in Kuwait and had served in Kuwait, United Kingdom, Iraq, China, Argentina, and Cambodia before retiring about four decades ago.
+PM Modi not only exchanged greetings with Handa but also posed for photos with his family.
+On Friday, Handa’s granddaughter, Shreya Juneja had posted a message for PM Modi, requesting him to meet her grandfather during his visit to Kuwait.
+On Saturday, just before he boarded Air India One, Prime Minister Modi, who enjoys a massive following not just in the country but also all over the world and loves to give a personal touch to his engagement with the Indian diaspora during foreign visits, responded to Juneja’s social media post.
+“Absolutely! I look forward to meeting Mangal Sain Handa Ji in Kuwait today,” wrote PM Modi.
+The Prime Minister also received copies of Ramayana and Mahabharata translated in Arabic language by Abdullah Baron and published by Abdullateef Alnesef.
+The Indian community, the largest expatriate group in Kuwait, continues to play a pivotal role in strengthening bilateral relations.
+In his departure statement on Saturday, PM Modi had mentioned that his visit would be an opportunity to chalk out a roadmap for a futuristic partnership for the benefit of people and the region.
+“I eagerly look forward to meeting the Indian diaspora in Kuwait who have immensely contributed to the strengthening of bonds of friendship between the two nations,” said Prime Minister Modi.
+The Prime Minister is also scheduled to interact with the Indian diaspora at a community event besides visiting a labour camp during his two-day visit to the West Asian nation.
+(IANS)
+Link: https://ddnews.gov.in/en/indian-diaspora-101-year-old-former-ifs-officer-greet-pm-modi-on-arrival-in-kuwait-kuwait-city/
+Fetch Time: 2024-12-21 13:33:05
+
+Title: Ukraine collects vast war data trove to train AI models
+Publication Date: Sat, 21 Dec 2024 12:28:00 +0000
+Content: As the future of warfare pivots towards artificial intelligence, Ukraine is sitting on a valuable resource: millions of hours of footage from drones which can be used to train AI models to make decisions on the battlefield.
+AI has been deployed by both sides on the battlefield during Russia’s invasion of Ukraine to identify targets, scanning images far quicker than a human can.
+Oleksandr Dmitriev, founder of OCHI, a non-profit Ukrainian digital system which centralises and analyses video feeds from over 15,000 drone crews working on the frontlines, told Reuters his system had collected 2 million hours, or 228 years, of battlefield video from drones since 2022.
+That will provide vital data for AI to learn from.
+“This is food for the AI: If you want to teach an AI, you give it 2 million hours (of video), it will become something supernatural.”
+According to Dmitriev, the footage can be used to train AI models in combat tactics, spotting targets and assessing the effectiveness of weapons systems.
+“It is essentially experience which can be turned into mathematics,” he said, adding that an AI program can study the trajectories and angles at which weapons are most effective.
+The system was originally made in 2022 to give military commanders an overview of their areas of the battlefield by showing them drone footage from all nearby crews side by side on one screen.
+After the system was rolled out, the team running it realised that video being sent back by drones could prove useful as a record of the war – so they began to store it.
+On average, Dmitriev said five or six terabytes of new data were added every day from the fighting.
+IMAGE QUALITY
+Dmitriev said he was talking with representatives from some of Ukraine’s foreign allies that had expressed interest in his OCHI system, but declined to provide details.
+Samuel Bendett, adjunct senior fellow at the U.S.-based Center for a New American Security, said such a vast pool of data would be extremely valuable in teaching AI systems to identify what exactly they are seeing, and what steps they should take.
+“Humans can do this intuitively, but machines cannot, and they have to be trained on what is or isn’t a road, or a natural obstacle, or an ambush,” he said.
+Kateryna Bondar, a fellow at Wadhwani AI centre at the Centre for Strategic and International Studies, said the size of the data set and the image quality were important, as AI models learned to recognise targets based on shapes and colours.
+Bondar said that the dataset was valuable in the context of training to fight Russia. However, she said U.S. officials and drone makers prefer a dataset that trains AI systems to operate in the Pacific against a potential Chinese adversary.
+“(They want) systems ready and able to fight against China because that’s the main priority for the U.S. right now, rather than getting a lot of footage of Ukrainian fields and forests.”
+Ukraine also has another system, called Avengers, developed by its defence ministry, which centralises and collects video from drones and CCTV.
+The ministry declined to provide information about this system. However, it has previously said that Avengers spots 12,000 Russian pieces of equipment a week using AI identification tools.
+Thousands of drones are already using AI systems to fly themselves into targets without human piloting, and Ukraine is using AI technologies to help demine its territory.
+Ukrainian companies are developing drone swarms, where a computer system will be able to execute commands for an interlinked cloud of dozens of drones.
+Russia has also touted its use of battlefield AI, most notably for target recognition in Lancet strike drones, which have proved lethal against Ukrainian armoured vehicles.
+(Reuters)
+Link: https://ddnews.gov.in/en/ukraine-collects-vast-war-data-trove-to-train-ai-models/
+Fetch Time: 2024-12-21 13:33:05
+
+Title: Shooting sport: India to host ISSF Junior World Cup for the first time in 2025
+Publication Date: Sat, 21 Dec 2024 12:24:51 +0000
+Content: India will be hosting the International Shooting Sport Federation (ISSF) Junior World Cup for the first time in the second half of 2025. The ISSF awarded the hosting rights for the top junior international shooting competition for Rifle/Pistol/Shotgun to the National Rifle Association of India (NRAI), making it another achievement for the country in shooting sport
+This will be the third top ISSF-level event to be held in India after the senior World Cup in Bhopal in 2023 and the season-ending ISSF World Cup Final earlier this year, reinforcing India’s stature as one of the sport’s top destinations in the world, the NRAI informed in a release on Saturday.
+Reacting to the development after the NRAI received the official confirmation letter from the ISSF on Friday, NRAI President Kalikesh Narayan Singh Deo said, “We had a very fruitful executive committee meeting of the ISSF in Rome last month and all member federations as well as the ISSF President Luciano Rossi were all praise with the way India has been hosting top international Shooting competitions and helping to grow the sport globally.
+“We obviously got the sense then but now that the official confirmation has come, we are excited and energised to put our best foot forward as usual. We are of course indebted to the Government of India and the Ministry of Sports for supporting in every possible way, our efforts to grow the sport in the country,” he said.
+K. Sultan Singh, Secretary General, NRAI, elaborated on the details of the ISSF communique saying, “The ISSF in their letter have requested us to confirm two possible convenient slots, one in September-October and the other during the end October-beginning November period. We will, after meeting internally, share the same with them at the earliest so that member federations can prepare accordingly. The world’s top future champions and stars of Shooting are going to converge in India for a blockbuster showdown and we are confident that it will give the sport another grassroots boost in the country.”
+This will be the ninth top-level shooting championship to be held in India over the past decade, and it will be the first ISSF Junior World Cup. Before this India had hosted continental championships and six ISSF competitions, including two World Cup Final competitions besides four senior ISSF World Cups.
+The ranges in India will be busy throughout 2025 with the first-ever Shooting League of India (SLI) also planned in the first half of the year, besides regular national competitions which take place throughout the year culminating in the nationals, the NRAI informed in the release.
+(IANS)
+Link: https://ddnews.gov.in/en/shooting-sport-india-to-host-issf-junior-world-cup-for-the-first-time-in-2025/
+Fetch Time: 2024-12-21 13:33:05
+
+Title: Death toll from German Christmas market car-ramming rises to four
+Publication Date: Sat, 21 Dec 2024 11:41:28 +0000
+Content: The death toll from a car-ramming at a German Christmas market in the city of Magdeburg rose to four on Saturday, according to German newspaper Bild, after a suspect on Friday ploughed into a large crowd of visitors.
+German authorities are investigating a Saudi doctor, arrested as the suspected driver of the car, with Der Spiegel magazine reporting he had sympathies with the far-right Alternative for Germany (AfD) party.
+Over 60 people were injured, some of them seriously, when a vehicle drove through crowds gathered at a market in the central city, local officials said. A young child was among the dead.
+Police said they arrested a 50-year-old from Saudi Arabia who has been living in Germany for almost two decades. Police did not name the man and were not immediately available to comment on the reported rise in the death toll.
+The man worked as a doctor in a nearby town, local officials said. Police searched his home overnight.
+A Saudi source told Reuters that Saudi Arabia had warned German authorities about the attacker after he posted extremist views on his personal X account that threatened peace and security.
+Der Spiegel reported that the suspect had sympathised with the AfD. The magazine did not say where it got the information.
+Germany’s domestic intelligence agency was not immediately available for comment.
+German Chancellor Olaf Scholz is scheduled to visit Magdeburg later Saturday.
+The attack comes at a time of heightened debate over migration and security in Germany, which is gearing up for a snap election on Feb. 23.
+The AfD, currently polling in second place behind the conservative opposition, has led calls for a crackdown on migration to the country.
+AfD chancellor candidate Alice Weidel condemned the attack and said on X, “The pictures from #Magdeburg are shocking! My thoughts are with the bereaved and injured. When will this madness come to an end?”
+(Reuters)
+Link: https://ddnews.gov.in/en/death-toll-from-german-christmas-market-car-ramming-rises-to-four/
+Fetch Time: 2024-12-21 13:33:05
+
+Title: India’s forest cover increases by 1,445 square km, ISFR 2023 shows
+Publication Date: Sat, 21 Dec 2024 09:04:48 +0000
+Content: Union Minister for Environment, Forest and Climate Change, Bhupender Yadav, on Saturday released the ‘India State of Forest Report 2023’ (ISFR 2023) at the Forest Research Institute in Dehradun. This report, published biennially by the Forest Survey of India (FSI) since 1987, offers a comprehensive assessment of India’s forest and tree resources, based on satellite data and field-based surveys. The 2023 report marks the 18th edition of this significant publication.
+The ISFR 2023 provides crucial information on the country’s forest cover, tree cover, mangrove cover, growing stock, carbon stock, and instances of forest fires. It also highlights the role of agroforestry in India. According to the latest assessment, the total forest and tree cover in India stands at 827,357 square kilometers, representing 25.17 percent of the country’s total geographical area. Of this, 715,343 square kilometers (21.76%) is classified as forest cover, while 112,014 square kilometers (3.41%) is tree cover.
+Yadav expressed satisfaction over the increase in the country’s forest and tree cover, which has grown by 1,445 square kilometers since the 2021 assessment. This includes an increase of 156 square kilometers in forest cover and 1,289 square kilometers in tree cover. He also emphasized the advanced technology used by FSI for real-time fire alerts and forest fire services, which help in better forest management.
+In terms of the top-performing states, Chhattisgarh led with an increase of 684 square kilometers in forest and tree cover, followed by Uttar Pradesh and Odisha, each with a 559 square kilometer increase, and Rajasthan, with a 394 square kilometer increase. Mizoram, Gujarat, and Odisha were the top three states showing the largest increase in forest cover, with Mizoram seeing an increase of 242 square kilometers, followed by Gujarat (180 square kilometers) and Odisha (152 square kilometers).
+The report also provides a state-wise analysis of forest and tree cover, with Madhya Pradesh, Arunachal Pradesh, and Maharashtra leading in total area covered by forests and trees. Madhya Pradesh alone accounts for 85,724 square kilometers of forest and tree cover, while Arunachal Pradesh and Maharashtra follow with 67,083 and 65,383 square kilometers, respectively. In terms of forest cover relative to total geographical area, Lakshadweep (91.33%) has the highest percentage, followed by Mizoram (85.34%) and the Andaman & Nicobar Islands (81.62%).
+The assessment also reveals that 19 states and union territories have more than 33 percent of their geographical area under forest cover, with eight states—Mizoram, Lakshadweep, Andaman & Nicobar Islands, Arunachal Pradesh, Nagaland, Meghalaya, Tripura, and Manipur—boasting forest cover exceeding 75 percent.
+In terms of other environmental resources, India’s mangrove cover is estimated at 4,992 square kilometers. The growing stock, which includes timber and other forest products, has increased by 262 million cubic meters compared to the previous assessment. Bamboo-bearing areas have also seen growth, with an increase of 5,227 square kilometers, reaching a total of 154,670 square kilometers. The potential annual timber production from trees outside forests has been estimated at 91.51 million cubic meters.
+The carbon stock in India’s forests is another key highlight of the report. The current estimate stands at 7,285.5 million tonnes, marking an increase of 81.5 million tonnes from the last assessment. Furthermore, the report shows that India has already exceeded its carbon sequestration target under its Nationally Determined Contributions (NDC), with a carbon stock of 30.43 billion tonnes of CO2 equivalent, surpassing the 2.29 billion tonnes of additional carbon sink goal set for 2030.
+The ISFR 2023 not only offers valuable insights into the health of India’s forests but also serves as a vital resource for policymakers, environmental planners, state forest departments, research organizations, and academic institutions. It provides essential data that aids in the conservation and sustainable management of the country’s natural resources.
+Link: https://ddnews.gov.in/en/indias-forest-cover-increases-by-1445-square-km-isfr-2023-shows/
+Fetch Time: 2024-12-21 13:33:05
+
+Title: Indian Missions worldwide celebrate first World Meditation Day
+Publication Date: Sat, 21 Dec 2024 08:01:33 +0000
+Content: Indian missions around the world celebrated the inaugural World Meditation Day on Saturday, December 21, highlighting meditation’s transformative impact on mental and physical well-being. The event was marked by a series of activities and ceremonies, with prominent global figures and diplomats emphasizing the practice’s ability to foster peace, harmony, and personal growth.
+Prime Minister Narendra Modi, in a post on X, urged everyone to incorporate meditation into their daily routines. He described meditation as a “powerful way to bring peace and harmony” to individuals, societies, and the planet as a whole. In his post, he encouraged people to use modern tools such as apps and guided videos to help integrate meditation into their lives.
+“Meditation is a powerful way to bring peace and harmony to one’s life, as well as to our society and planet. In the age of technology, Apps and guided videos can be valuable tools to help incorporate meditation into our routines,” Modi wrote.
+At the United Nations, India hosted a special event titled “Meditation for Global Peace and Harmony” at the UN Trusteeship Council. India’s Permanent Representative to the UN, P. Harish, addressed the gathering, emphasizing the importance of Dhyana (meditation), an ancient Indian practice that promotes inner calm and balance.
+Harish expressed pride in the global recognition of meditation, particularly the UN General Assembly’s adoption of December 21 as World Meditation Day. The resolution, passed on December 6, was the result of a collaborative effort among a core group of countries, including India, Liechtenstein, Sri Lanka, Nepal, Mexico, and Andorra. Harish noted that notable personalities such as UN General Assembly President Philemon Yang, Under-Secretary-General for Operational Support Atul Khare, and spiritual leader Sri Sri Ravi Shankar participated in the event.
+In Vientiane, Laos, the Indian Embassy, in collaboration with Art of Living Laos and the Holiday Inn Vientiane, celebrated the day with a meditation session. Indian Ambassador Prashant Agrawal encouraged attendees to adopt meditation for peace, harmony, and well-being. He also highlighted India’s central role in the adoption of World Meditation Day at the UN.
+The Nepal Mission to the United Nations also marked the occasion by emphasizing Nepal’s spiritual heritage. Nepal’s Permanent Representative to the UN, Lok Thapa, described the country as “Tapobhumi” (the land of meditation) and highlighted how meditation can bring people together and foster harmony across communities.
+The Consulate General of India in Sao Paulo hosted a meditation session at the Swami Vivekananda Cultural Centre (SVCC), where Consul General Hansraj Singh Verma spoke about the significance of meditation. Dr. Luisa Gondim from Art of Living led the participants in a short meditation practice.
+In Johannesburg, the Indian Embassy encouraged everyone to embrace mindfulness, posting a message on social media, “Even a few minutes of mindfulness can make a big difference. Find your inner peace on World Meditation Day!”
+Other missions, including those in Hong Kong, Sri Lanka, Bhutan, and Argentina, also celebrated the day with meditation sessions, discussions, and cultural events, all aimed at promoting peace and well-being through meditation.
+The Indian Embassy in Argentina announced its plans to combine yoga, gastronomy, and Indian culture to celebrate the occasion. The event highlighted India’s leadership in promoting human well-being, rooted in the country’s civilizational ethos of “Vasudhaiva Kutumbakam” — the belief that the whole world is one family.
+Reflecting on the Winter Solstice at the UN, Harish explained its importance in Indian tradition, marking the beginning of “uttarayana,” a time for spiritual reflection. He concluded that India’s leadership in human well-being is a result of its ancient wisdom and the global importance of peace and unity.
+(With IANS inputs)
+Link: https://ddnews.gov.in/en/indian-missions-worldwide-celebrate-first-world-meditation-day/
+Fetch Time: 2024-12-21 13:33:05
+
+Title: Sri Sri Ravi Shankar brings peace through meditation to UN headquarters consumed by global turmoil
+Publication Date: Sat, 21 Dec 2024 06:57:39 +0000
+Content: Eighteen minutes of tranquility descended on the world organisation’s headquarters consumed by global turmoil as Sri Sri Ravi Shankar led a meditation session as a path to peace at the United Nations.
+At that very moment on Friday, the Security Council down the corridor was grappling with “threats to international peace and security” in a bitter debate, having earlier in the day disposed of topics like “children in armed conflicts”, the tensions in the Middle East and Africa, and the Ukraine War.
+In the oasis of peace at the Trusteeship Council Chamber, Ravi Shankar presided over the ‘Meditation for Global Peace and Harmony’ on the eve of World Meditation Day newly minted by the General Assembly this month.
+He noted that there are a lot of discussions about peace and security at the UN, and meditation can bring inner security and inner peace to make the world a much better place.
+“I urge all the nations here to put a little more attention in peace education. Let us educate our young people, how to relax, how to get rid of tensions on a daily basis, how to manage their negative emotions, and be centered”, said Ravi Shankar, who founded the Art of Living Foundation.
+The General Assembly adopted by acclamation on December 6 the resolution moved by a core group of India, Liechtenstein, Sri Lanka, Nepal, Mexico, and Andorra, and joined by many others to declare the Winter Solstice Day the World Meditation Day.
+It bookends with the International Day of Yoga on Summer Solstice Day, which was also declared by the General Assembly at India’s initiative.
+General Assembly President Philemon Yang said, “Meditation transcends borders, faiths, traditions, and time, offering each of us the opportunity to pause, to listen, and to connect with our inner selves.”
+“In its silence, meditation speaks a universal truth: That we are all human, all seeking balance, and all striving for a better understanding of our inner self and the world in which we live”, he said.
+Under-Secretary-General Atul Khare said that the UN peacekeepers are “tasked with protecting civilians against physical violence, and are often themselves exposed to atrocities, war crimes and crimes against humanity. It is critical that their mental health is taken care of and for this the UN introduced an app in 16 languages that includes meditation to help them.”
+India’s Permanent Representative P. Harish said, “The ancient Indian practice of ‘Dhyana’, or meditation, goes back thousands of years to yogic traditions and holds the key to achieve inner calm and attain harmony between mind and body, thought and action, humanity and the external world.”
+The winter solstice in the Indian tradition, “is the beginning of ‘uttarayana’, an auspicious time of the year, especially for inner reflection”, he said.
+“India’s leadership in overall human well-being stems from our civilisational dictum of Vasudaiva Kutumbakam or the whole world is one family”, he added.
+(IANS)
+Link: https://ddnews.gov.in/en/sri-sri-ravi-shankar-brings-peace-through-meditation-to-un-headquarters-consumed-by-global-turmoil/
+Fetch Time: 2024-12-21 13:33:05
+
+Title: What is US birthright citizenship and can Trump end it?
+Publication Date: Sat, 21 Dec 2024 05:36:27 +0000
+Content: Donald Trump has said he plans to end birthright citizenship as part of his promised crackdown on immigration when he becomes president on Jan. 20.
+Below is a look at U.S. birthright citizenship and Trump’s legal authority to restrict it.
+WHAT IS BIRTHRIGHT CITIZENSHIP?
+Anyone born in the United States is considered a citizen at birth, which derives from the Citizenship Clause of the 14th Amendment, which was added to the Constitution in 1868. The amendment states: “All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.” The Immigration and Nationality Act of 1952 also defines citizens and includes similar language.
+There were an estimated 11 million immigrants in the U.S. illegally in January 2022, according to a U.S. Department of Homeland Security estimate, a figure that some analysts now place at 13 million to 14 million. Their U.S.-born children are considered by the government to have U.S. citizenship. Trump has complained about foreign women visiting the United States for the purpose of giving birth and conferring U.S. citizenship on their offspring.
+ARE THERE EXCEPTIONS?
+Yes. People born in the United States to a foreign diplomatic officer with diplomatic immunity are not U.S. citizens because they are not subject to the jurisdiction of the United States.
+WHAT HAS THE SUPREME COURT SAID?
+The Supreme Court has not addressed whether the Citizenship Clause applies to U.S.-born children of people who are in the United States illegally.
+The main birthright citizenship case is from 1898, when the Supreme Court ruled that the son of lawful immigrants from China was a U.S. citizen by virtue of his birth in 1873 in San Francisco. The man, Wong Kim Ark, had been denied re-entry to the United States after a visit to China at a time when immigration from China was severely restricted.
+The Supreme Court also ruled in 1884 in a dispute over voter registration that U.S.-born John Elk was not a citizen because he was born as a member of a Native American tribe and therefore not subject to U.S. jurisdiction. Congress extended U.S. citizenship to Native Americans in 1924.
+WHAT IS THE VIEW OF OPPONENTS OF BIRTHRIGHT CITIZENSHIP?
+Some scholars argue that if lawmakers wanted all people born in the country to be citizens, they would not have added the clause to the 14th Amendment specifying that citizens “be subject to the jurisdiction” of the United States.
+They argue that this language excludes people who entered the country illegally and by implications, their U.S.-born children. Republican senators Lindsey Graham from South Carolina and Tom Cotton from Arkansas proposed bills this year that defined U.S.-born children as not “subject to the jurisdiction” of the U.S. if their parents were in the country illegally.
+Most scholars are dismissive of that interpretation of the jurisdiction language. Unlike diplomats, people in the country illegally do not have legal immunity and are subject to the U.S. laws.
+CAN TRUMP END BIRTHRIGHT CITIZENSHIP WITH AN EXECUTIVE ORDER?
+The Constitution gives Congress the power to regulate citizenship, and no president has ever tried to redefine the rules of citizenship using executive orders, though Trump promised to do so in his first term.
+Trump could issue an executive order to redefine birthright citizenship. Legal experts said he might declare that it requires one parent must be a U.S. citizen, a permanent resident or a member of the military — language that appeared in the Graham bill. He could direct his agencies to withhold passports or other documents and benefits unless the person meets the new requirement.
+Anyone denied a document or benefit could challenge it and legal experts said the executive order would almost certainly be blocked immediately in the courts. But it would also put the issue on a path toward the Supreme Court and likely force the justices to determine who is entitled to birthright citizenship.
+If courts decided the Constitution protected birthright citizenship, then only an amendment could change that. A Constitutional amendment would require two-thirds of both houses and approval by three-quarters of state legislatures, a process that would likely take years. The Constitution has not been amended since 1992.
+(Reuters)
+Link: https://ddnews.gov.in/en/what-is-us-birthright-citizenship-and-can-trump-end-it/
+Fetch Time: 2024-12-21 13:33:05
+
+Title: Bears colour stock market red ahead of Christmas, time for balanced investment strategy
+Publication Date: Sat, 21 Dec 2024 05:17:32 +0000
+Content: Indian benchmark indices declined 5 per cent this week amid global selloff, mainly triggered by the US Federal Reserve’s caution approach for rate cuts next year, which resulted in relentless selling by the foreign institutional investors (FIIs).
+With this, Sensex lost over 1,000 points in three out of five trading sessions this week, and nearly Rs 17 lakh crore worth of market cap was eroded out of BSE-listed firms.
+According to market experts, it had been a dreadful week for the equity markets, as the key indices fell dramatically, erasing the gains of the last four weeks.
+“The benchmark index experienced a significant decline, plummeting approximately 1,200 points from the previous week’s closing figure. As a result, it finished the week below 200 simple moving average (SMA), marking a total loss of nearly 5 per cent,” said Osho Krishnan from Angel One.
+The Nifty50 experienced a significant decline, as it breached all essential support levels. This downward movement has led the index to approach its most recent swing low, signalling potential volatility in the market.
+From a technical standpoint, as Nifty slipped below the pivotal zone of 200 SMA, the next potential support could be seen around the recent swing low around 23,200-23,100, while a decisive breach is likely to open further downside towards 22,800 in the near period, said Krishnan.
+The weak global cues initiated the downward move, but the follow-up sell-off showcases the bears’ eagerness to colour the market red ahead of Christmas.
+On Friday, Sensex settled at 78,041.59, down by 1,176.46 points or 1.49 per cent, and Nifty ended at 23,587.50, down by 364.20 points, or 1.52 per cent.
+Nifty Bank ended at 50,759.20, down by 816.50 points, or 1.58 per cent. The Nifty Midcap 100 index closed at 56,906.75 at the end of trading after dropping 1,649.50 points, or 2.82 per cent.
+On the sectoral front, selling was seen in Nifty’s Auto, IT, Fin Services, Pharma, FMCG, Metal, Media, Energy, Private Bank, Infra, Commodities, and PSE sectors.
+Considering the recent developments, it is advised to approach markets with proper risk management and refrain from taking complacent bets for the time being, advised experts.
+Amid this cautious environment, “we maintain a bullish outlook on new-age, platform-based technology companies,” said Krishna Appala from Capitalmind Research.
+A balanced investment strategy that combines the stability and fair valuations of large caps with tactical exposure to profitable, domestic-focused tech companies offers a prudent approach to capturing growth potential while managing geopolitical and policy risks, said experts.
+(IANS)
+Link: https://ddnews.gov.in/en/bears-colour-stock-market-red-ahead-of-christmas-time-for-balanced-investment-strategy/
+Fetch Time: 2024-12-21 13:33:05
+
+Title: Israeli military says Yemen missile lands near Tel Aviv, 14 lightly injured, ambulance service says
+Publication Date: Sat, 21 Dec 2024 04:39:16 +0000
+Content: The Israeli military said it failed to intercept a missile from Yemen early on Saturday that fell in the Tel Aviv-Jaffa area, and the ambulance service said 14 people received mild injuries.
+Paramedics were treating 14 people with minor shrapnel injuries and some were taken to hospital, the ambulance service said in a statement.
+The Israeli police reported receiving reports of a fallen missile in a town in the Tel Aviv area.
+The Iran-backed group Houthis in Yemen have repeatedly fired drones and missiles towards Israel in what they describe as acts of solidarity with Palestinians in Gaza.
+On Thursday, Israel launched strikes against ports and energy infrastructure in Houthi-held parts of Yemen and threatened more attacks against the Yemeni group.
+(Reuters)
+Link: https://ddnews.gov.in/en/israeli-military-says-yemen-missile-lands-near-tel-aviv-14-lightly-injured-ambulance-service-says/
+Fetch Time: 2024-12-21 13:33:05
+
