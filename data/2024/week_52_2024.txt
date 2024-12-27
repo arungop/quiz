@@ -2332,3 +2332,174 @@ On December 24, FIIs sold equities worth Rs. 2,454.21 crore, while domestic inst
 Link: https://ddnews.gov.in/en/share-market-ends-flat-adani-ports-top-gainer/
 Fetch Time: 2024-12-27 02:33:08
 
+Title: 4 chip manufacturing units, 3 supercomputers in 2024 strengthen India’s global tech position
+Publication Date: Fri, 27 Dec 2024 07:28:45 +0000
+Content: The year 2024 marked significant strides for India in the technology sector with the establishment of four new semiconductor manufacturing units and the commissioning of three ‘Param Rudra’ supercomputers, among several other initiatives aimed at bolstering India’s position on the global tech stage, the government announced on Friday.
+Tata Electronics Private Limited (TEPL) secured approval in February 2024 for setting up a semiconductor fabrication (fab) facility in partnership with Taiwan’s PSMC. The project, which involves an investment of ₹91,526 crore, will have a production capacity of 50,000 wafer starts per month (WSPM).
+In the same month, TEPL received approval for another project to establish an Outsourced Semiconductor Assembly and Test (OSAT) facility with an investment of ₹27,120 crore. This facility will employ indigenous semiconductor packaging technologies and produce 48 million chips per day.
+CG Power and Industrial Solutions Limited’s proposal to set up an OSAT facility with an investment of ₹7,584 crore was also approved in February. The project, a joint venture with Renesas Electronics America (USA) and STARS Microelectronic (Thailand), will feature technology provided by Renesas Electronics Corporation (Japan) and STARS Microelectronic. The facility will have a production capacity of 15.07 million units per day.
+In September, Kaynes Technology India Limited (KTIL) received approval to establish an OSAT facility in Sanand, Gujarat, for Wire Bond Interconnect and Substrate-Based Packages. With an investment of ₹3,307 crore, the facility is expected to produce over 6.33 million chips per day.
+On September 26, Prime Minister Narendra Modi dedicated three ‘Param Rudra’ supercomputers to the nation via video conferencing. Developed under the National Supercomputing Mission (NSM), these supercomputers have been installed at key research institutions:
+
+Inter-University Accelerator Centre (IUAC), New Delhi (3 PetaFlops)
+Giant Metrewave Radio Telescope (GMRT), Pune (1 PetaFlop)
+S.N. Bose National Centre for Basic Sciences, Kolkata (838 TeraFlops)
+
+These supercomputers are expected to revolutionize research capabilities for over 10,000 researchers, including 1,700 PhD scholars from more than 200 academic institutions and R&D labs across India. They will facilitate advanced studies in physics, earth sciences, and cosmology.
+The government also highlighted nine projects approved under the Scheme for Promotion of Manufacturing of Electronic Components and Semiconductors (SPECS), which are expected to generate 15,710 jobs.
+In another major achievement, 6.39 crore individuals were trained under the Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA), exceeding the target of 6 crore. The program aims to empower rural populations with digital literacy.
+India’s efforts to strengthen its tech infrastructure in 2024 signal a decisive step toward achieving technological self-reliance and global competitiveness.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/4-chip-manufacturing-units-3-supercomputers-in-2024-strengthen-indias-global-tech-position/
+Fetch Time: 2024-12-27 07:33:37
+
+Title: Year End Review 2024 of Ministry of Electronics & Information Technology: Major Achievements
+Publication Date: Fri, 27 Dec 2024 07:21:58 +0000
+Content: In 2024, the Ministry of Electronics and Information Technology (MeitY) made significant strides in advancing India’s digital growth.
+Key initiatives focused on AI, cybersecurity, and skill development, aiming to enhance technology accessibility, boost innovation, and strengthen India’s position globally.
+Semiconductor Manufacturing: Major Investments Under Semicon India Programme 
+India’s semiconductor industry received a major boost in 2024 with Tata Electronics Private Limited (TEPL) securing approval for a Semiconductor Fab facility with an investment of Rs. 91,526 crore.
+The facility, set up in partnership with Taiwan’s PSMC, is expected to have a production capacity of 50,000 wafer starts per month.
+Tata Electronics also gained approval for an Outsourced Semiconductor Assembly and Test (OSAT) facility, with an investment of Rs. 27,120 crore.
+In addition, CG Power and Industrial Solutions Limited’s OSAT facility with an investment of Rs. 7,584 crore was also approved, further bolstering India’s semiconductor manufacturing capabilities.
+IndiaAI Mission: Shaping India’s Future in AI
+India’s AI mission saw new milestones in 2024 with the expansion of the National AI Portal (INDIAai), offering AI-related resources such as articles, startups, and government initiatives.
+The development of the AI Research Analytics and Knowledge Dissemination Platform (AIRAWAT) has positioned India as a global leader, with AIRAWAT’s infrastructure ranking 75th in the Top 500 Global Supercomputing list.
+India also chaired the 6th GPAI Ministerial Council meeting, reinforcing its leadership in global AI ethics and innovation.
+Electronics Manufacturing Clusters (EMC 2.0) Scheme: Boosting Electronics Manufacturing
+The EMC 2.0 scheme, designed to develop infrastructure for electronics manufacturing clusters, saw key approvals in 2024, including Rs.104.63 crore Common Facility Centre in Hyderabad and Rs. 569.66 crore cluster in Mahabubnagar, Telangana.
+These projects have attracted significant investments and are expected to create thousands of jobs, with more clusters being developed in Tamil Nadu and Karnataka.
+Skill Development: PMGDISHA Surpasses Targets
+The Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA) achieved a key milestone in 2024 by surpassing its target of training six crore individuals, reaching 6.39 crore by March 31.
+The initiative has played a crucial role in increasing digital literacy in rural India, leading to wider internet and smartphone use.
+Additional skill development schemes in the Electronics System Design and Manufacturing (ESDM) sector trained over 4.93 lakh candidates, exceeding the initial target of 4.18 lakh.
+Cybersecurity: Enhancing Digital Security Through Training and Awareness
+The Cyber Surakshit Bharat programme continued its efforts to enhance cybersecurity in the government sector.
+The 45th batch of Chief Information Security Officer (CISO) Deep Dive training was conducted, equipping CISOs with crucial cybersecurity skills. CERT-In onboarded 388 organizations to its Cyber Swachhta Kendra initiative, strengthening the country’s cybersecurity infrastructure.
+BHASHINI Language Translation Platform: Breaking Language Barriers
+Launched in July 2022, BHASHINI has become a crucial tool in bridging language barriers in India’s digital space. Offering translation services in 17 Indian languages, the platform reached over 100 million monthly inferences in 2024.
+It also won numerous awards, including the Digital Trailblazer Award, for its contributions to AI and data analytics.
+National Supercomputing Mission: New Supercomputers Dedicated to Research
+In a major development for India’s research sector, Prime Minister Narendra Modi dedicated three PARAM Rudra Supercomputers in September 2024.
+These supercomputers, installed at key research institutions, will significantly boost India’s capabilities in areas such as physics and cosmology.
+A total of 33 supercomputers have been deployed under the National Supercomputing Mission, supporting over 10,000 researchers nationwide.
+These achievements mark a significant year for MeitY, with 2024 underscoring India’s growing role in global technology and innovation.
+Link: https://ddnews.gov.in/en/year-end-review-2024-of-ministry-of-electronics-information-technology-major-achievements/
+Fetch Time: 2024-12-27 07:33:37
+
+Title: “India, China achieved consensus to restore ground situation in certain areas along LAC,” MoD year end review
+Publication Date: Fri, 27 Dec 2024 05:49:28 +0000
+Content: The Ministry of Defence (MoD) has announced that India and China have achieved a broad consensus to restore the ground situation in specific areas along the Line of Actual Control (LAC). The statement, part of the ministry’s year-end review, highlighted ongoing efforts at diplomatic and military levels to address border tensions and ensure stability.
+“India and China achieved a broad consensus to restore the ground situation in certain areas along the LAC. Talks at diplomatic and military levels have paved the way for resolving differences in these regions, with agreements grounded in the principles of equal and mutual security,” the MoD said.
+Defence Minister Rajnath Singh, during the Chanakya Defence Dialogue on October 24, emphasized the importance of continuous dialogue in achieving solutions, describing the consensus as a testament to constructive engagement.
+The review underscored the Indian Army’s high level of operational readiness, crucial for maintaining stability and dominance along all frontiers, including the LAC and the Line of Control (LoC). “The Indian Army maintained a high state of operational preparedness, carrying out relentless counter-terrorist operations and bolstering border infrastructure in line with the government’s ‘Viksit Bharat Vision,'” the statement added.
+The MoD acknowledged the stable yet sensitive situation along the LAC, citing progress made in disengagement and troop relocation from friction points such as Depsang and Demchok. “Following prolonged negotiations at diplomatic and military levels, a consensus was reached on October 21. This includes disengagement, troop relocation, joint verification, and the resumption of patrolling in traditional areas,” the ministry reported.
+While the LoC remains peaceful following the February 2021 DGsMO agreement, the security situation in Jammu and Kashmir continues to improve despite occasional violence. The MoD reaffirmed the Indian Army’s vigilance and preparedness to respond to any escalation.
+The statement also referenced a recent development from the 23rd Meeting of Special Representatives of India and China, held on December 18 in Beijing. Both sides reaffirmed their commitment to a “fair, reasonable, and mutually acceptable framework” for resolving boundary issues based on the 2005 political parameters and guiding principles.
+Tensions along the LAC escalated in April-May 2020 when China enhanced its troop and armament deployment in the Western Sector and attempted multiple transgressions.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/india-china-achieved-consensus-to-restore-ground-situation-in-certain-areas-along-lac-mod-year-end-review/
+Fetch Time: 2024-12-27 07:33:37
+
+Title: PM Modi pays last respects to former PM Manmohan Singh at his residence
+Publication Date: Fri, 27 Dec 2024 05:19:43 +0000
+Content: Prime Minister Narendra Modi paid his last respects to former Prime Minister Manmohan Singh at his residence in Delhi on Friday.
+The prime minister also offered his condolences to Dr. Singh’s family on his demise. Union Home Minister Amit Shah and Union Health Minister and BJP National President JP Nadda also paid their respects to the late leader.
+Congress leaders, including KC Venugopal, were present at the former PM’s residence.
+Dr. Singh passed away at AIIMS, Delhi, on Thursday evening at the age of 92 due to age-related medical conditions. He experienced a sudden loss of consciousness at home and was rushed to AIIMS.
+The mortal remains of the former PM will be kept at the All India Congress Committee (AICC) headquarters in Delhi for the public to pay their respects. According to Congress party sources, the ‘last darshan’ will take place on Saturday between 8:00 AM and 10:00 AM.
+All senior party leaders, including Rahul Gandhi and Sonia Gandhi, will pay their tributes to the former PM at the AICC office, following which the final rites will be conducted. Singh, celebrated for introducing the 1991 economic liberalisation reforms as India’s Finance Minister, will be cremated near Rajghat, the designated site for the last rites of Prime Ministers.
+Several politicians and public figures from diverse fields have expressed their grief over the demise of Dr. Singh. On Thursday night, Prime Minister Narendra Modi conveyed his condolences, saying that India mourns the loss of one of its most distinguished leaders.
+Born on September 26, 1932, Dr. Singh was not only an economist but also served as the Governor of the Reserve Bank of India from 1982 to 1985. As the 13th Prime Minister of India, he held office from 2004 to 2014, becoming the longest-serving PM after Jawaharlal Nehru and Indira Gandhi.
+Dr. Singh played a pivotal role as finance minister in PV Narasimha Rao’s government, where he is credited for implementing the 1991 economic reforms that opened India’s economy to foreign investment, increased FDI, and reduced government control. These reforms significantly boosted the country’s economic growth.
+His tenure as Prime Minister also saw the introduction of landmark initiatives such as the National Rural Employment Guarantee Act (later known as MGNREGA) and the Right to Information Act (RTI) in 2005, both of which improved social welfare and transparency in governance.
+Dr. Singh retired from the Rajya Sabha earlier this year, marking the end of a distinguished 33-year tenure in the Upper House.
+Link: https://ddnews.gov.in/en/pm-modi-pays-last-respects-to-former-pm-manmohan-singh-at-his-residence/
+Fetch Time: 2024-12-27 07:33:37
+
+Title: AUS vs IND, 4th Test: Indian players wear black armbands to honour former PM Manmohan Singh
+Publication Date: Fri, 27 Dec 2024 04:53:14 +0000
+Content: The Indian cricket team wore black armbands on the second day of the fourth Test match against Australia at the Melbourne Cricket Ground (MCG) to honour the late former Prime Minister Dr. Manmohan Singh, who passed away at the age of 92 in Delhi.
+Dr. Singh died due to age-related health issues after a sudden loss of consciousness, and despite efforts by doctors at AIIMS Delhi, he was declared dead on the evening of December 26, 2024.
+In a post shared by the Board of Control for Cricket in India (BCCI) on X, the team expressed their respect for Dr. Singh, acknowledging his passing with this gesture.
+Following the news, several former Indian cricketers, including Yuvraj Singh, Harbhajan Singh, Gautam Gambhir, and VVS Laxman, shared heartfelt tributes, praising Dr. Singh’s leadership and his role in shaping India’s economy.
+Dr. Manmohan Singh, a prominent figure in Indian politics, served two consecutive terms as Prime Minister from 2004 to 2014.
+He played a pivotal role in India’s economic reforms and was highly regarded for his integrity and vision.
+His political career also included serving in the Rajya Sabha for 33 years, until his retirement earlier this year.
+His contributions to India and his legacy as a leader have been fondly remembered by many across different spheres, including cricket, with cricketers expressing their condolences and honoring his memory.
+(With an input from ANI)
+Link: https://ddnews.gov.in/en/indian-players-wear-black-armbands-at-mcg-test-to-honour-former-pm-manmohan-singh/
+Fetch Time: 2024-12-27 07:33:37
+
+Title: “Manmohan Singh will be remembered for bringing India-US closer”: Antony Blinken pays tribute to former PM
+Publication Date: Fri, 27 Dec 2024 04:50:34 +0000
+Content: United States Secretary of State Antony Blinken has expressed heartfelt condolences on the demise of former Indian Prime Minister Dr. Manmohan Singh, lauding his pivotal role in fostering closer ties between India and the United States.
+In a tribute that underscored Dr. Singh’s enduring legacy, Blinken praised his leadership and contributions to advancing economic reforms in India and cementing the US-India strategic partnership. Highlighting the landmark US-India Civil Nuclear Cooperation Agreement, Blinken described it as a testament to Dr. Singh’s vision and commitment to strengthening bilateral ties.
+“The United States offers our sincere condolences to the people of India for the passing of former Prime Minister Dr. Manmohan Singh,” Blinken said in a statement. He added, “Dr. Singh was one of the greatest champions of the US-India strategic partnership. His work laid the foundation for much of what our countries have accomplished together in the past two decades.
+His leadership in advancing the US-India Civil Nuclear Cooperation Agreement signified a major investment in the potential of the US-India relationship. At home, Dr. Singh will be remembered for his economic reforms that spurred India’s rapid economic growth. We mourn Dr. Singh’s passing and will always remember his dedication to bringing the United States and India closer together.”
+Dr. Manmohan Singh passed away on Thursday evening at AIIMS, Delhi, at the age of 92 due to age-related medical conditions. According to an official statement from AIIMS, he experienced a sudden loss of consciousness at home and was rushed to the hospital. Despite resuscitative efforts, he was declared dead at 9:51 PM on December 26.
+Dr. Singh, who retired from the Rajya Sabha earlier this year after 33 years of service, was born in Punjab in 1932. A stalwart of Indian politics and economics, he served as Prime Minister from 2004 to 2014, steering the nation through a decade of significant growth and policy transformation.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/manmohan-singh-will-be-remembered-for-bringing-india-us-closer-antony-blinken-pays-tribute-to-former-pm/
+Fetch Time: 2024-12-27 07:33:37
+
+Title: Former PM Manmohan Singh’s mortal remains to be kept at AICC HQ, last rites scheduled for Saturday: Congress sources
+Publication Date: Fri, 27 Dec 2024 04:36:24 +0000
+Content: The mortal remains of former Prime Minister Manmohan Singh will be placed at the All India Congress Committee (AICC) headquarters in Delhi for the public to pay their respects, Congress sources said on Friday.
+According to party sources, the ‘last darshan’ is scheduled for Saturday from 8:00 to 10:00 AM. Senior leaders, including Rahul Gandhi and Sonia Gandhi, will pay their respects at the AICC office before the final rites are performed. Singh, renowned for spearheading India’s 1991 economic liberalisation reforms as Finance Minister, will be cremated near Rajghat, the designated site for the last rites of Prime Ministers.
+Congress leader Sandeep Dikshit said on Friday morning that the schedule for public viewing had not yet been finalised. “The schedule will be determined after the arrival of the former PM’s daughter from abroad. She is expected to arrive in the afternoon or evening, and the last rites may take place tomorrow,” he said, adding that delays were also caused by inclement weather.
+Prominent politicians and personalities from various fields have expressed their sorrow over the passing of Manmohan Singh. Prime Minister Narendra Modi conveyed his condolences on Thursday night, stating that India mourns the loss of one of its most distinguished leaders.
+Dr. Singh passed away on Thursday evening at AIIMS, Delhi, at the age of 92 due to age-related health complications. He reportedly lost consciousness at home and was rushed to the hospital.
+Born on September 26, 1932, Dr. Singh was an accomplished economist and served as the Governor of the Reserve Bank of India from 1982 to 1985. As the 13th Prime Minister of India, he held office from 2004 to 2014.
+Dr. Singh is widely credited for his role in implementing the 1991 economic reforms under PV Narasimha Rao’s government, which opened up the Indian economy to foreign investment, increased FDI, and reduced government control, thereby driving significant economic growth.
+His tenure as Prime Minister also saw the introduction of landmark initiatives such as the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) and the Right to Information Act (RTI) in 2005, both of which contributed to social welfare and government transparency.
+Dr. Singh retired from the Rajya Sabha earlier this year, capping an illustrious 33-year tenure in the Upper House.
+Link: https://ddnews.gov.in/en/former-pm-manmohan-singhs-mortal-remains-to-be-kept-at-aicc-hq-last-rites-scheduled-for-saturday-congress-sources/
+Fetch Time: 2024-12-27 07:33:37
+
+Title: “Leader of exceptional intelligence, integrity, and wisdom”: Former Canadian PM Stephen Harper mourns Manmohan Singh’s passing
+Publication Date: Fri, 27 Dec 2024 04:35:15 +0000
+Content: Former Canadian Prime Minister Stephen Harper paid tribute to India’s former Prime Minister, Dr. Manmohan Singh, who passed away on Thursday in New Delhi at the age of 92. In a heartfelt post on X, Harper described Singh as a leader of “exceptional intelligence, integrity, and wisdom.”
+“I am saddened to learn of the passing of my former colleague, Prime Minister Manmohan Singh. He was an individual of exceptional intelligence, integrity, and wisdom. Laureen and I wish to convey our condolences to all his family and friends,” Harper wrote.
+Dr. Singh passed away at the All India Institute of Medical Sciences (AIIMS) after a sudden loss of consciousness at his residence. Despite resuscitative efforts, he was declared dead at 9:51 PM, according to an official statement from AIIMS. He had been suffering from age-related health issues.
+Tributes have poured in from global leaders. U.S. Secretary of State Antony Blinken also extended his condolences, emphasizing Singh’s pivotal role in strengthening the India-U.S. partnership. “Dr. Singh was one of the greatest champions of the U.S.-India strategic partnership, and his work laid the foundation for much of what our countries have accomplished together in the past two decades,” Blinken said.
+He highlighted Singh’s leadership in advancing the landmark U.S.-India Civil Nuclear Cooperation Agreement and his contributions to India’s economic reforms.
+Born in Punjab in 1932, Dr. Manmohan Singh was a renowned economist and statesman. He served as India’s 13th Prime Minister from 2004 to 2014, leading the nation through a decade of significant economic and geopolitical transformations.
+Singh retired from public life earlier this year, concluding an unprecedented 33-year tenure in the Rajya Sabha.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/leader-of-exceptional-intelligence-integrity-and-wisdom-former-canadian-pm-stephen-harper-mourns-manmohan-singhs-passing/
+Fetch Time: 2024-12-27 07:33:37
+
+Title: Delhi residents wake up to light rain, reduced visibility
+Publication Date: Fri, 27 Dec 2024 04:02:22 +0000
+Content: Light rain lashed several parts of the national capital on Friday morning, as a layer of fog covered the city, resulting in reduced visibility.
+As per the India Meteorological Department, the lowest recorded temperature on Friday is 12 degrees Celsius, while the maximum temperature is 20 degrees Celsius.
+The IMD has predicted a “thunderstorm with rain” for Delhi on Friday and Saturday. With this, more showers are expected to drizzle over the city.
+A local resident, Deepak Pandey, said, “The weather has become good, and it feels like Kashmir. The weather has become so pleasant, and one could travel in it. It is cold, but the rain has decreased the level of pollution.”
+A tourist from Madhya Pradesh, Raman Kushwaha, said, “It is cold. Light rain has occurred, but it’s good to visit places in this weather. Pollution has also decreased.”
+Visuals from Kartavya Path showed the drizzle bringing pleasant weather along with dense fog in the area.
+Meanwhile, the air quality index in the city remained in the ‘very poor’ category with an AQI of 371, as of 7 am, according to the data of the Central Pollution Control Board (CPCB).
+As of 7 am, the AQI measured at Anand Vihar is 398, IGI Airport (T3) is 340, Aya Nagar is 360, Lodhi Road is 345, ITO is 380, Chandani Chowk is 315, and Punjabi Bagh is 386.
+The central government’s air quality monitoring panel on Tuesday revoked Stage IV (‘Severe+’) measures under the Graded Response Action Plan (GRAP) in Delhi and the National Capital Region (NCR) following an improvement in air quality.
+However, actions under Stages I, II, and III will remain in force to prevent any further deterioration of air quality, the Commission for Air Quality Management (CAQM) announced on December 24.
+The decision came after Delhi’s Air Quality Index (AQI) improved on December 24.
+The improvement in air quality was attributed to favorable meteorological conditions, including improved wind speed, according to forecasts from the India Meteorological Department (IMD) and the Indian Institute of Tropical Meteorology (IITM).
+In line with the Supreme Court’s directives, Stage IV measures were initially invoked when AQI levels breached the 400 mark on December 16.
+The measures were aimed at curbing severe pollution levels and included restrictions on industrial activities, construction, and the entry of nonessential trucks into Delhi.
+The Graded Response Action Plan (GRAP) is a set of emergency measures implemented in Delhi-NCR to tackle air pollution based on the severity of the Air Quality Index (AQI).
+(ANI)
+Link: https://ddnews.gov.in/en/delhi-residents-wake-up-to-light-rain-reduced-visibility/
+Fetch Time: 2024-12-27 07:33:37
+
+Title: Central government likely to announce seven-day national mourning in respect of Manmohan Singh
+Publication Date: Fri, 27 Dec 2024 03:45:47 +0000
+Content: The Central government is likely to announce seven days of national mourning as a mark of respect to former Prime Minister Manmohan Singh who died at the age of 92 here on Thursday, according to sources.  Sources said that the last rites of the former Prime Minister will be conducted with full state honours.
+It has been learnt that all government programmes scheduled for Friday will be cancelled and the Union Cabinet would hold a meeting at 11 a.m., sources said.
+The National Flag will be flown at half-mast on the days of mourning throughout India on all buildings where it is flown regularly and there will be no official entertainment on the days during the period of national mourning. The news of Dr. Singh’s demise was confirmed by AIIMS New Delhi.
+“With profound grief, we inform the demise of former Prime Minister of India, Dr. Manmohan Singh aged 92. He was being treated for age related medical conditions and had sudden loss of consciousness at home on December 26. Resuscitative measures were started immediately at home. He was brought to the medical emergency at AIIMS. Despite all efforts, he could not be revived and was declared dead at 9.51 p.m.,” said the hospital in a statement.
+Dr. Singh, who served as the country’s Prime Minister from 2004 to 2014, was known for his transformative role in steering India’s economy through a period of significant liberalisation.
+He is survived by his wife, Gursharan Kaur, and their three daughters. Funeral arrangements are expected to be announced soon, with the nation’s leaders, including Prime Minister Narendra Modi, expected to participate in honouring his memory. Dr. Singh’s death marks the end of an era in Indian politics. His leadership and legacy will continue to inspire future generations.
+In April this year, Manmohan Singh retired from Rajya Sabha, with Congress President Mallikarjun Kharge praising his long parliamentary career. Manmohan Singh shot to prominence as the country’s Finance Minister in the government headed by P.V. Narasimha Rao during 1991-96, having brought in sweeping reforms that transformed the economy. (IANS)
+Link: https://ddnews.gov.in/en/central-government-likely-to-announce-seven-day-national-mourning-in-respect-of-manmohan-singh/
+Fetch Time: 2024-12-27 07:33:37
+
