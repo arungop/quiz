@@ -517,3 +517,204 @@ With this move, Indian Railways now operates 17 zones and 69 divisions across th
 Link: https://ddnews.gov.in/en/historic-day-jitendra-singh-praises-inauguration-of-jammu-railway-division/
 Fetch Time: 2025-01-07 02:35:04
 
+Title: Empowering tomorrow: The clean promise of hydrogen
+Publication Date: Tue, 07 Jan 2025 07:21:14 +0000
+Content: Hydrogen is increasingly taking centre stage as nations and industries launch action plans to reduce carbon emissions and meet urgent climate targets. This naturally occurring gas, abundant yet commonly found within other compounds, holds the potential to serve as a clean and adaptable energy source, with its cleaner version developed through renewables-driven processes.
+From large-scale industrial operations to transport, hydrogen, whether liquid or gaseous, can power numerous applications. Most notably, it provides a compelling alternative to fossil fuels in decarbonising the global economy, especially in energy-intensive sectors such as steel manufacturing, oil refining, chemical production, and metallurgy. As renewable energy capacity expands, hydrogen’s role as a complementary fuel grows even more significant.
+Hydrogen: Availability
+Hydrogen is the most common element in the universe: approximately 90% of all atoms are hydrogen. However, on Earth, it rarely exists as a single element; instead, it is typically bound to other atoms (for instance, in water or organic compounds). Producing hydrogen thus requires releasing it from these compounds, an energy-intensive process.
+At present, according to data from the International Renewable Energy Agency, about 75 million tonnes of hydrogen is produced in pure gaseous form, with another 45 million tonnes appearing as part of other gas compounds, equivalent to 3% of global demand.
+Currently, most hydrogen is produced as “grey hydrogen,” derived from fossil fuels such as coal or natural gas.
+Grey, Blue, and Green Hydrogen
+Different types of hydrogen — grey, blue, and green — are classified based on their production methods and related carbon emissions:
+
+Grey Hydrogen: Created from fossil fuels (mostly coal or natural gas) through steam methane reforming (SMR) or coal gasification. This process emits substantial carbon dioxide, making it carbon-intensive.
+Blue Hydrogen: Also generated from fossil fuels, but with the critical distinction that carbon dioxide emissions are captured and stored, thereby cutting overall emissions. Blue hydrogen is often considered a transitional solution, as it utilises the existing grey hydrogen infrastructure alongside carbon capture, utilisation, and storage (CCUS) technologies.
+Green Hydrogen: Produced by splitting water into hydrogen and oxygen via electrolysis powered by renewable sources such as solar or wind. This method yields no direct carbon emissions, with water as the only by-product, making green hydrogen genuinely clean. Once economies of scale are reached, and as production, storage, and transport costs decline, green hydrogen could replace more expensive, polluting fossil fuels in many industrial sectors.
+
+Blue hydrogen can be viewed as a stepping stone on the path to fully clean green hydrogen production, since many industries already use grey hydrogen methods. Simply adding carbon capture and storage infrastructure supports a rapid move towards blue hydrogen, cutting emissions while the global market for green hydrogen continues to develop.
+According to McKinsey’s Global Energy Perspective 2023, nearly all currently used hydrogen is grey. Forecasts, however, indicate a turning point after 2025, when new hydrogen production is predicted to be predominantly clean.
+By 2030, industries now relying on grey hydrogen are projected to increase their use of clean hydrogen by 30%. Throughout the following decade (2030–2040), new sectors and applications are expected to appear, pushing demand even higher. Post-2040, this demand should rise significantly as public and private commitments to carbon neutrality intensify, resulting in a projected total demand of 125–585 million tonnes per annum of clean hydrogen by 2050.
+By 2050, the global hydrogen supply mix is anticipated to undergo a dramatic shift, with green hydrogen comprising 50–65% of supply and blue hydrogen accounting for 20–35%.
+Meanwhile, green hydrogen production costs are set to drop by 30% by 2030, thanks to technological advancements, improved infrastructure, and economies of scale, while grey hydrogen is likely to become more expensive as carbon costs escalate. An additional round of sizeable cost reductions between 2030 and 2050 could drive production expenses as low as USD 1.5 per kg.
+Growing Global Demand and Investment
+Soaring demand for clean energy is prompting substantial investment in hydrogen technologies. As of December 2023, more than 1,400 green hydrogen projects are under development worldwide, drawing around USD 570 billion in direct investment, according to McKinsey. Of this, approximately USD 193 billion has been committed in Europe alone. The European Union aims to invest a further USD 430 billion in green hydrogen by 2030, underlining its dedication to a low-carbon future.
+Since the pre-industrial era, global temperatures have already risen by 1.1°C, and thorough decarbonisation with net-zero emissions is the only way to restrict further temperature increases within 1.5°C. The International Renewable Energy Agency identifies clean hydrogen as a key component for mitigating the effects of climate change, alongside energy efficiency, electrification, and renewables. While these three measures could together deliver 70% of the emission reductions required, clean hydrogen could account for an additional 10%, taking a 12% share of final energy demand.
+India’s Hydrogen Mission
+The nation has pledged to achieve net-zero emissions by 2070, ensuring that any remaining greenhouse gases are offset by carbon capture or other mitigation measures. In addition, India plans to reduce its GDP’s emissions intensity by 45% by 2030 and cut one billion tonnes from its cumulative emissions by the same year.
+To boost these environmental ambitions, India intends to produce 500 gigawatts of energy, about half its total capacity, from renewable sources. By 2047, the country aims to be energy independent, cutting down its current average annual energy import bill of USD 160 billion, which could double to USD 320 billion within 15 years without suitable clean alternatives.
+Under the guidance of the Government of India and NITI Aayog, the country has set its sights on becoming the world’s most economical source of green hydrogen by 2030, targeting production costs of USD 1 per kilogram, to further focus down on energy independence ambition.
+Estimates suggest that India’s green hydrogen market could be valued at USD 8 billion by 2030, soaring to USD 340 billion by 2050. By mid-century, India may meet 10% of global green hydrogen demand, establishing itself as both a clean energy frontrunner and an exporter of zero-carbon products.
+Challenges to Widespread Adoption
+Despite hydrogen’s cosmic abundance, turning it into a widely available, cost-effective energy source remains challenging. Major strides are needed in electrolysis technology, carbon capture, hydrogen storage and transport infrastructure, and scaling up renewable power generation.
+Nonetheless, international cooperation, including substantial investments from Europe, India, and elsewhere, points to a swiftly expanding role for hydrogen in the energy transition.
+Notably, India has introduced a ‘National Green Hydrogen Mission’, with a budget allocation of INR 19,744 crore up to 2029–2030, aimed at supporting the research, development, and deployment of green hydrogen. Policymakers foresee a future in which India minimises its environmental impact while also becoming a major exporter of green hydrogen and related technologies.
+Hydrogen Towards a Greener Future
+Hydrogen, whether in gaseous or liquid form, presents a promising route to cut emissions in electricity generation, transport, and other high-emission industries.
+Progressing from grey hydrogen to blue, and ultimately to green, will help curb global greenhouse gas emissions, boost energy self-sufficiency, and foster fresh economic opportunities across numerous sectors. From Europe’s large-scale investments to India’s ambition of becoming the world’s most cost-competitive green hydrogen producer, momentum behind this versatile energy resource is quickly gathering pace.
+Yet, realising widespread adoption demands collective efforts from governments, industries, and research bodies. Building the necessary infrastructure, driving down production costs, and resolving technical hurdles are essential next steps. If these challenges are addressed, hydrogen energy, particularly in its clean, green form, could well become a defining pillar of a sustainable, zero-carbon future.
+Link: https://ddnews.gov.in/en/empowering-tomorrow-the-clean-promise-of-hydrogen/
+Fetch Time: 2025-01-07 07:33:20
+
+Title: RBI increased gold reserves by 8 tonnes in November amid safe-haven demand
+Publication Date: Tue, 07 Jan 2025 07:07:00 +0000
+Content: The Reserve Bank of India (RBI) bought eight tonnes of gold in November 2024 as central banks around the world continued their buying spree with a collective purchase of 53 tonnes of the precious metal during the month, according to the latest World Gold Council (WGC) report.
+The decline in gold prices during November, following the US election, may have provided some central banks with the added impetus to accumulate the precious metal, the report pointed out.
+RBI has, like other central banks, been buying gold as a safe-haven asset. The strategy of holding gold is primarily aimed at hedging against inflation and reducing foreign currency risks, especially in times of uncertainty triggered by geopolitical tensions.
+With the addition of eight tonnes of gold to its reserves in November, the RBI has increased its buying to 73 tonnes in the first 11 months of 2024 and its total gold holdings to 876 tonnes, maintaining its position as the second largest buyer during the year after Poland.
+The People’s Bank of China (PBoC) has resumed gold purchases after a six-month gap, adding five tonnes of gold to its reserves, increasing its year-to-date net purchases to 34 tonnes and its total reported gold holdings to 2,264 tonnes (5 per cent of total reserves), the report said.
+Meanwhile, the Monetary Authority of Singapore was the month’s largest seller, reducing its gold reserves by 5 tonnes, bringing the year-to-date net sales to 7 tonnes and overall gold holdings to 223 tonnes, it added.
+The RBI’s gold purchases have shot up by five-fold over the quantity of the precious metal bought in the same period of 2023, according to WGC figures.
+According to the data, the RBI’s total gold reserves have now gone up to 876 tonnes, of which 510 tonnes are held in India.
+According to WGC, the central banks that bought gold during the month are those of Poland adding 21 tonnes and Uzbekistan buying nine tonnes.
+These large purchases of gold by central banks have also been driving up prices of the precious metal in the global market.
+More than half of the RBI’s gold reserves are held overseas in secure custody with the Bank of England and the Bank of International Settlements, while approximately a third is stored in the RBI’s vaults in Nagpur and Mumbai.
+The Reserve Bank shifted 100 metric tonnes of its gold kept in bank vaults in the United Kingdom to its own vaults in India in 2024 as there was enough domestic storage capacity in the country.
+The shifting of the gold reserves is expected to result in a saving in the high fees that were paid for the use of vaults in the UK.
+(IANS)
+Link: https://ddnews.gov.in/en/rbi-increased-gold-reserves-by-8-tonnes-in-november-amid-safe-haven-demand/
+Fetch Time: 2025-01-07 07:33:20
+
+Title: Education minister Pradhan releases draft UGC regulations 2025 for teacher appointments and promotions
+Publication Date: Tue, 07 Jan 2025 06:51:06 +0000
+Content: Union Education Minister Dharmendra Pradhan unveiled the draft UGC (Minimum Qualifications for Appointment and Promotion of Teachers and Academic Staff in Universities and Colleges and Measures for Maintenance of Standards in Higher Education) Regulations, 2025, at a ceremony in New Delhi on Monday.
+Addressing the gathering, Pradhan highlighted the transformative nature of the draft regulations, emphasizing that they would introduce flexibility, inclusivity, and dynamism to the Indian higher education system.
+One of the key aspects of the draft regulations is the flexibility they offer to candidates seeking teaching careers. Under the new guidelines, individuals will have the opportunity to pursue teaching roles in subjects they qualify for, based on their NET/SET qualifications, even if those subjects are different from their previous academic degrees. Moreover, the regulations prioritize Ph.D. specialisation, enabling a more specialized approach to teaching and research.
+The regulations also place a strong emphasis on promoting the use of Indian languages in academic publications and degree programs.
+Another major shift is the transition from traditional score-based shortlisting methods to a more holistic evaluation system. This new approach will consider a broader range of qualifications, including ‘Notable Contributions,’ offering a fairer assessment of candidates’ qualifications beyond just numerical scores.
+The draft guidelines open new avenues for a more diverse talent pool in academic institutions. Dedicated recruitment pathways will be created for experts in arts, sports, and traditional disciplines, allowing institutions to tap into a wider range of expertise. In line with the spirit of inclusivity, the regulations offer opportunities for accomplished sportspersons, including those with disabilities, to enter the teaching profession. This initiative is expected to increase representation and participation from diverse backgrounds in academia.
+Pradhan also underscored the importance of enhanced governance, particularly in the selection process for Vice-Chancellors. The new guidelines propose a revision of eligibility criteria for Vice-Chancellor appointments, ensuring greater transparency and fairness. The promotion process for academic staff has also been simplified, with a focus on essential factors such as teaching quality, research output, and overall academic contributions. This streamlining is designed to make the career progression of academic staff more straightforward and merit-based.
+Professional development remains a priority, which encourage continuous learning and skill enhancement for teachers through faculty development programs.
+Additionally, the regulations propose enhanced transparency and accountability across the entire academic ecosystem. By instituting clearer and more open processes for recruitment, promotion, and grievance redressal, the regulations aim to ensure fairness and integrity in the academic system.
+At the event, Pradhan also expressed his pride in the UGC’s decision to name the new auditorium ‘Pushpagiri,’ in honor of the ancient intellectual heritage of Odisha. He noted that Pushpagiri, once a cradle of knowledge and enlightenment in Jajpur, Odisha, was an ideal name for the auditorium, reflecting India’s rich academic and cultural history.
+Link: https://ddnews.gov.in/en/education-minister-pradhan-releases-draft-ugc-regulations-2025-for-teacher-appointments-and-promotions/
+Fetch Time: 2025-01-07 07:33:20
+
+Title: Record delegation from Oman to attend Pravasi Bharatiya Divas in Odisha
+Publication Date: Tue, 07 Jan 2025 06:49:43 +0000
+Content: The largest Indian diaspora delegation from Oman, comprising over 300 members, is set to participate in the 18th Pravasi Bharatiya Divas Convention taking place in Odisha from January 8-10, 2025.
+The delegation represents a diverse cross-section of the Indian community in Oman, including business leaders and prominent community figures.
+Indian Ambassador to Oman, Amit Narang, launched the delegation at an Embassy ceremony, where he unveiled a special “PRAVASI FROM OMAN” logo designed for the participants.
+During the ceremony, delegates received merchandise kits featuring the logo, which represents the historical journey of Indians in Oman.
+“Pravasi Bharatiya Divas is an important platform for our diaspora to reconnect with Bharat and contribute meaningfully to its developmental journey,” Ambassador Narang told the gathering, emphasizing the convention’s role in strengthening ties between India and its global diaspora.
+The strong Omani participation underscores the enduring connection between the Indian community in Oman and their homeland, as India continues its emergence as a global power.
+On the sidelines of PBD 2025, a special exhibition on diaspora archives curated by National Archives of India will showcase digitized documents highlighting the Indian diaspora’s history in Oman.
+The exhibition is based on a landmark project conducted by the Embassy of India, Muscat that successfully digitized over 7000 records in English, Arabic, Gujarati and Hindi from the private collections of long-resident historical Indian merchant families in Oman.
+A senior delegation from the Hindu Mahajan families of Oman, whose documents were part of this initiative, will attend the exhibition at PBD 2025.
+This first of its kind exhibition is a proud moment for the Indian diaspora in Oman as their motherland recognizes and celebrates their rich history as pravasis abroad.
+Two distinguished members of the Omani Indian diaspora will serve as panel speakers at the convention. Mohiuddin Mohammad Ali, Vice Chairman of Galfar Engineering & Contracting SAOG, will address the Diaspora Youth Leadership session, while Aishwarya Hegde, Founder Director of Deepam Odissi Academy, will participate in discussions on diaspora culture and connections.
+Link: https://ddnews.gov.in/en/record-delegation-from-oman-to-attend-pravasi-bharatiya-divas-in-odisha/
+Fetch Time: 2025-01-07 07:33:20
+
+Title: UK politicians urge England to boycott Afghanistan match over treatment of women
+Publication Date: Tue, 07 Jan 2025 06:42:12 +0000
+Content: A group of British lawmakers urged England to boycott their Champions Trophy match against Afghanistan next month, saying the country’s cricket board (ECB) needed to take a stand against the Taliban’s crackdown on women.
+Since the Taliban returned to power in 2021 it has clamped down on the rights of women and girls, restricting their access to education and work, curbing their freedom of movement, and forcing them to cover their faces and bodies.
+Women and girls have also been barred from sports and gyms, a breach of the International Cricket Council’s (ICC) rules. The Afghanistan women’s team was also disbanded, with several members fleeing the country after 2021.
+England are scheduled to face Afghanistan in a group-stage match on Feb. 26 in Lahore, Pakistan.
+A letter signed by more than 160 politicians on Monday called for England’s players and officials to speak out against the treatment of women and girls in Afghanistan.
+“We also urge the ECB to consider a boycott of the upcoming match against Afghanistan in the ICC Champions Trophy Group stage on February 26th to send a clear signal that such grotesque abuses will not be tolerated,” the letter added.
+ECB chief executive Richard Gould responded by calling for a uniform approach from all member nations towards Afghanistan’s participation in international cricket.
+“The ECB strongly condemns the treatment of women and girls in Afghanistan under the Taliban regime,” Gould said.
+“The ICC Constitution mandates that all member nations are committed to the growth and development of women’s cricket. In line with this commitment, the ECB has maintained its position of not scheduling any bilateral cricket matches against Afghanistan.
+“While there has not been a consensus on further international action within the ICC, the ECB will continue to actively advocate for such measures. A coordinated, ICC-wide approach would be significantly more impactful than unilateral actions by individual members.”
+England previously faced Afghanistan at the 50-overs Cricket World Cup in 2023, as well as at the Twenty20 World Cup in 2022.
+Last year, Australia called off a T20 series against Afghanistan citing the deteriorating human rights situation for women.
+(Reuters)
+Link: https://ddnews.gov.in/en/uk-politicians-urge-england-to-boycott-afghanistan-match-over-treatment-of-women/
+Fetch Time: 2025-01-07 07:33:20
+
+Title: India logs 9.1% jump in automobile sales in 2024 with growth in most segments
+Publication Date: Tue, 07 Jan 2025 06:35:29 +0000
+Content: India’s retail automobile sales witnessed a robust 9.1% growth in 2024, reaching 2.61 crore units, overcoming hurdles such as extreme weather conditions, elections, and uneven monsoons, according to data released by the Federation of Automobile Dealers Association (FADA).
+Segment-wise, two-wheeler sales registered a notable 10.7% increase, while three-wheelers grew by 10.4%, passenger vehicles by 5.1%, and tractors by 2.5%. However, the commercial vehicle segment remained nearly flat, with a marginal growth of 0.07%.
+Three-wheelers, passenger vehicles, and tractors achieved record-high sales in 2024, while two-wheelers nearly matched their 2018 peak. Commercial vehicles, however, are yet to surpass their 2018 levels.
+FADA highlighted several challenges faced by the industry, including financing constraints and competition from electric vehicles affecting internal combustion engine two-wheelers. Meanwhile, commercial vehicle sales were impacted by election-related uncertainty and reduced infrastructure spending. Passenger vehicle sales faced margin pressures due to higher inventory and increased discounts.
+Despite the annual growth, December 2024 saw an overall 12.4% decline in retail automobile sales compared to the previous year. Two-wheelers recorded a significant 17.6% drop, three-wheelers declined by 4.5%, passenger vehicles by 1.9%, and commercial vehicles by 5.2%. The tractor segment, however, stood out with a 25.7% year-on-year growth in December.
+Looking ahead, FADA said that nearly 48% of automobile dealers expect growth in January 2025, while 41.22% anticipate flat sales, and 10.69% foresee a slowdown. The two-wheeler segment could benefit from improved minimum support prices (MSP) and better rural liquidity, though challenges like financing and the shift to electric vehicles persist.
+Passenger vehicles are expected to see a boost from new launches, marriage-season demand, and promotional activities, but potential price hikes could limit growth.
+In the long term, optimism prevails for 2025, with 66% of dealers projecting growth, 26.72% expecting stability, and only 6.87% anticipating a downturn.
+“FADA remains optimistic that market recovery, coupled with strategic OEM support and policy-level clarity, will enable the automotive retail industry to conclude 2025 on a strong note,” the industry body said.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/india-logs-9-1-jump-in-automobile-sales-in-2024-with-growth-in-most-segments/
+Fetch Time: 2025-01-07 07:33:20
+
+Title: ECI set to announce Delhi assembly election schedule
+Publication Date: Tue, 07 Jan 2025 06:00:28 +0000
+Content: The Election Commission of India (ECI) is set to announce the much-anticipated schedule for the 70-member Delhi Assembly elections on Tuesday.
+The announcement will be made during a press conference at 2 PM in the Plenary Hall of Vigyan Bhawan, setting the stage for a highly competitive election season in the national capital.
+The current term of the Delhi Assembly is set to expire on February 23, 2025, requiring the entire election process to be completed before this date.
+As part of the preparations, the ECI released a revised voter list on Monday, showing a significant increase in the voter base.
+The number of registered voters in Delhi has risen from 1,53,57,529 in October 2024 to 1,55,24,858 by December 2024, reflecting the addition of 1,67,329 new voters.
+The ECI has also issued a caution against the submission of false or fabricated documents for obtaining voter IDs, emphasizing the importance of maintaining the integrity of the electoral process.
+With the announcement of the election schedule imminent, the political battleground in Delhi is already heating up. The ruling Aam Aadmi Party (AAP) has declared candidates for all 70 seats.
+Party chief and former Delhi Chief Minister Arvind Kejriwal is once again contesting from the New Delhi seat, while current Chief Minister Atishi will be running from the Kalkaji seat.
+The Bharatiya Janata Party (BJP) has also released its first list of 29 candidates, featuring prominent names.
+Former AAP ministers Kailash Gahlot and Raj Kumar Anand will contest from Bijwasan and Patel Nagar, respectively, while former Congress leader Arvind Singh Lovely is set to run from Gandhi Nagar. Pravesh Sahib Singh Verma, son of former Chief Minister Sahib Singh Verma, has been fielded against Kejriwal in the high-profile New Delhi seat.
+Former South Delhi MP Ramesh Bidhuri will face a tough battle against Chief Minister Atishi in Kalkaji, with the BJP aiming to make significant inroads in this key constituency.
+In the prestigious New Delhi seat, voters will witness a three-way contest between AAP, BJP, and Congress.
+While Kejriwal leads AAP, the BJP has fielded Pravesh Sahib Singh Verma, and Congress has nominated Sandeep Dikshit, son of former Delhi Chief Minister Sheila Dikshit, to challenge Kejriwal.
+The Kalkaji seat is also expected to see a closely contested fight, with BJP’s Ramesh Bidhuri taking on Chief Minister Atishi. Congress has announced Alka Lamba as its candidate for the same constituency.
+The Congress party, which has so far announced 48 candidates, is expected to release additional names in the coming days as the race intensifies.
+With political momentum building, all eyes are now on the ECI’s announcement, which will officially kick-start the countdown to what promises to be a fierce electoral contest in Delhi.
+(With IANS input)
+Link: https://ddnews.gov.in/en/eci-set-to-announce-delhi-assembly-election-schedule/
+Fetch Time: 2025-01-07 07:33:20
+
+Title: PM Modi meets US NSA Jake Sullivan, reviews India-US strategic partnership
+Publication Date: Tue, 07 Jan 2025 05:58:28 +0000
+Content: Prime Minister Narendra Modi met with US National Security Advisor Jake Sullivan in New Delhi on Monday and reviewed the progress of the India-US Comprehensive Global Strategic Partnership over the past four years.
+During the meeting, PM Modi expressed his appreciation for a letter from US President Joe Biden, which was personally delivered by Sullivan.
+PM Modi reaffirmed his commitment to deepening India-US cooperation for the benefit of both nations and the global community, according to a statement by the Ministry of External Affairs (MEA). He also conveyed his best wishes to President Biden and First Lady Jill Biden.
+The MEA highlighted the positive assessment of advancements in key areas of collaboration between the two nations, including technology, defence, space, civil nuclear energy, clean energy, semiconductors, and artificial intelligence (AI). The meeting underscored the substantial progress made in the bilateral relationship, with PM Modi recalling his productive engagements with President Biden, particularly during his visit to the US for the Quad Leaders’ Summit in September 2024.
+“Recalling his various meetings with President Biden, PM Modi appreciated the US President’s contributions to strengthening the India-US Comprehensive Global Strategic Partnership, which has left an enduring legacy,” the MEA said.
+In a post on X, PM Modi shared his enthusiasm for building on the growing momentum in ties between the two democracies. He wrote, “It was a pleasure to meet the US National Security Advisor @JakeSullivan46. The India-US Comprehensive Global Strategic Partnership has scaled new heights, including in the areas of technology, defence, space, biotechnology, and Artificial Intelligence. Look forward to building upon this momentum in ties between our two democracies for the benefit of our people and global good.”
+As part of his two-day visit to India, Sullivan also met with External Affairs Minister S. Jaishankar on Monday. The two leaders discussed strategies to enhance bilateral, regional, and global cooperation. Jaishankar acknowledged Sullivan’s “personal contribution” to fortifying the India-US partnership over the past four years, noting the openness of their discussions.
+Sharing details of the meeting on X, Jaishankar said, “Delighted to meet US NSA @JakeSullivan46 in New Delhi today morning. Continued our ongoing discussions on deepening bilateral, regional, and global cooperation. Valued the openness of our conversations in the last four years. Appreciated his contribution to forging a closer and stronger India-US partnership.”
+India’s National Security Advisor Ajit Doval also engaged with Sullivan during the visit. The two counterparts reviewed progress in high-level dialogues, focusing on areas such as defence, cyber, and maritime security.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/pm-modi-appreciates-letter-from-us-president-biden-handed-over-by-nsa-sullivan/
+Fetch Time: 2025-01-07 07:33:20
+
+Title: Powerful Tibet earthquake, near Nepal, kills at least 53
+Publication Date: Tue, 07 Jan 2025 05:53:52 +0000
+Content: A magnitude 6.8 earthquake rocked the northern foothills of the Himalayas near one of Tibet’s holiest cities on Tuesday, Chinese authorities said, killing at least 53 people and shaking buildings in neighbouring Nepal, Bhutan and India.
+The quake hit at 9:05 a.m. (0105 GMT), with its epicentre located in Tingri, a rural Chinese county known as the northern gateway to the Everest region, at a depth of 10 km (6.2 miles), according to the China Earthquake Networks Centre. The U.S. Geological Service put the quake’s magnitude at 7.1.
+At least 53 people had been killed and 62 injured on the Tibetan side, China’s state-run news agency Xinhua reported.
+Southwestern parts of China, Nepal and northern India are frequently hit by earthquakes caused by the collision of the Indian and Eurasian tectonic plates.
+A magnitude 7.8 tremor struck near Kathmandu in 2015, killing about 9,000 people and injuring thousands in Nepal’s worst ever earthquake. Among the dead were at least 18 people killed at the Mount Everest base camp when it was smashed by an avalanche.
+Tuesday’s epicentre was around 80 km (50 miles) north of Mount Everest, the world’s highest mountain and a popular destination for climbers and trekkers.
+Winter is not a popular season for climbers and hikers in Nepal, with a German climber the lone mountaineer with a permit to climb Mount Everest. He had already left the base camp after failing to reach the summit, Lilathar Awasthi, a Department of Tourism official, said.
+Nepal’s National Disaster Risk Reduction and Management Authority (NDRRMA) said the tremors were felt in seven hill districts bordering Tibet.
+“So far we have not received any information of any loss of life and property,” NDRRMA spokesman Dizan Bhattarai told Reuters. “We have mobilised police, security forces and local authorities to collection information,” he said.
+Many villages in the Nepalese border area, which are sparsely populated, are remote and can only be reached by foot.
+AFTERSHOCKS, DAMAGE
+The impact of the temblor was felt across the Shigatse region of Tibet, home to 800,000 people. The region is administered by Shigatse city, the traditional seat of the Panchen Lama, one of the most important figures in Tibetan Buddhism.
+Chinese President Xi Jinping said all-out search and rescue efforts should be carried out to minimise casualties, properly resettle the affected people, and ensure a safe and warm winter.
+Villages in Tingri reported strong shaking during the quake, which was followed by dozens of aftershocks with magnitudes of up to 4.4.
+Crumbled shop fronts could be seen in a video on social media showing the aftermath from the town of Lhatse, with debris spilling out onto the road.
+Reuters was able to confirm the location from nearby buildings, windows, road layout, and signage that match satellite and street view imagery.
+There are three townships and 27 villages within 20 km (12 miles) of the epicentre, with a total population of around 6,900, Xinhua reported. Local government officials were liaising with nearby towns to gauge the impact of the quake and check for casualties, it added.
+Tremors were also felt in Nepal’s capital Kathmandu some 400 km (250 miles) away, where residents ran from their houses.
+The quake also jolted Thimphu, the capital of Bhutan, and the northern Indian state of Bihar which borders Nepal.
+So far, no reports of any damage or loss to property have been received, officials in India said.
+(Reuters)
+Link: https://ddnews.gov.in/en/powerful-earthquake-hits-kathmandu-valley-tremors-felt-across-nepal-and-bangladesh/
+Fetch Time: 2025-01-07 07:33:20
+
+Title: Labourers trapped in coal mine, Army team reaches Assam’s Umrangso
+Publication Date: Tue, 07 Jan 2025 05:42:29 +0000
+Content: A task force of the Indian Army and Assam Rifles have reached Umrangso in the Dima Hasao district of Assam where at least nine labourers are trapped in a coal mine, officials said on Tuesday.
+A senior Army official said, “Engineers Task Force with equipment, divers and medical teams from the Indian Army and Assam Rifles have joined rescue efforts in Umrangso, Assam. All efforts are underway in close coordination with the civil administration.”
+On Monday, Chief Minister Himanta Biswa Sarma said that at least nine labourers have been identified who were trapped in a coal mine in Umrango locality.
+The state administration and police have launched an operation to rescue the trapped labourers in the mine. According to police, the exact number of labourers who got trapped inside the coal mine is still unknown.
+Out of the nine labourers who were trapped still in the coal mine, one is a national of Nepal, one from West Bengal and the rest hail from different parts of Assam.
+The miners have been identified as Ganga Bahadur Shreth, Hussain Ali, Jakir Hussain, Sarpa Barman, Mustafa Seikh, Khusi Mohan Rai, Sanjit Sarkar, Lijan Magar and Sarat Goyary.
+The state administration sought assistance from the Army in the rescue operation.
+Taking to X, CM Sarma wrote, “We have requested the Army’s assistance in the ongoing rescue operation. The State Disaster Response Force (SDRF) and the National Disaster Response Force (NDRF) are also on their way to the incident site to aid in the efforts.”
+The CM has sent the District Commissioner and superintendent of Police of the Dima Hasao district to the site.
+Earlier, Food and Civil Supply Minister Kaushik Rai rushed to the site. “Distressing news from Umrangshu, where laborers are trapped in a coal mine. The exact number and status are yet unknown. The DC, SP, and my colleague, Shri Kaushik Rai, are rushing to the site. Praying to God for everyone’s safety,” CM Sarma mentioned in an X post soon after the news came on Monday.
+(IANS)
+Link: https://ddnews.gov.in/en/labourers-trapped-in-coal-mine-army-team-reaches-assams-umrangso/
+Fetch Time: 2025-01-07 07:33:20
+
