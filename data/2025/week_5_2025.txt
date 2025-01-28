@@ -597,3 +597,169 @@ The event serves as a strategic platform for India’s healthcare sector to stre
 Link: https://ddnews.gov.in/en/indian-healthcare-sector-makes-strong-showing-at-arab-health-2025/
 Fetch Time: 2025-01-28 02:29:10
 
+Title: Why DeepSeek’s Rise Is a Black Swan Moment for the AI Industry?
+Publication Date: Tue, 28 Jan 2025 07:29:06 +0000
+Content: DeepSeek, a groundbreaking AI startup based in Hangzhou, China, has captured global attention with the launch of its revolutionary language model, DeepSeek-R1. Released on January 20, this cutting-edge model competes with industry leaders like OpenAI’s o1 while costing a fraction of the price. With exceptional capabilities in solving complex problems across chemistry, mathematics, and coding, DeepSeek-R1 is heralding a new era in artificial intelligence (AI). Its unmatched combination of affordability and performance is transforming the AI landscape, inspiring excitement among scientists, researchers, and investors alike.
+Unveiling a Cost-Efficient Innovation Strategy
+What sets DeepSeek apart is its innovative, cost-efficient approach. While most state-of-the-art AI models demand vast financial and computational resources, DeepSeek-R1 was developed with just $6 million spent on hardware. In stark contrast, models like Meta’s Llama 3.1 405B required $60 million and eleven times the computational power. This achievement underscores a paradigm shift in AI development, demonstrating that breakthroughs do not necessarily require exorbitant investments. Instead, ingenuity and efficiency can challenge even the most entrenched norms of the industry.
+Impact on Global Financial Markets
+DeepSeek’s ground-breaking achievement is not confined to the research lab. Its ripple effects have been felt across global financial markets, shaking the foundations of established tech giants. Nvidia, a leader in AI, witnessed a sharp 17% decline in its stock price, wiping out an estimated $593 billion in market value. Similar declines were observed for other industry leaders, including Microsoft and Alphabet. The scale of this market reaction highlights the disruptive potential of DeepSeek’s innovation. By proving that cutting-edge AI can be achieved with modest resources, DeepSeek has upended the belief that only large-scale investments can drive technological progress. For the tech industry, this development serves as a reminder of the unpredictable and transformative power of innovation.
+What is a Black Swan Event?
+DeepSeek’s rapid rise has been described as a “black swan event.” A black swan event refers to a rare and unpredictable occurrence that significantly disrupts industries or markets. The concept, popularized by Nassim Nicholas Taleb, is characterized by its unexpected nature, its profound impact, and the tendency to rationalize its occurrence in hindsight. DeepSeek embodies these traits, as its ability to create world-class AI with constrained resources has redefined what is considered possible in the AI industry.
+Historically, AI advancements have been associated with large budgets and exclusive access to top-tier infrastructure. DeepSeek’s success challenges this notion, proving that resourcefulness can rival even the most well-funded initiatives. Its emergence at a time of intensifying global competition in AI adds to its significance. This development forces policymakers and industry leaders to question their strategies for maintaining technological leadership and ensuring adaptability in an era of rapid innovation. DeepSeek’s achievements are even more remarkable given the constraints imposed by U.S. export controls. These restrictions were designed to limit Chinese firms’ access to advanced AI chips, aiming to slow technological advancements in the region.  This success has reignited global debates about the efficacy of restrictive policies. By demonstrating that innovation cannot be easily contained, DeepSeek has forced nations to reconsider their strategies for maintaining competitiveness in the global AI race.
+How is DeepSeek such a game-changer?
+AI is an energy-intensive and expensive technology, to the point where some of America’s top tech leaders are acquiring nuclear power companies to supply the electricity needed for their AI models. Earlier in January this year, Meta announced it would invest over $65 billion this year in AI development. OpenAI’s CEO, Sam Altman, mentioned last year that the AI industry would require trillions in investments to support the high-demand chips necessary for powering the energy-heavy data centres that run the sector’s intricate models. The idea that comparable capabilities to those of America’s leading AI models can be achieved at a fraction of the cost, using less powerful chips, marks a significant shift in the industry’s perspective on the level of investment AI requires. Despite its critics, proponents of the technology envision a bright future: AI is expected to propel the global economy into a new era, enhancing efficiency and unlocking new capabilities across various industries, ultimately paving the way for ground breaking research and development.
+A Commitment to Transparency and Collaboration
+DeepSeek has distinguished itself not only with its technical achievements but also with its commitment to transparency and collaboration. Its R1 model has been released as an “open-weight” system, allowing researchers worldwide to analyse and build upon its algorithms. Licensed under MIT terms, the model has been praised for its accessibility, even though it stops short of being fully open-source due to undisclosed training data. “The openness of DeepSeek is quite remarkable,” noted Mario Krenn, head of the Artificial Scientist Lab at the Max Planck Institute for the Science of Light. This collaborative approach contrasts with competitors like OpenAI, whose models have been criticised for their lack of transparency. By prioritizing openness, DeepSeek is fostering a culture of global cooperation in AI research and setting a new standard for the industry.
+A New Frontier in AI
+DeepSeek’s emergence as a disruptive force in AI marks a pivotal moment in technological innovation. By achieving extraordinary performance with limited resources, the startup is redefining the boundaries of what is possible in AI development. Its commitment to transparency and global collaboration sets a new benchmark for the industry, challenging both traditional investment models and the dominance of established tech giants. As DeepSeek continues to reshape the landscape, its success encourages a more inclusive and accessible future for AI, one where efficiency and ingenuity, rather than vast financial resources, drive progress and global transformation.
+Link: https://ddnews.gov.in/en/why-deepseeks-rise-is-a-black-swan-moment-for-the-ai-industry/
+Fetch Time: 2025-01-28 07:33:20
+
+Title: Google Maps to rename ‘Gulf of Mexico’ to ‘Gulf of America’ for US users
+Publication Date: Tue, 28 Jan 2025 07:20:23 +0000
+Content: Google Maps will change the name of “Gulf of Mexico” to “Gulf of America” once it is officially updated in the U.S. Geographic Names System, Google said in an X post on Monday.
+The change will be visible in the U.S., but the name will remain “Gulf of Mexico” in Mexico. Outside of the two countries, users will see both names on Google Maps.
+The Trump administration’s Interior Department said on Friday it had officially changed the name of the Gulf of Mexico to the Gulf of America, and the Alaskan peak Denali, the tallest mountain in North America, to Mount McKinley.
+Google Maps, which is owned by Alphabet’s Google, will make a similar change with Mount McKinley.
+President Donald Trump ordered the name changes as part of a flurry of executive actions hours after taking office on Jan. 20, making good on a campaign promise.
+“As directed by the President, the Gulf of Mexico will now officially be known as the Gulf of America and North America’s highest peak will once again bear the name Mount McKinley,” the Interior Department said in a statement last week.
+Mexican President Claudia Sheinbaum earlier this month jokingly suggested North America, including the United States, be renamed “Mexican America” – a historic name used on an early map of the region.
+Reached for comment, a Google spokesperson referred Reuters to the company’s X post.
+Google has applied the same locale-based labeling conventions to other locations subject to naming disputes.
+Outside of Japan and South Korea, the body of water bordering both nations is listed as the “Sea of Japan (East Sea).”
+In 2012, Iran threatened to take legal action against Google over its decision to drop the term “Persian Gulf” from its Google Maps and leaving the waterway between Iran and the Arabian peninsula nameless. The body of water is now labeled “Persian Gulf (Arabian Gulf)” in other countries.
+(Reuters)
+Link: https://ddnews.gov.in/en/google-maps-to-rename-gulf-of-mexico-to-gulf-of-america-for-us-users/
+Fetch Time: 2025-01-28 07:33:20
+
+Title: UPI’s share in India’s digital payments surged to 83%: RBI report
+Publication Date: Tue, 28 Jan 2025 07:11:29 +0000
+Content: The share of the Unified Payments Interface (UPI) in India’s digital payments has surged from 34 per cent in 2019 to an impressive 83 per cent in 2024, with a remarkable compound annual growth rate (CAGR) of 74 per cent over the last five years, according to the RBI’s payment system report.
+In contrast, the share of other payment systems like RTGS, NEFT, IMPS, credit cards, debit cards, etc., in digital payments volume declined from 66 per cent to 17 per cent during the same period, the report states.
+UPI has been the most significant contributor to the growth of digital payments in India due to its usefulness and ease of use, the report points out.
+At a macro level, the volume of UPI transactions increased from 375 crore in 2018 to 17,221 crore in 2024, whereas the total value of transactions surged from ₹5.86 lakh crore in 2018 to ₹246.83 lakh crore in 2024.
+This amounts to a five-year CAGR of 89.3 per cent and 86.5 per cent in terms of volume and value, respectively, the report states.
+Both P2P (person-to-person) and P2M (person-to-merchant) transactions leverage UPI’s secure and real-time payment capabilities, making it easier for individuals and businesses to execute financial transactions without relying on traditional, time-consuming methods.
+The UPI P2M transaction volume has surpassed the UPI P2P transaction volumes since 2023; however, in value terms, the UPI P2P transaction value is still higher than UPI P2M transaction values.
+Over the past few years, digital payments in India have witnessed phenomenal growth buoyed by the spectacular progress of UPI and the plethora of digital payment options available. In 2024 alone, India recorded 208.5 billion digital payment transactions.
+UPI P2M grew at a CAGR of 99 per cent for transaction values below ₹500 over 2019-24. In contrast, UPI P2P grew at a CAGR of 56 per cent during the same period.
+For higher ticket-sized transactions — those exceeding ₹2,000 — UPI P2M grew at a CAGR of 109 per cent during the same five-year period, while UPI P2P recorded a CAGR of 57 per cent.
+The National Payments Corporation of India’s (NPCI) low-value transaction payment method, UPI Lite, recorded 2.04 million transactions daily, valued at ₹20.02 crore in December 2024.
+“When Paytm and PhonePe introduced UPI Lite on February 15, 2023, and May 2, 2023, respectively, a sustained increase in UPI Lite payment volumes and values was observed,” the RBI report observes.
+“UPI has propelled India to the forefront in the provision of digital payment solutions as ‘public good.’ This public good approach has the potential to be adopted by other economies, whatever stage of development they are at. UPI and its features bear lessons on the democratisation of the payment system to the smallest value and penetration of digital payments to previously unreached segments,” the report added.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/upis-share-in-indias-digital-payments-surged-to-83-rbi-report/
+Fetch Time: 2025-01-28 07:33:20
+
+Title: Khelo India Winter Games 2025: Ladakh finish on top; Army edge out ITBP to retain ice hockey title
+Publication Date: Tue, 28 Jan 2025 07:10:48 +0000
+Content: The Union Territory of Ladakh finished on top of the Khelo India Winter Games (KIWG) 2025, the first phase of which concluded at the NDS Stadium on Monday. Leh, the capital of Ladakh, hosted the games for the second time this year.
+The grand finale featured a thrilling men’s ice hockey final, where the Indian Army edged past ITBP 2-1 to retain the KIWG crown.
+The second and final phase of KIWG 2025 is scheduled to take place in Gulmarg, Jammu & Kashmir, from February 22 to 25.
+Ladakh bagged two of the four gold medals decided on Monday. Their mixed relay team, comprising Stanzin Jampal, Skarma Tsultim, Mohammed Saquaf Raza, and Padma Angmo, clinched gold with a time of 3:02.19 seconds. Maharashtra (3:03.78 seconds) and Telangana (3:04.85 seconds) secured silver and bronze, respectively.
+There was more joy for local fans as the Ladakh women’s ice hockey team exacted sweet revenge by defeating ITBP 4-0 to top the women’s round-robin league at a packed NDS Stadium complex. This victory was especially significant as Ladakh had lost to ITBP by the same 4-0 margin in last year’s final. Himachal Pradesh took home the bronze medal.
+“It feels amazing and it’s a big moment for our team. Last year, we lost to ITBP, but this year, we made a strong comeback. A huge thanks to our coach and the Khelo India administration for bringing this event to Ladakh and making this possible for us,” said Padma Chorol, a senior member of the Ladakh women’s ice hockey team, according to a press release.
+Tamil Nadu shines in skating
+Tamil Nadu emerged as a growing hub for skating talent. Yashashree secured Tamil Nadu’s third gold medal in the final skating event—the women’s 500m long track—held at Gupuks. She clocked 00:58.00 seconds, narrowly beating Riya Vilas Gayakwad of Maharashtra (1:04.31 seconds) and Srija S. Rao of Karnataka (1:04.93 seconds).
+Overall, Ladakh topped the medal tally with seven medals, including four golds. Tamil Nadu followed with five medals, including three golds, while Maharashtra, despite winning the highest number of medals (10), finished third with only two golds. Maharashtra had topped KIWG 2024, securing 20 skating medals, including six golds. Telangana (two golds) and Karnataka (one gold) rounded out the top five.
+Army retains ice hockey crown
+The Indian Army successfully defended their ice hockey title, prevailing in a nail-biting final against ITBP. Supported by enthusiastic fans from the Ladakh Scouts Regimental Centre, the Army team played with vigor from the start.
+The final saw no goals in the first two periods, with all three goals coming in the last 15 minutes. Rigzin Norboo gave the Army an early lead in the final period, assisted by national player Dorjay Angchok. ITBP equalized in the 13th minute through Rigzin Norboo on an assist from Tashi Namgail. However, Padma Norboo scored the decisive goal in the final minute, again assisted by Angchok, securing a 2-1 victory for the Army.
+“Our team has been playing matches back-to-back, starting with the CEC Cup, then the LG Cup, and now Khelo India. We didn’t get much time to practice, but I’m glad the team performed well. We won all three Cups, and I’m happy with their performance. I also want to thank the ITBP team for giving us tough competition in today’s final”, Army coach Rinchen Tundup said.
+Link: https://ddnews.gov.in/en/khelo-india-winter-games-2025-ladakh-finish-on-top-army-edge-out-itbp-to-retain-ice-hockey-title/
+Fetch Time: 2025-01-28 07:33:20
+
+Title: NIA team set to visit US for extradition of 26/11 Mumbai attacks mastermind Tahawwur Rana
+Publication Date: Tue, 28 Jan 2025 07:02:08 +0000
+Content: A high-level team from the National Investigation Agency (NIA) is expected to travel to the United States soon to finalize the extradition of Tahawwur Rana, a key figure wanted for his involvement in the 26/11 Mumbai terror attacks, according to sources cited by ANI.
+The visit follows a major legal breakthrough after the US Supreme Court recently dismissed a review petition filed by Rana challenging his extradition to India. This development clears the way for Indian authorities to expedite legal proceedings and secure his return.
+As per sources, senior officials of the NIA, including those at the ranks of Inspector General and Deputy Inspector General, are likely to travel to the US by the end of this month. The plan has reportedly been shared with the Ministries of Home and External Affairs.
+Rana, a Canadian citizen of Pakistani origin and a former doctor and businessman, is accused of providing logistical support for David Coleman Headley, the mastermind behind the 26/11 attacks. He allegedly allowed Headley to use his immigration business as a cover to conduct reconnaissance of potential targets in India.
+Arrested in 2009 by the FBI in Chicago, Rana was convicted in the US for supporting the Pakistan-based terror group Lashkar-e-Taiba (LeT) but was acquitted of charges directly linked to the Mumbai attacks.
+India has been pressing for Rana’s extradition to ensure accountability for the deadly assault that claimed 166 lives and left hundreds injured. The NIA has emphasized his role in aiding and abetting Headley as pivotal to the terror conspiracy.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/nia-team-set-to-visit-us-for-extradition-of-26-11-mumbai-attacks-mastermind-tahawwur-rana/
+Fetch Time: 2025-01-28 07:33:20
+
+Title: India sees 100-fold jump in retail digital payments over 12 years: RBI
+Publication Date: Tue, 28 Jan 2025 06:53:08 +0000
+Content: Retail digital payments in India have grown from 162 crore transactions in the financial year 2012-13 to over 16,416 crore transactions in the financial year 2023-24 — an approximately 100-fold increase over 12 years, according to a new RBI report.
+The remarkable growth in payment infrastructure and performance is also reflected in the Digital Payment Index published by the RBI, which has seen more than a four-fold rise in the last six years (445.50 for March 2024, with a base of 100 as of March 2018), according to the Central Bank’s Payment Systems Report.
+Overall, digital payments in India have grown exponentially over the last decade.
+“While in CY-2013, there were 222 crore digital transactions valued at Rs 772 lakh crore, this number has increased 94 times in volume and more than 3.5 times in value, reaching over 20,787 crore transactions valued at Rs 2,758 lakh crore in CY-2024,” the report highlighted .
+In the last five years alone, digital payments in India have increased 6.7 times in volume and 1.6 times in value. This translates to a five-year CAGR of 45.9% in digital payment volume and 10.2% in digital payment value.
+From a nascent digital payment ecosystem, primarily consisting of traditional card-based digital payments, India has now evolved into an ecosystem offering a variety of digital payment options catering to the diverse needs of consumers. These include instant payment systems (UPI, IMPS), small-value payment systems (PPI, UPI Lite), large-value payments (RTGS), bill payments (BBPS), bulk payments (NACH), offline payments (UPI Lite X), government payments (NACH, APBS), toll payments (NETC), and many more.
+The Reserve Bank is also focusing on interlinking fast payment systems (FPS) with those of other countries to provide a seamless and less costly cross-border payment experience.
+Last year, the Unified Payments Interface of India (UPI) and PayNow of Singapore were interlinked through extensive collaboration between the RBI and the Monetary Authority of Singapore. Recent data shows that the cost of sending remittances has noticeably decreased, the report stated.
+IANS
+Link: https://ddnews.gov.in/en/india-sees-100-fold-jump-in-retail-digital-payments-over-12-years-rbi/
+Fetch Time: 2025-01-28 07:33:20
+
+Title: American AI firms try to poke holes in disruptive DeepSeek
+Publication Date: Tue, 28 Jan 2025 06:48:27 +0000
+Content: Developers at leading U.S. AI firms are praising the DeepSeek AI models that have leapt into prominence while also trying to poke holes in the notion that their multi-billion dollar technology has been bested by a Chinese newcomer’s low-cost alternative.
+Chinese startup DeepSeek on Monday sparked a stock selloff and its free AI assistant overtook OpenAI’s ChatGPT atop Apple’s App Store in the U.S., harnessing a model it said it trained on Nvidia’s lower-capability H800 processor chips using under $6 million.
+As worries about competition reverberated across the U.S. stock market, some AI experts applauded DeepSeek’s strong team and up-to-date research but remained unfazed by the development, said people familiar with the thinking at four of the leading AI labs, who declined to be identified as they were not authorized to speak on the record.
+OpenAI CEO Sam Altman wrote on X that R1, one of several models DeepSeek released in recent weeks, “is an impressive model, particularly around what they’re able to deliver for the price.” Nvidia said in a statement DeepSeek’s achievement proved the need for more of its chips.
+Software maker Snowflake SNOW.N decided Monday to add DeepSeek models to its AI model marketplace after receiving a flurry of customer inquiries.
+With employees also calling DeepSeek’s models “amazing,” the U.S. software seller weighed the potential risks of hosting AI technology developed in China before ultimately deciding to offer it to clients, said Christian Kleinerman, Snowflake’s executive vice president of product.
+“We decided that as long as we are clear to customers, we see no issues supporting it,” he said.
+Meanwhile, U.S. AI developers are hurrying to analyze DeepSeek’s V3 model. DeepSeek in December published a research paper accompanying the model, the basis of its popular app, but many questions such as total development costs are not answered in the document.
+China has now leapfrogged from 18 months to six months behind state-of-the-art AI models developed in the U.S., one person said. Yet with DeepSeek’s free release strategy drumming up such excitement, the firm may soon find itself without enough chips to meet demand, this person predicted.
+DeepSeek’s strides did not flow solely from a $6 million shoestring budget, a tiny sum compared to $250 billion analysts estimate big U.S. cloud companies will spend this year on AI infrastructure. The research paper noted that this cost referred specifically to chip usage on its final training run, not the entire cost of development.
+The training run is the tip of the iceberg in terms of total cost, executives at two top labs told Reuters. The cost to determine how to design that training run can cost magnitudes more money, they said.
+The paper stated that the training run for V3 was conducted using 2,048 of Nvidia’s H800 chips, which were designed to comply with U.S. export controls released in 2022, rules that experts told Reuters would barely slow China’s AI progress.
+Sources at two AI labs said they expected earlier stages of development to have relied on a much larger quantity of chips. One of the people said such an investment could have cost north of $1 billion.
+Some American AI leaders lauded DeepSeek’s decision to launch its models as open source, which means other companies or individuals are free to use or change them.
+“DeepSeek R1 is one of the most amazing and impressive breakthroughs I’ve ever seen – and as open source, a profound gift to the world,” venture capitalist Marc Andreessen said in a post on X on Sunday.
+The acclaim garnered by DeepSeek’s models underscores the viability of open source AI technology as an alternative to costly and tightly controlled technology such as OpenAI’s ChatGPT, industry watchers said.
+Wall Street’s most valuable companies have surged in recent years on expectations that only they had access to the vast capital and computing power necessary to develop and scale emerging AI technology. Those assumptions will come under further scrutiny this week and the next, when many American tech giants will report quarterly earnings.
+(Reuters)
+Link: https://ddnews.gov.in/en/american-ai-firms-try-to-poke-holes-in-disruptive-deepseek/
+Fetch Time: 2025-01-28 07:33:20
+
+Title: Number of credit cards more than doubled to 10.8 crore in 5 years, transactions surge: RBI
+Publication Date: Tue, 28 Jan 2025 06:42:22 +0000
+Content: The number of credit cards has more than doubled to around 10.80 crore at the end of December 2024, compared to December 2019 when there were 5.53 crore cards in circulation, according to a new RBI report.
+In contrast, number of debit cards has remained relatively stable, with a marginal increase from 80.53 crore in December 2019 to slightly more than 99.09 crore in December 2024.
+A similar growth trajectory is witnessed in card transactions as well, said the RBI report. During CY2024, there were 447.23 crore and 173.90 crore payment transactions worth of Rs. 20.37 lakh crore and Rs. 5.16 lakh crore through credit and debit cards, respectively.
+“While the use of debit cards has declined, credit cards have grown more than 15 percent on a year-on-year basis in recent years,” it mentioned.
+As of December 2024, the financial landscape in India is characterised by the widespread adoption of credit and debit cards, with an astounding 109.9 crore cards circulating throughout the country.
+The credit card issued by public sector banks (PSBs) increased from 122.6 lakh as at End-December 2019 to 257.61 lakh as at end-December 2024, a more than 110 percent jump.
+“Private sector banks (PVBs), who hold a 71 percent market share with 766 lakh cards in December 2024, have leaned into digital solutions and co-branded cards to cater to urban and affluent customers,” the RBI report noted.
+Meanwhile, foreign banks have seen a decline both in numbers — from 65.79 lakh cards to 45.94 lakh — and in market share, dropping from 11.9 percent to 4.3 percent between December 2019 and December 2024, possibly due to high fees and conservative lending policies.
+Small finance banks (SFBs) have entered the arena with 10.97 lakh cards as at End-December 2024, targeting the underserved and focusing on financial inclusivity.
+With effect from January 1, 2019, the RBI has mandated the use of only EMV Chip and PIN-based debit and credit cards.
+Also, the scope of UPI was expanded by permitting linkage of RuPay credit card to UPI for making payments. Subsequently, it has been expanded by permitting transfer to/from pre-sanctioned credit lines issued by scheduled commercial banks, in addition to deposit accounts.
+“In other words, UPI network will facilitate payments financed by credit from banks. This can reduce the cost of such offerings and help in development of unique products for Indian markets,” said the report.
+–IANS
+Link: https://ddnews.gov.in/en/number-of-credit-cards-more-than-doubled-to-10-8-crore-in-5-years-transactions-surge-rbi/
+Fetch Time: 2025-01-28 07:33:20
+
+Title: NIA raids 16 locations in Tamil Nadu in ISIS radicalisation probe
+Publication Date: Tue, 28 Jan 2025 06:30:27 +0000
+Content: The National Investigation Agency (NIA) conducted raids at 16 locations across Tamil Nadu on Tuesday as part of an ongoing probe into ISIS-linked radicalisation activities. The searches, which began early in the morning, targeted suspected hideouts linked to individuals accused of promoting ISIS ideology and recruitment efforts, according to sources.
+The operation aims to gather evidence against those believed to be involved in spreading extremist views and supporting terror activities. The investigation has been ongoing following inputs about organised attempts to radicalise youth and recruit members for ISIS from the state.
+This latest action is tied to a case registered last year after investigations uncovered links to ISIS supporters.
+The NIA’s focus on ISIS-linked activities in Tamil Nadu dates back to incidents such as the ISIS-inspired car bomb blast in Coimbatore in October 2022. Following that attack, three individuals were arrested on October 21 for allegedly financing the terror plot. The agency later charged four others in a related radicalisation case.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/nia-raids-16-locations-in-tamil-nadu-in-isis-radicalisation-probe/
+Fetch Time: 2025-01-28 07:33:20
+
+Title: UN peacekeeping chief thanks India, other troop contributors following deadly Congo operation
+Publication Date: Tue, 28 Jan 2025 05:34:04 +0000
+Content: UN Under-Secretary-General for Peace Operations, Jean-Pierre Lacroix, has expressed his gratitude to India and other nations contributing troops to the UN mission in the Democratic Republic of Congo (DRC), following the deaths of three peacekeepers last week.
+All 1,114 Indian troops and 160 police personnel deployed in the region were reported safe after two South African and one Uruguayan peacekeepers were killed by the M23 rebel group, which has seized control of parts of the mineral-rich eastern DRC.
+ “We really admire the resilience, the fortitude, the determination and commitment of our peacekeepers…. and I want to extend this expression of gratitude to the troop-contributing countries, ” Lacroix said on Monday.
+“It’s very challenging for our peacekeepers, and of course, it is very challenging for our troop-contributing countries, and I really thank them for the support,” he added.
+Lacroix spoke via video link from Damascus, where he was on another UN mission. He added that he had been in touch with several ambassadors from troop-contributing nations.
+Since its establishment, MONUSCO, one of the deadliest UN operations, has resulted in the deaths of 290 peacekeepers, including 21 Indian personnel. The recent killings of two South African and one Uruguayan peacekeeper occurred on Friday and Saturday, respectively, in eastern DRC.
+The current surge in violence is blamed on neighboring Rwanda, whose troops have been accused of aiding the M23 rebel group. Secretary-General Antonio Guterres has called on Rwanda to cease its support for M23 and withdraw its forces from the DRC.
+The UN Security Council held an emergency meeting on Sunday, condemning the presence of “external forces” in eastern DRC, a diplomatic reference to Rwanda.
+M23 has reportedly captured Goma, a key city in eastern DRC. The region is rich in minerals vital to high-tech industries.
+MONUSCO, established in 2010 by the Security Council, aims to protect civilians, support humanitarian efforts, and assist the DRC government in restoring stability amid ongoing rebel violence.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/un-peacekeeping-head-thanks-india-other-troop-contributors-to-deadly-congo-operation/
+Fetch Time: 2025-01-28 07:33:20
+
