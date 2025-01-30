@@ -1794,3 +1794,188 @@ On January 29, the foreign institutional investors (FIIs) remained net sellers f
 Link: https://ddnews.gov.in/en/indian-stock-market-opens-flat-as-us-fed-pauses-rate-cut-cycle/
 Fetch Time: 2025-01-30 07:33:47
 
+Title: Nitin Gadkari to discuss with oil companies to make ethanol rates reasonable
+Publication Date: Thu, 30 Jan 2025 12:35:53 +0000
+Content: Union Minister for Road Transport and Highways, Nitin Gadkari, on Thursday said that he will hold a meeting with oil marketing companies (OMCs) after the Delhi elections to discuss bringing ethanol retail prices to a reasonable level.
+“On February 6 or 7, we will hold a meeting. Petroleum Minister Hardeep Puri has assured me that the procurement and selling prices of ethanol will be rationalized to a reasonable level,” Gadkari said at the 4th Edition of the Sugar-Ethanol and Bio-Energy India Conference (SEIC) 2025.
+The transport minister emphasized that there is significant potential to set up more ethanol pumps, similar to those offering blended fuels, provided the price of ethanol is much lower than that of gasoline. He suggested that sugar factories could open their own ethanol pumps, creating an additional revenue stream.
+The union minister also proposed the use of lignin, a residue left behind when rice straw biomass is converted into bio-CNG, as a component in bitumen, combined with rubber powder. He shared that an experiment had already been conducted on a small stretch of the Nagpur-Jabalpur highway using this mixture.
+India faces a severe shortage of bitumen, a key material for road construction. “Our requirement is 90 lakh tonnes, but our refinery capacity can only produce 45-50 lakh tonnes, resulting in a 50% shortfall”, Gadkari highlighted.
+The minister also proposed a price of ₹35 per kg for lignin, which he believes would make it economically viable for farmers. He encouraged CNG producers to consider expanding into hydrogen manufacturing.
+(With ANI input)
+Link: https://ddnews.gov.in/en/nitin-gadkari-to-discuss-with-oil-companies-to-make-ethanol-rates-reasonable/
+Fetch Time: 2025-01-30 13:35:45
+
+Title: Govt prepares to launch GPU access portal as China’s DeepSeek escalates AI race
+Publication Date: Thu, 30 Jan 2025 12:32:11 +0000
+Content: The Indian government will soon be hosting an open-source model like DeepSeek on Indian servers, Information and Broadcasting Minister Ashwini Vaishnaw said on Thursday.
+“Already, the team has worked out the details of the servers required and how much capacity is needed. All those details have been worked out. We will very soon be hosting those open-source models on Indian servers,” said Vaishnaw.
+This comes at a time when Chinese startup DeepSeek, with their open-source reasoning model R1, has challenged the narrative that models need access to large amounts of GPUs for building frontier models.
+The government is working on a portal from which startups and researchers can access GPUs. Through this portal, startups and researchers will be able to access the highly valued GPUs necessary for training AI models at much lower prices.
+The IT minister added that the government will provide a 40 percent subsidy to students on common compute facilities, so the cost to students will drop below Rs 100 per hour. He highlighted that India currently has around 10,000 GPUs available, out of a total of 18,000 GPUs. Of the 18,693 GPUs, 15,000 are high-end GPUs that have been incorporated into the process.
+According to the union minister, DeepSeek was trained with more than 2,000 GPUs, while the ChatGPT version was trained with about 25,000 GPUs. He mentioned that technical partners interested in participating in this AI mission have already started working and investing.
+“Our focus will be on utilizing the power of AI to solve population-scale problems. That is a very important focus. And in that, we had said that a major pillar of the India AI mission will be a series of applications that are useful for our people, including healthcare, education, agriculture, logistics, weather forecasting, flood forecasting, snow forecasting, and glacier measurement, all of which affect a large number of people,” Vaishnaw said.
+The central government will provide a subsidy on artificial intelligence (AI) compute power for the next four years.
+“In its currently approved form, we’ll be able to provide subsidies for four years. It’s a very sustainable period, and we believe that as we have more empowerments, the prices will actually go down significantly below what they have already come to,” Vaishnaw said in a press conference.
+The move aims to make cutting-edge technology accessible to students, researchers, startups, and academic institutions across the country.
+As part of the vision of ‘Making AI in India’ and ‘Making AI Work for India,’ the union cabinet had approved the national-level India Artificial Intelligence mission with a budget allocation of Rs 10,371.92 crore in March last year.
+Link: https://ddnews.gov.in/en/govt-prepares-to-launch-gpu-access-portal-as-chinas-deepseek-escalates-ai-race/
+Fetch Time: 2025-01-30 13:35:45
+
+Title: Man shot dead in Sweden ahead of court verdict over Koran burning; five people arrested
+Publication Date: Thu, 30 Jan 2025 11:32:09 +0000
+Content: An Iraqi refugee and anti-Islam campaigner was shot dead in Sweden hours before he was due to receive a court verdict following a trial over burning the Koran, and five people were arrested over the shootingon Thursday.
+The five were arrested in connection with the incident late on Wednesday and ordered detained by a prosecutor, Swedish police said on their website. They did not say if the shooter was among those detained.
+Salwan Momika, 38, was shot in a house in the town of Sodertalje near Stockholm, public broadcaster SVT reported, citing unnamed police sources.
+Momika had burned copies of the Koran, the Muslim holy book, in public demonstrations in 2023 against Islam.
+A Stockholm court had been due to sentence Momika and another man on Thursday in a criminal trial over “offences of agitation against an ethnic or national group,” but said the announcement of the verdict had been postponed.
+A police spokesperson confirmed a man was shot dead in Sodertalje, but gave no other details.
+The other defendant in the same court case was giving interviews on Thursday and posted a message on X, saying: “I’m next”.
+The Security Service said that police were leading the investigation but “we are following the development of events closely to see what impact this may have on Swedish security,” a spokesperson told Reuters.
+Swedish media reported that Momika was streaming live on TikTok at the time he was shot. A video seen by Reuters showed police picking up a phone and ending a livestream that appeared to be from Momika’s TikTok account.
+Sweden in 2023 raised its terrorism alert to the second-highest level and warned of threats against Swedes at home and abroad after the Koran burnings, many of them by Momika, outraged Muslims and triggered threats from jihadists.
+While the Swedish government condemned the wave of Koran burnings in 2023, it was initially regarded as a protected form of free speech.
+Sweden’s migration agency in 2023 wanted to deport Momika for giving false information on his residency application, but couldn’t as he risked torture and inhumane treatment in Iraq.
+Burning the Koran is seen by Muslims as a blasphemous act because they consider it the literal word of God.
+(Reuters)
+Link: https://ddnews.gov.in/en/man-shot-dead-in-sweden-ahead-of-court-verdict-over-koran-burning-five-people-arrested/
+Fetch Time: 2025-01-30 13:35:45
+
+Title: Sensex, Nifty extend gains ahead of Union Budget
+Publication Date: Thu, 30 Jan 2025 11:05:27 +0000
+Content: India’s benchmark indices continued their upward momentum on Thursday, marking the third consecutive session of gains ahead of the Union Budget 2025-26. Both the Sensex and Nifty ended in positive territory, buoyed by investor optimism.
+At the close, the Sensex climbed 226.85 points, or 0.3 percent, to settle at 76,759.81. The Nifty rose 86.40 points, or 0.37 percent, to finish at 23,249.50.
+Of the Nifty’s 50 stocks, 35 closed in the green, led by strong performances from Bharat Electronics, Power Grid Corporation, Cipla, Hero MotoCorp, and Bharti Airtel, with the latter surging 4.87 percent.
+On the losing side, Tata Motors, ITC Hotels, Shriram Finance, and Bajaj Finserv were among the 17 stocks that closed lower.
+The broader market showed a mixed picture. The Nifty Smallcap 100 index edged up 0.12 percent, while the Nifty Midcap 100 remained virtually flat, dipping by just 0.01 percent.
+Sectorally, Nifty FMCG, Healthcare, Financial Services, Pharma, and Oil Marketing Companies (OMCs) indices gained up to 1.55 percent. However, the Nifty IT index dropped by 1.14 percent to 42,426.65, weighed down by losses in Coforge and Mphasis.
+The India VIX, which tracks market volatility, surged 6.7 percent to 17.39, signaling increased market fluctuations.
+(With IANS inputs)
+Link: https://ddnews.gov.in/en/sensex-nifty-extend-gains-ahead-of-union-budget/
+Fetch Time: 2025-01-30 13:35:45
+
+Title: Usman Khawaja breaks new ground as first Australian to smash double ton in Sri Lanka
+Publication Date: Thu, 30 Jan 2025 10:41:56 +0000
+Content: Australian opener Usman Khawaja struck his maiden double century in the first Test against Sri Lanka on Day 2 at Galle International Stadium, becoming the first Australian to achieve this milestone on Sri Lankan soil.
+Khawaja reached his double hundred just before lunch on Day 2 of the Galle Test. The left-handed batter played a stunning innings of 232 runs from 352 balls, which included 16 boundaries and one six.
+With this knock, Khawaja surpassed his previous highest Test score of an unbeaten 195 against South Africa at the Sydney Cricket Ground in 2023. At 38 years old, he also broke Justin Langer’s long-standing record for the most runs by an Australian batter in an innings in Sri Lanka, trumping Langer’s 166 in Colombo in 2004.
+Khawaja also set another record alongside stand-in skipper Steve Smith, as the duo registered the highest third-wicket partnership for Australia on Asian soil. They broke a 46-year-old record set by Allan Border and Kim Hughes, who had put together a 222-run stand against India at the M.A. Chidambaram Stadium in Chennai in 1979.
+Smith eventually departed after playing a magnificent innings of 141 runs off 251 balls, which featured 12 fours and two sixes.
+On Wednesday, Smith made history by scoring his 35th Test century and becoming only the fourth Australian batter to reach the 10,000-run milestone in Test cricket. He achieved this feat during the first Test against Sri Lanka in Galle.
+Reaching the 10,000-run mark is a significant milestone in Smith’s illustrious Test career, during which he has demonstrated remarkable consistency and determination.
+In 115 Tests and 205 innings, Smith has amassed 10,140 runs at an average of 56.33, with 35 centuries and 41 fifties. His highest score remains 239.
+Smith is now the fourth Australian batter to surpass 10,000 Test runs, following Ricky Ponting (13,378), Allan Border (11,174), and Steve Waugh (10,927). He also becomes the 15th player overall to achieve this milestone.
+With 35 Test centuries, Smith has surpassed legendary batters such as Younis Khan (Pakistan), Brian Lara (West Indies), Mahela Jayawardene (Sri Lanka), and Sunil Gavaskar (India), all of whom scored 34 Test centuries.
+In the ongoing ICC World Test Championship, Smith has scored 1,193 runs at an average of 38.48, with four centuries and four fifties in 34 innings. His best score in the tournament is 140. He is currently the sixth-highest run-scorer in the competition and the second-highest for Australia after Khawaja.
+(ANI)
+Link: https://ddnews.gov.in/en/usman-khawaja-breaks-new-ground-as-first-australian-to-smash-double-ton-in-sri-lanka/
+Fetch Time: 2025-01-30 13:35:45
+
+Title: National Critical Minerals Mission to cut dependence on imports, support Net Zero goal: PM Modi
+Publication Date: Thu, 30 Jan 2025 09:58:41 +0000
+Content: Prime Minister Narendra Modi on Thursday said that the National Critical Minerals Mission, approved by the Cabinet, aims to reduce import dependence, strengthen domestic value chains and support India’s ‘Net Zero by 2070’ goal.
+Responding to an article written by Union Minister G Kishan Reddy on National Critical Mineral Mission (NCMM), PM Modi wrote on X: “Union Minister Shri @kishanreddybjp elaborates on how the National Critical Minerals Mission aims to reduce import dependence, strengthen domestic value chains and support India’s ‘Net Zero by 2070’ goal.”
+National Critical Mineral Mission (NCCM) is being launched with an outlay of Rs 16,300 crore and expected investment of Rs 18,000 crore by public sector undertakings (PSUs).
+It will encompass all stages of the value chain, including mineral exploration, mining, beneficiation, processing, and recovery from end-of-life products.
+The mission will intensify the exploration of critical minerals within the country and in its offshore areas. It also aims to create a fast-track regulatory approval process for critical mineral mining projects, according to an official statement.
+Additionally, the mission will offer financial incentives for critical mineral exploration and promote the recovery of these minerals from overburden and tailings.
+Critical minerals such as lithium, chromium, nickel, graphite, cobalt, titanium and rare earth elements are essential raw materials for sectors like electronics, electric vehicles, renewable energy, defence and high-tech telecommunications.
+Currently the extraction of these minerals is dominated by a few countries such as China which makes the supply chain vulnerable to geopolitical uncertainties.
+India is viewed as part of the alternative supply chain that needs to be developed to break China’s dominance in this crucial segment. India at present relies mainly on imports to meet its demand. It is also exploring opportunities for mining abroad.
+The country has entered into a collaboration with Australia, the world’s top producer of Lithium accounting for as much as 47 per cent of the mineral. A government-to-government agreement has been signed between the Ministry of Mines and DSIR, under which five projects of Lithium and cobalt have been selected where project feasibility is being carried out.
+As part of the ‘Atmanirbhar Bharat’ initiative, and recognising the indispensable role of critical minerals in high-tech industries, clean energy, and defense, the government has undertaken several initiatives over the past two years to address challenges in the critical minerals sector.
+(IANS)
+Link: https://ddnews.gov.in/en/national-critical-minerals-mission-to-cut-dependence-on-imports-support-net-zero-goal-pm-modi/
+Fetch Time: 2025-01-30 13:35:45
+
+Title: 105 Colombian deportees land in Bogota from the US
+Publication Date: Thu, 30 Jan 2025 09:53:47 +0000
+Content: A Colombian Air Force plane landed in Bogota with 105 Colombian nationals deported from the United States, marking the third such flight this week, the Colombian Foreign Ministry said.
+“Deportees arrived in the morning from San Diego, California,” the ministry said in a statement on Wednesday, adding that the government remains committed to ensuring the rights and dignity of its citizens abroad.
+Two previous flights landed on Tuesday, bringing back a total of 201 Colombian nationals, Xinhua news agency reported.
+After Colombian President Gustavo Petro refused entry to US military planes carrying handcuffed deportees on January 26, a high-level bilateral meeting was held in Washington to reach an agreement on their safe and dignified return, the ministry said.
+Astrid Caceres, director of the Colombian Institute for Family Welfare, told reporters that an initial investigation found the US treatment of Colombian deportees to be “degrading.”
+Authorities plan to look into complaints from children who said they were handcuffed and forced by US authorities to wake up at three in the morning to bathe in cold water, she said.
+Meanwhile, US President Donald Trump announced on Wednesday that he has instructed the Pentagon and the Department of Homeland Security to prepare a facility for 30,000 migrants at Guantanamo Bay, a US naval base located on the southeastern coast of Cuba.
+“We have 30,000 beds in Guantanamo to detain the worst criminal illegal aliens threatening the American people. This will double our capacity immediately,” Trump said before signing the Laken Riley Act at the White House.
+The Laken Riley Act, which mandates the detention of undocumented migrants charged with certain crimes, was approved by Congress earlier this month, marking the first major legislation of the new administration.
+Homeland Security Secretary Kristi Noem told CNN that the base could be reserved for what she described as “the worst of the worst.”
+During his campaign, Trump promised large-scale deportations of illegal immigrants once he took office. Since his inauguration on January 20, deportation operations have ramped up across several parts of the United States, reportedly focusing on criminals.
+On Sunday alone, Immigration and Customs Enforcement (ICE) made nearly 1,000 arrests, with much of the activity taking place in the southeastern part of the country, Fox News reported, citing various ICE field offices.
+(IANS)
+Link: https://ddnews.gov.in/en/105-colombian-deportees-land-in-bogota-from-the-us/
+Fetch Time: 2025-01-30 13:35:45
+
+Title: Trump issues orders to promote school choice, end “anti-American” teaching
+Publication Date: Thu, 30 Jan 2025 09:21:17 +0000
+Content: President Donald Trump on Wednesday signed executive orders to promote parental choice in school selection and end federal funding for curricula that he called the “indoctrination” of students in “anti-American” ideologies on race and gender.
+The two directives, which come a week after Trump was sworn into his second term of office, are in keeping with his campaign promise to remake the country’s education system in line with a rigorous conservative agenda that Democrats say could undermine public schools.
+The first order directs the Department of Education to issue guidance on how states can use federal education funds to support “choice initiatives,” without providing further details.
+“It is the policy of my Administration to support parents in choosing and directing the upbringing and education of their children,” the president said in the order. “Too many children do not thrive in their assigned, government-run K-12 school.”
+His second directive aims to stop schools from using federal funds for curriculum, teacher certification and other purposes related to “gender ideology or discriminatory equity ideology.”
+“In recent years, however, parents have witnessed schools indoctrinate their children in radical, anti-American ideologies while deliberately blocking parental oversight,” it reads.
+Trump and his allies throughout the campaign have accused public schools of teaching white children to be ashamed of themselves and their ancestors due to the country’s history of slavery and discrimination against people of color.
+The second order, without evidence, claims that teachers have been “demanding acquiescence” to concepts of “white privilege” or “unconscious bias” and thereby promoting racism and undermining national unity.
+The executive order will have a “chilling effect” on subjects related to race and ethnicity in schools, said Basil Smikle Jr., a political strategist.
+“I would imagine that it would restrict the kind of reading materials that are even available to students outside of the classroom,” he said.
+Although that order does not invoke the term “critical race theory” by name, it employs the language often used by CRT opponents to criticize teaching about institutional racism.
+A once-obscure academic concept, the theory has become a fixture in the fierce U.S. debate over how to teach children about the country’s history and structural racism. An academic framework most often taught in law schools but not in primary and secondary schools, it rests on the premise that racial bias – intentional or not – is baked into U.S. laws and institutions.
+Conservatives have invoked the term to denounce curricula they consider too liberal or excessively focused on America’s history of racial discrimination. Supporters say understanding institutional racism is necessary to address inequality.
+Christina Greer, an associate professor of political science at Fordham University, said the order came as no surprise.
+“As a candidate, he said there was radical indoctrination of students,” she said. “He’s making sure to frighten students and educators across the country so they can’t teach the real history of the United States.”
+It was not clear how the order issued on Wednesday would affect how the history of race relations is taught in American schools. During his inaugural address last week, Trump criticized education that “teaches our children to be ashamed of themselves — in many cases, to hate our country.”
+SCHOOL CHOICE
+Thefirst order also directs the U.S. Department of Education to prioritize federal funding for school choice programs, a longstanding goal for conservatives who say public schools are failing to meet academic standards while pushing liberal ideas.
+Many Democrats and teachers’ unions, on the other hand, say school choice undermines the public system that educates 50 million U.S. children.
+Federal test scores released by the National Assessment of Educational Progress on Wednesday underscored the challenge faced by educators in the wake of widespread learning loss during the COVID-19 pandemic.
+The scores showed that one-third of eighth graders tested below NAEP’s “basic” reading level, the most in the test’s three-decade history, while some 40% of fourth-graders also fell below that basic threshold.
+That executive order also directs U.S. states on how they could use block grants to support alternatives to public education, such as private and religious schools.
+U.S. education is primarily funded via states and local taxes, with federal sources accounting for about 14% of the funding of public K-12 schools, according to Census data.
+Trump’s order could affect some $30 billion to $40 billion in federal grants, estimated Frederick Hess, an education expert at the right-leaning American Enterprise Institute.
+“This stuff is directionally significant,” said Hess, adding that Trump’s directive represented “the most emphatic support for school choice we’ve ever seen at the federal level.”
+The first order also calls for allowing military families to use Pentagon funds to send their children to the school of their choosing. It also mandates that Native American families with students in the Bureau of Indian Education be allowed to use federal funds in selecting their schools.
+A number of Republican-leaning states have in recent years adopted universal or near-universal school choice policies, paving the way for vouchers or other methods that allocate taxpayer funds for homeschooling or private tuition.
+Josh Cowen, a professor of education policy at Michigan State University, said that Trump’s executive order is aimed at sending “an aggressive statement about his position on vouchers” even if his power to reallocate funds is limited.
+Cowen said the bigger potential financial impact on education lies with a bill reintroduced in Congress this week that would create a federal school voucher program with an estimated $10 billion in annual tax credits.
+(Reuters)
+Link: https://ddnews.gov.in/en/trump-issues-orders-to-promote-school-choice-end-anti-american-teaching/
+Fetch Time: 2025-01-30 13:35:45
+
+Title: Air traffic controller audio captures moments before and after Washington plane crash
+Publication Date: Thu, 30 Jan 2025 09:14:40 +0000
+Content: Air traffic control audio recorded the moments before and after an American Airlines regional passenger jet crashed with a U.S. Army Black Hawk helicopter in a midair collision over Washington on Wednesday night.
+Audio from LiveATC.net, a respected source for in-flight recording, captured the final communications between the three crew members of the helicopter – call sign PAT25 – before it collided with the CRJ700 Bombardier jet carrying 64 passengers and crew.
+“PAT25, do you have a CRJ in sight? PAT25, pass behind the CRJ,” an air traffic controller said at 8:47 p.m. (ET) on Wednesday (01:47 GMT on Thursday).
+Seconds later, another aircraft called in to air traffic control, saying, “Tower, did you see that?” – apparently referring to the crash. An air traffic controller then redirected planes heading to runway 33 at Reagan Washington National Airport to go around.
+The explosion in midair occurred over the frigid Potomac River near the airport.
+“Crash, crash, crash, this is an alert three,” one of the air traffic controllers can be heard saying in the audio from around the time of the crash.
+“I don’t know if you caught earlier what happened, but there was a collision on the approach into 33. We’re going to be shutting down operations for the indefinite future,” another controller remarked.
+“Both the helicopter and the plane crashed in the river,” a third air traffic controller can be heard saying.
+“It was probably out in the middle of the river,” the controller said. “I just saw a fireball and then it was just gone. I haven’t seen anything since they hit the river. But it was a CRJ and a helicopter that hit.”
+The crash was caught on a webcam at the John F. Kennedy Center for the Performing Arts in Washington. The clip shows the aircraft exploding in flames and plummeting to earth after it was struck by the helicopter.
+A U.S. official said no senior military officials were on the helicopter, while U.S. Figure Skating said several skaters had been on board the American Airlines flight.
+(Reuters)
+Link: https://ddnews.gov.in/en/air-traffic-controller-audio-captures-moments-before-and-after-washington-plane-crash/
+Fetch Time: 2025-01-30 13:35:45
+
+Title: Maharashtra records second suspected GBS death, cases rise to 127
+Publication Date: Thu, 30 Jan 2025 08:50:08 +0000
+Content: Maharashtra recorded the second suspected fatality of Guillain-Barre Syndrome (GBS) with the death of a 56-year-old woman on Sinhagad Road in Pune.
+The woman died on Tuesday following respiratory failure with sepsis and was suffering from oral cancer.
+The total number of GBS cases in the state has risen to 127.
+According to the Pune Municipal Corporation sources, the woman, who complained of weakness, was admitted to a local hospital on January 15 before being referred to Sassoon General Hospital.
+Earlier, on January 25, a 40-year-old man, residing in Pune’s Dhayari area, died in Solapur. The doctors sent the report for further analysis to ascertain whether it was due to GBS.
+The Public Health Department said that of the 127 suspected cases, 72 are diagnosed with GBS.
+Of these, Pune Municipal Corporation reported 13, newly added villages in the Pune Municipal Corporation area (73), Pimpri Chinchwad Municipal Corporation (13) and nine each from Pune rural and other districts. Of these 20 are currently on ventilator.
+The state government has urged the public not to panic, with Chief Minister Devendra Fadnavis directing the administration to make special arrangements in government hospitals to treat patients.
+The Chief Minister has instructed that special arrangements should be made in government hospitals to ensure that patients get proper treatment. The treatment for this disease is included in the state health insurance scheme ‘Mahatma Jyotiba Phule Jan Arogya Yojana’.
+“If any further procedures are required, they should be done by the Public Health Department,” CM Fadnavis said.
+Deputy Chief Minister Ajit Pawar said that instructions have already been issued to the administration that patients in Pune city should be treated at the Kamla Nehru Hospital of the Pune Municipal Corporation and the Yashwantrao Chavan Memorial Hospital of the Pimpri Chinchwad Municipal Corporation.
+State Public Health Minister Prakash Abitkar clarified that GBS is a rare disease and not contagious as it occurs due to decreased immunity.
+“A review has been conducted in Pune regarding this. Instructions have been given regarding treatment and examination. Accordingly, action is being taken by the state Public Health Department and the Health Department of both the Pune and Pimpri Chinchwad Municipal Corporations,” he added.
+State Medical Education Minister Hasan Mushrif asked the administration to effectively, implement the Standard Operating Procedures to contain the GBS.
+The Minister said the daily updated information on GBS patients should be submitted to the Commissioner of Medical Education and Research Department.
+(IANS)
+Link: https://ddnews.gov.in/en/maharashtra-records-second-suspected-gbs-death-cases-rise-to-127/
+Fetch Time: 2025-01-30 13:35:45
+
