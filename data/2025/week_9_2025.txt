@@ -818,3 +818,197 @@ Next up, Delhi Capitals will face Gujarat Giants, who are currently at the botto
 Link: https://ddnews.gov.in/en/up-warriorz-stun-defending-champions-rcb-in-wpls-first-ever-super-over-thriller/
 Fetch Time: 2025-02-25 07:33:15
 
+Title: DeepSeek rushes to launch new AI model as China goes all in
+Publication Date: Tue, 25 Feb 2025 13:03:00 +0000
+Content: DeepSeek is looking to press home its advantage.
+The Chinese startup triggered a $1 trillion-plus sell-off in global equities markets last month with a cut-price AI reasoning model that outperformed many Western competitors.
+Now, the Hangzhou-based firm is accelerating the launch of the successor to January’s R1 model, according to three people familiar with the company.
+Deepseek had planned to release R2 in early May but now wants it out as early as possible, two of them said, without providing specifics.
+The company says it hopes the new model will produce better coding and be able to reason in languages beyond English. Details of the accelerated timeline for R2’s release have not been previously reported.
+DeepSeek did not respond to a request for comment for this story.
+Rivals are still digesting the implications of R1, which was built with less-powerful Nvidia chips but is competitive with those developed at the costs of hundreds of billions of dollars by U.S. tech giants.
+“The launch of DeepSeek’s R2 model could be a pivotal moment in the AI industry,” said Vijayasimha Alilughatta, chief operating officer of Indian tech services provider Zensar. DeepSeek’s success at creating cost-effective AI models “would likely spur companies worldwide to accelerate their own efforts … breaking the stranglehold of the few dominant players in the field,” he said.
+R2 is likely to worry the U.S. government, which has identified leadership of AI as a national priority. Its release may further galvanize Chinese authorities and companies, dozens of which say they have started integrating DeepSeek models into their products.
+Little is known about DeepSeek, whose founder Liang Wenfeng became a billionaire through his quantitative hedge fund High-Flyer. Liang, who was described by a former employer as “low-key and introverted,” has not spoken to any media since July 2024.
+Reuters interviewed a dozen former employees, as well as quant fund professionals knowledgeable about the operations of DeepSeek and its parent company High-Flyer. It also reviewed state media articles, social-media posts from the companies and research papers dating back to 2019.
+They told a story of a company that functioned more like a research lab than a for-profit enterprise and was unencumbered by the hierarchical traditions of China’s high-pressure tech industry, even as it became responsible for what many investors see as the latest breakthrough in AI.
+DIFFERENT PATH
+Liang was born in 1985 in a rural village in the southern province of Guangdong. He later obtained communication engineering degrees at the elite Zhejiang University.
+One of his first jobs was running a research department at a smart imaging firm in Shanghai. His then-boss, Zhou Chaoen, told state media on Feb. 9 that Liang had hired prize-winning algorithm engineers and operated with a “flat management style.”
+At DeepSeek and High-Flyer, Liang has similarly shunned the practices of Chinese tech giants known for rigid top-down management, low pay for young employees and “996” – working from 9 a.m. to 9 p.m. six days a week.
+Liang opened his Beijing office within walking distance of Tsinghua University and Peking University, China’s two most prestigious education institutions. He regularly delved into technical details and was happy to work alongside Gen-Z interns and recent graduates that comprised the bulk of its workforce, according to two former employees. They also described usually working eight-hour days in a collaborative atmosphere.
+“Liang gave us control and treated us as experts. He constantly asked questions and learned alongside us,” said 26-year-old researcher Benjamin Liu, who left the company in September. “DeepSeek allowed me to take ownership of critical parts of the pipeline, which was very exciting.”
+Liang did not respond to questions sent via DeepSeek.
+While Baidu and other Chinese tech giants were racing to build their consumer-facing versions of ChatGPT in 2023 and profit off of the global AI boom, Liang told Chinese media outlet Waves last year that he deliberately avoided spending heavily on app development, focusing instead on refining the AI model’s quality.
+Both DeepSeek and High-Flyer are known for paying generously, according to three people familiar with its compensation practices. At High-Flyer, it is not uncommon for a senior data scientist to make 1.5 million yuan annually, while competitors rarely pay more than 800,000, said one of the people, a rival quant fund manager who knows Liang.
+The largesse was funded by High-Flyer, which became one of China’s most successful quant funds and, even after a government crackdown on the sector, still manages tens of billions of yuan, according to two people in the industry.
+COMPUTING POWER
+DeepSeek’s success with a low-cost AI model is based on High-Flyer’s decade-long and substantial investment in research and computing power, three people said.
+The quant fund was an earlier pioneer in AI trading and a top executive said in 2020 that High-Flyer was going “all in” on AI by re-investing 70% of its revenue, mostly into AI research.
+High-Flyer spent 1.2 billion yuan on two supercomputing AI clusters in 2020 and 2021. The second cluster, Fire-Flyer II, was made up of around 10,000 Nvidia A100 chips, used for training AI models.
+DeepSeek had not been established at that time, so the accumulation of computing power caught the attention of Chinese securities regulators, said a person with direct knowledge of officials’ thinking.
+“Regulators wanted to know why they need so many chips?” the person said. “How they were going to use it? What kind of impact would that have on the market?”
+Authorities decided not to intervene, in a move that would prove crucial for DeepSeek’s fortunes: the U.S. banned the export of A100 chips to China in 2022, at which point Fire-Flyer II was already in operation.
+Beijing now celebrates DeepSeek, but has instructed it not to engage with the media without approval, according to a person familiar with Chinese official thinking.
+Authorities had asked Liang to keep a low-profile because they were worried that too much hype in the media would draw unnecessary attention, the person said.
+China’s cabinet and commerce ministry, as well as China’s securities regulator, did not respond to requests for comment.
+As one of the few companies with a large A100 cluster, High-Flyer and DeepSeek were able to attract some of China’s best research talent, two former employees said.
+“The key advantage of vast (computing) resources is that it allows for large-scale experimentation,” said Liu, the former employee.
+Some Western AI entrepreneurs, like Scale AI CEO Alexandr Wang, have claimed that DeepSeek had as many as 50,000 higher-end Nvidia chips that are banned for export to China. He has not produced evidence for the allegation or responded to Reuters’ requests to provide proof.
+DeepSeek has not responded to Wang’s claims. Two former employees attributed the company’s success to Liang’s focus on more cost-effective AI architecture.
+The startup used techniques like Mixture-of-Experts (MoE) and multihead latent attention (MLA), which incur far lower computing costs, its research papers show.
+The MoE technique divides an AI model into different areas of expertise and activates only those related to a query, as opposed to more common architectures that use the entire model.
+MLA architecture allows a model to process different aspects of one piece of information simultaneously, helping it detect key details more effectively.
+While competitors like France’s Mistral have developed models based on MoE, DeepSeek was the first firm to depend heavily on this architecture while achieving parity with more expensively built models.
+DeepSeek’s pricing was 20 to 40 times cheaper than what OpenAI charged for equivalent models, analysts at Bernstein brokerage estimated in early February.
+For now, Western and Chinese tech giants have signaled plans to continue heavy AI spending, but DeepSeek’s success with R1 and its earlier V3 model has prompted some to alter strategies.
+OpenAI cut prices this month, while Google’s Gemini has introduced discounted tiers of access. Since R1’s launch, OpenAI has also released an O3-Mini model that relies on less computing power.
+Adnan Masood of U.S. tech services provider UST told Reuters that his laboratory had run benchmarks that found R1 often used three times as many tokens, or units of data processed by the AI model, for reasoning as OpenAI’s scaled-down model.
+STATE EMBRACE
+Even before R1 gripped global attention, there were signs that DeepSeek had caught Beijing’s favor. In January, state media reported that Liang attended a meeting with Chinese Premier Li Qiang in Beijing as the designated representative of the AI sector, ahead of the leaders of better-known firms.
+The subsequent fanfare over the cost competitiveness of its models has buoyed Beijing’s belief that it can out-innovate the U.S., with Chinese companies and government bodies embracing DeepSeek models at a pace that has not been offered to other firms.
+At least 13 Chinese city governments and 10 state-owned energy companies say they have deployed DeepSeek into their systems, while tech giants Lenovo 0992.HK, Baidu 9888.HK and Tencent 0700.HK – owner of China’s largest social media app WeChat – have integrated DeepSeek’s models into their products.
+Chinese leader Xi Jinping and Li “have signalled they endorse DeepSeek,” said Alfred Wu, an expert on Chinese policymaking at Singapore’s Lee Kuan Yew School of Public Policy. “Now everyone just endorses it.”
+The Chinese embrace comes as governments from South Korea to Italy remove DeepSeek from national app stores, citing privacy concerns.
+“If DeepSeek becomes the go-to AI model across Chinese state entities, Western regulators might see this as another reason to escalate restrictions on AI chips or software collaborations,” said Stephen Wu, an AI expert and founder of hedge fund Carthage Capital.
+Further limits on advanced AI chips are a challenge that Liang has acknowledged.
+“Our problem has never been funding,” he told Waves in July. “It’s the embargo on high-end chips.”
+(Reuters)
+Link: https://ddnews.gov.in/en/deepseek-rushes-to-launch-new-ai-model-as-china-goes-all-in/
+Fetch Time: 2025-02-25 13:39:18
+
+Title: Delhi’s 2021-22 excise policy led to Rs 2,000 crore revenue loss: CAG report
+Publication Date: Tue, 25 Feb 2025 12:27:49 +0000
+Content: The Delhi government’s excise policy for 2021-22 caused a revenue loss of over Rs 2,000 crore, according to a Comptroller and Auditor General (CAG) report tabled in the Delhi Assembly on Tuesday.
+The report, titled “Performance Audit on Regulation and Supply of Liquor in Delhi,” examines the functioning of the Delhi Excise Department over four years, from 2017-18 to 2020-21, with a specific focus on the 2021-22 excise policy.
+The policy was later withdrawn by the Aam Aadmi Party (AAP) government following allegations of corruption. Senior party leaders, including then-Chief Minister Arvind Kejriwal and Deputy Chief Minister Manish Sisodia, were arrested by the Enforcement Directorate and Central Bureau of Investigation (CBI) in connection with the case.
+The CAG audit highlighted multiple discrepancies in the monitoring and regulation of liquor supply in Delhi, stating that these shortcomings contributed to significant revenue losses. The total financial impact of these discrepancies is estimated at Rs. 2,026.91 crore.
+One of the key findings of the report was the failure to enforce Rule 35 of the Delhi Excise Rules, 2010, which prohibits related parties from holding multiple licenses. The audit found that common directorships existed among entities holding different categories of licenses, leading to potential conflicts of interest and monopolistic practices.
+The CAG report also flagged issues in the pricing and sale of liquor, particularly regarding the Ex-Distillery Price (EDP). The Excise Department allowed manufacturers and wholesalers (L1 licensees) to declare their EDP without adequate oversight, leading to manipulation of prices and a decline in sales, which ultimately resulted in a loss of excise revenue.
+The Audit observed varying EDP in various States for liquor supplied by same manufacturer unit. Further, this discretion allowed L1 licensee to manipulate prices of liquor to its own advantage, through increase in EDP. Analysis of pricing and sale of a few brands revealed that discretionary EDP led to decline in sales and consequent loss in excise revenue.
+The audit further criticized the department’s inadequate quality control measures, citing numerous instances where test reports for liquor brands did not comply with Bureau of Indian Standards (BIS) requirements. In some cases, licenses were issued despite major shortcomings in the test reports.
+Also, the report identified flaws in the Excise Department’s enforcement mechanisms, with raids and inspections being described as discretionary and poorly executed. The department’s data management practices were also deemed fragmented, hindering the ability to track inventory and prevent the circulation of non-duty-paid liquor.
+The audit found gaps in End to End Tracking of Inventory. The Department’s inability to ensure sale of all the liquor through scanning led to the adoption of stock reconciliation post-sale (Monthly Stock Reconciliation- MSR Gap) which was outside the scope of contract agreement. This reconciliation procedure introduced various anomalies in the sales data and undermined inventory tracking, data accuracy, regulatory effectiveness and also increased the risk of Non-Duty Paid Liquor being circulated through use of duplicate barcodes.
+The CAG report also highlighted issues in the design and award of licenses under the new excise policy. It noted that the policy’s objectives of preventing monopolies and cartels were undermined by design flaws, such as the creation of retail zones that limited the number of licensees and increased the risk of monopolistic practices.
+The report concluded that the implementation of the excise policy resulted in a cumulative revenue loss of approximately Rs. 2,002 crore. It called for more stringent regulation and better enforcement to prevent future losses and ensure that the policy’s objectives of curbing bootlegging and spurious liquor sales are met.
+This CAG report is one of 14 pending audits that scrutinise the previous Aam Aadmi Party (AAP) government’s performance, with the excise policy being a key area of concern. The findings have raised questions about the functioning of the Delhi Excise Department and the effectiveness of the policy framework in regulating the liquor industry.
+(With ANI inputs)
+Link: https://ddnews.gov.in/en/delhis-2021-22-excise-policy-led-to-rs-2000-crore-revenue-loss-cag-report/
+Fetch Time: 2025-02-25 13:39:18
+
+Title: Arctic doomsday seed vault gets more than 14,000 new samples
+Publication Date: Tue, 25 Feb 2025 11:47:18 +0000
+Content: A “doomsday” vault storing food crop seeds from around the world in man-made caves on a remote Norwegian Arctic island will receive more than 14,000 new samples on Tuesday, a custodian of the facility said.
+The Svalbard Global Seed Vault, set deep inside a mountain to withstand disasters from nuclear war to global warming, was launched in 2008 as a backup for the world’s gene banks that store the genetic code for thousands of plant species.
+Protected by permafrost, the vault has received samples from across the world, and played a leading role between 2015 and 2019 in rebuilding seed collections damaged during the war in Syria.
+“The seeds deposited this week represent not just biodiversity, but also the knowledge, culture and resilience of the communities that steward them,” Executive Director Stefan Schmitz of the Crop Trust said in a statement.
+The new contributions include a sample of 15 species from Sudan, consisting of several varieties of sorghum – a plant that is significant both for the country’s food security and its cultural heritage, the Crop Trust said.
+The war between the Rapid Support Forces and the army which broke out in April 2023 has killed tens of thousands of people and displaced 12 million, while plunging half of Sudan into hunger and several locations into famine.
+“In Sudan…these seeds represent hope,” the director of Sudan’s Agricultural Plant Genetic Resources Conservation and Research Centre said in a statement.
+The total of 14,022 new samples will be deposited at 1430 GMT, including seeds of Nordic tree species from Sweden and rice from Thailand, the Crop Trust said.
+(Reuters)
+Link: https://ddnews.gov.in/en/arctic-doomsday-seed-vault-gets-more-than-14000-new-samples/
+Fetch Time: 2025-02-25 13:39:18
+
+Title: NASA’s SPHEREx space telescope to explore what happened right after the Big Bang
+Publication Date: Tue, 25 Feb 2025 11:19:01 +0000
+Content: NASA is preparing to launch a megaphone-shaped observatory on a mission to better understand what happened immediately after the Big Bang that initiated the universe and to search the Milky Way for reservoirs of water, a crucial ingredient for life.
+The U.S. space agency’s SPHEREx space telescope is tentatively scheduled to be launched on Friday aboard a SpaceX Falcon 9 rocket from Vandenberg Space Force Base in California.
+SPHEREx – short for Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer – is looking to answer questions about the origin of the universe while mapping the distribution of galaxies.
+Closer to home – relatively speaking – SPHEREx will look within our galaxy for reservoirs of water frozen on the surface of interstellar dust grains in large clouds of gas and dust that give rise to stars and planets.
+The observatory during its planned two-year mission will collect data on more than 450 million galaxies, as well as more than 100 million stars in the Milky Way, as it explores the origins of the universe and the galaxies within it. It will create a three-dimensional map of the cosmos in 102 colors -individual wavelengths of light.
+The mission is intended to gain insight into a phenomenon called cosmic inflation, the rapid and exponential expansion of the universe from a single point in a fraction of a second after the Big Bang that occurred roughly 13.8 billion years ago. By way of comparison, Earth is about 4.5 billion years old.
+“We have pretty good evidence that inflation occurred, but the physics driving that event is really uncertain,” said cosmologist Olivier Dore of Caltech and NASA’s Jet Propulsion Laboratory, a SPHEREx project scientist.
+“By mapping the distribution of galaxies over the whole sky, we can directly constrain unique properties of inflation. This is why we want to map the whole sky and why we need spectroscopy (studying objects based on color) to make the map 3D. The fact that we can connect these two things – the distribution of galaxies on large scales all the way to the physics of inflation – is very powerful and very mind-boggling and almost magical,” Dore added.
+Jim Fanson, SPHEREx project manager at the Jet Propulsion Laboratory, called cosmic inflation “the consensus framework for explaining aspects of the universe that we observe on large scales.”
+“It postulates that the universe expanded by a trillion-trillion-fold in a small fraction of a second after the Big Bang,” Fanson said.
+SPHEREx is set to take pictures in every direction around Earth, splitting the light from billions of cosmic sources such as stars and galaxies into their component wavelengths to determine their composition and distance. Researchers also will measure the collective glow of light from the space between galaxies.
+In addition, SPHEREx will look for water and molecules including carbon dioxide and carbon monoxide frozen on the surface of dust grains in molecular clouds, which are dense regions of gas and dust in interstellar space. Scientists believe that reservoirs of ice bound to dust grains in these clouds are where most of the universe’s water forms and dwells.
+Being launched along with SPHEREx is a constellation of satellites for NASA’s PUNCH mission to observe the sun’s corona, the outermost layer of its atmosphere. The aim is to better understand the solar wind, the continuous flow of charged particles from the sun.
+“I think the beauty of astronomy is that every time we look at the sky in a new way or from a different angle, we discover new phenomena,” Dore said. “And the fact is SPHEREx will look at the sky in totally new ways.”
+“It will be an unprecedented dataset to mine,” Dore added, “and there is no doubt in my mind we will discover new cosmic phenomena.”
+(Reuters)
+Link: https://ddnews.gov.in/en/nasas-spherex-space-telescope-to-explore-what-happened-right-after-the-big-bang/
+Fetch Time: 2025-02-25 13:39:18
+
+Title: Less oil, more physical activity, and a balanced meal key to fighting obesity
+Publication Date: Tue, 25 Feb 2025 11:18:41 +0000
+Content: Reducing oil intake, increasing physical activity, and eating a balanced meal are crucial in combating the rising menace of obesity in the country, experts said on Tuesday.
+This comes after Prime Minister Narendra Modi, in his Mann Ki Baat programme on Sunday, nominated 10 personalities to lead the campaign against obesity as part of his Fit India initiative.
+Dr. Naval Vikram, Professor of Medicine at AIIMS, New Delhi, said that it is high time obesity is taken seriously, as its prevalence is increasing rapidly across age groups and socio-economic strata in the country.
+“Obesity is no longer just a cosmetic problem. It is now a chronic, persistent disease that leads to several other non-communicable diseases such as diabetes, hypertension, heart disease, and even various cancers. It is a lifestyle disease, but it is 100 percent preventable,” he said.
+He also lauded PM Modi for highlighting the problem of obesity and the importance of preventive measures.
+While lifestyle plays a crucial role in preventing and managing obesity, diet is equally critical. Individuals must avoid foods high in fat, sugar, and salt—ingredients commonly found in processed foods, Vikram advised.
+“Eat a well-balanced diet, preferably home-cooked meals,” he said.
+Meanwhile, the Prime Minister also urged people to cut their oil consumption by 10 percent.
+“It is an important step in preventing as well as managing obesity,” Vikram said.
+Dr. Anoop Misra, Chairman and Director of Diabetes and Endocrinology at Fortis C-DOC Hospital, New Delhi, said that oils contain twice the calories of carbohydrates and proteins.
+“With rising obesity rates, it is important to limit oil intake to 15-20 ml per day,” he added.
+“Oils rich in monounsaturated fatty acids (MUFA) and polyunsaturated fatty acids (PUFA) help lower bad cholesterol and support heart health. Mustard oil remains the best choice considering both cost and health benefits,” he said, while cautioning against excessive consumption of saturated fats, which increase the risk of liver disease, heart attacks, and strokes.
+Experts said that reducing oil intake helps create a calorie deficit, a key factor in losing or maintaining body weight.
+Other measures to combat obesity include opting for home-cooked meals with regionally and seasonally available ingredients, avoiding junk food, ultra-processed foods, sugary beverages, high-fat, and fried foods.
+“Reducing portion sizes, eating mindfully, cutting down screen time, and increasing physical activity are also essential,” experts added.
+“A well-balanced, diverse diet and at least 30 minutes of regular physical activity should be followed by all individuals to combat obesity,” said Dr. Parmeet Kaur, Chief Dietician at the Department of Dietetics, AIIMS, New Delhi.
+“Stay active in your daily life. Try to incorporate movement into your routine, even if you have a desk job. Take a short break every hour or so, walk around for 10 to 15 minutes, and dedicate at least 30 to 45 minutes—or ideally an hour—for exercise,” Vikram advised.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/less-oil-more-physical-activity-and-a-balanced-meal-key-to-fighting-obesity/
+Fetch Time: 2025-02-25 13:39:18
+
+Title: President Murmu highlights Patna Medical College’s role in Bihar’s healthcare at centenary celebration
+Publication Date: Tue, 25 Feb 2025 11:17:54 +0000
+Content: President Droupadi Murmu on Tuesday participated in the centenary celebration of Patna Medical College (PMCH), emphasising the institution’s significance as one of Bihar’s most valuable heritages. During her address, she acknowledged the institution’s rich legacy and praised its evolution toward modernity. She remarked that PMCH was once among the top hospitals in Asia, with its alumni making notable contributions both domestically and internationally through their talent and dedication.
+President Murmu highlighted the challenges patients face when traveling to other cities or states for medical treatment, including delays, accommodation issues, and employment disruptions. She stressed the need for decentralized healthcare to alleviate the burden on medical institutions in major cities and urged Bihar to develop centres of specialized medical care, similar to those in Chennai, Hyderabad, Mumbai, and Indore. The President expressed confidence that PMCH and its alumni could significantly contribute to such efforts, which would not only provide quality healthcare but also boost the state’s economy.
+President Murmu encouraged PMCH stakeholders to embrace advancements like Artificial Intelligence and Robotics to improve the accuracy and efficiency of medical treatments. She noted that the adoption of cutting-edge technologies would enhance doctors’ knowledge and make the healthcare process simpler.
+President Murmu also urged the doctors to raise awareness about the importance of blood and organ donation, underscoring their crucial contributions to nation-building through their service to society.
+Link: https://ddnews.gov.in/en/president-murmu-highlights-patna-medical-colleges-role-in-bihars-healthcare-at-centenary-celebration/
+Fetch Time: 2025-02-25 13:39:18
+
+Title: Australian captain Pat Cummins hits out at sports website for misquoting his remarks on India
+Publication Date: Tue, 25 Feb 2025 10:39:49 +0000
+Content: Australia Test captain Pat Cummins has strongly criticised an Australian sports website for misquoting him regarding India’s venue in the ongoing ICC Champions Trophy.
+Code Cricket, in a deleted post on X, alleged that Cummins had called out the ICC for giving India an unfair advantage in the Champions Trophy and termed the tournament a “farce,” saying that teams should not be allowed to pick and choose where they play their matches.
+The fast bowler, who is not participating in the tournament due to an ankle injury, took to social media on Tuesday to slam the Australian digital sports platform for fabricating his words. “I have definitely never said this @codecricketau,” Cummins said in a post on X.
+The controversy began after Code Cricket published a post on Tuesday claiming that Cummins had criticised the ICC for allowing India to play all their matches at a single venue while other teams had to travel between Pakistan and Dubai. The publication alleged that Cummins was unhappy with India being allowed to “pick and choose” where they played.
+However, in an actual interview with Yahoo Australia, Cummins said, “I think it’s good in that the tournament can go on, but obviously, it does give them (India) a huge advantage playing on the same ground. They already look very strong, and they’ve got that obvious benefit of playing all their games there.”
+India’s participation in the Champions Trophy has been a point of contention, with the team refusing to travel to Pakistan due to political tensions. As a result, all of India’s matches, including a potential final, are being played at the Dubai International Stadium, while other teams must travel between Pakistan and Dubai for their fixtures.
+ians
+Link: https://ddnews.gov.in/en/australian-captain-pat-cummins-hits-out-at-sports-website-for-misquoting-his-remarks-on-india/
+Fetch Time: 2025-02-25 13:39:18
+
+Title: Sensex, Nifty end flat amid mixed market sentiment
+Publication Date: Tue, 25 Feb 2025 10:39:32 +0000
+Content: The Indian stock market closed flat on Tuesday as investors remained cautious due to mixed market sentiment.
+The Sensex gained 147.71 points, or 0.20 percent, to close at 74,602.12. During the session, the index moved between 74,785.08 and 74,400.37. Meanwhile, the Nifty closed marginally lower, slipping 5.80 points, or 0.03 percent, to settle at 22,547.55. It touched an intra-day high of 22,625.30 and a low of 22,516.45.
+Market performance was mixed, with 31 of the 50 Nifty stocks ending lower. According to Rupak De from LKP Securities, the index remained mostly muted except for a small correction toward the close. A rise toward resistance levels could attract selling pressure, he said.
+Hindalco, Dr Reddy’s Labs, Trent, Hero MotoCorp, and Sun Pharma were among the top losers, falling by up to 3.10 percent. On the other hand, Bharti Airtel, Mahindra & Mahindra, Bajaj Finance, Nestle India, and Titan gained up to 2.32 percent.
+Broader market indices also faced pressure. The Nifty Midcap100 index declined by 0.62 percent, while the Nifty Smallcap100 index slipped by 0.44 percent.
+Among sectoral indices, Nifty Auto, FMCG, Select Financial Services, Media, and Consumer Durables rose by up to 0.84 percent. Other sectors saw declines, reflecting cautious market sentiment.
+Technically, Nifty formed an inverted hammer candlestick pattern on the daily chart, indicating buying interest around the 23,500 level, according to Hrishikesh Yedve from Asit C. Mehta Investment Limited. As long as the index holds above this level, a pullback rally toward 22,700-22,800 could be possible. However, this zone will act as a resistance level, while a drop below 22,500 could trigger fresh selling pressure. Traders are advised to monitor these levels for potential opportunities.
+India VIX, the volatility index, dropped by 5.03 percent to 13.72, indicating a decline in market volatility.
+The domestic benchmark indices will remain closed on Wednesday, February 26, due to the Maha Shivaratri holiday.
+In the currency market, the Indian rupee weakened by 50 paise, closing at 87.20 per dollar compared to 86.70 in the previous session.
+-IANS
+Link: https://ddnews.gov.in/en/sensex-nifty-end-flat-amid-mixed-market-sentiment/
+Fetch Time: 2025-02-25 13:39:18
+
+Title: Congress leader Sajjan Kumar gets life imprisonment in 1984 anti-Sikh riots case
+Publication Date: Tue, 25 Feb 2025 10:38:13 +0000
+Content: A Delhi court on Tuesday sentenced former Congress MP Sajjan Kumar to life imprisonment for his involvement in the killing of two men during the 1984 anti-Sikh riots in the Saraswati Vihar area.
+Kumar was convicted on February 12 by Special Judge Kaveri Baweja of the Rouse Avenue Court for the murder of Jaswant Singh and his son, Tarundeep Singh.
+The court had reserved its verdict on January 31 after hearing additional submissions from Public Prosecutor Manish Rawat.
+Advocate Anil Sharma, representing Kumar, argued that his client’s name had not surfaced initially and there was a 16-year delay in identifying him as an accused. Additionally, a separate case in which Kumar was convicted by the Delhi High Court is currently pending appeal before the Supreme Court.
+Senior advocate H.S. Phoolka, representing the victims, argued that police investigations into the Sikh riot cases were manipulated to protect the accused. Phoolka said that the 1984 riots were extraordinary circumstances requiring a broader context in legal proceedings. He also referenced the Delhi High Court’s earlier judgement, which labeled the riots a “crime against humanity” and noted that over 2,700 Sikhs were killed in Delhi alone.
+Initially, the case was registered at Punjabi Bagh police station but was later handed over to the Special Investigation Team (SIT) established on the recommendation of the Justice G.P. Mathur Committee, which had called for reopening 114 cases, including this one.
+(With IANS inputs)
+Link: https://ddnews.gov.in/en/congress-leader-sajjan-kumar-receives-life-imprisonment-for-role-in-1984-anti-sikh-riots-case/
+Fetch Time: 2025-02-25 13:39:18
+
+Title: ICG personnel honoured with 32 gallantry and distinguished service medals at investiture ceremony
+Publication Date: Tue, 25 Feb 2025 10:29:19 +0000
+Content: Defence Minister Rajnath Singh conferred 32 gallantry, distinguished service, and meritorious service medals to Indian Coast Guard (ICG) personnel during the 18th ICG Investiture Ceremony at Bharat Mandapam in New Delhi on Tuesday. The awards were presented for exceptional acts of valour, dedication, and service in challenging conditions.
+The medals included six President’s Tatrakshak Medals (Distinguished Service), 11 Tatrakshak Medals (Gallantry), and 15 Tatrakshak Medals (Meritorious Service) for 2022, 2023, and 2024. Defence Minister hailed the recipients, describing the awards as symbols of bravery and perseverance in maintaining the nation’s coastal security and sovereignty.
+Singh also commended the ICG’s efforts in curbing piracy, terrorism, and illegal activities, as well as their role in humanitarian operations. He highlighted the service’s significant accomplishments over the past year, including the apprehension of 14 boats, 115 pirates, and the seizure of drugs worth Rs.37,000 crore. Additionally, ICG saved 169 lives and provided medical assistance to 29 individuals during rescue missions.
+Addressing modern threats, Singh urged the ICG to remain vigilant against emerging challenges such as cyber-attacks and GPS spoofing. He reaffirmed the government’s commitment to strengthening the ICG, citing the recent budget increase and approval of new patrol vessels, boats, and vehicles.
+Link: https://ddnews.gov.in/en/icg-personnel-honoured-with-32-gallantry-and-distinguished-service-medals-at-investiture-ceremony-2/
+Fetch Time: 2025-02-25 13:39:18
+
