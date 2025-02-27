@@ -1854,3 +1854,163 @@ The spokesperson said that, by creating a large and integrated single market, �
 Link: https://ddnews.gov.in/en/eu-vows-swift-firm-response-after-trump-says-tariffs-coming-on-eu-imports/
 Fetch Time: 2025-02-27 07:33:34
 
+Title: National Geospatial Policy: liberalizing access to geospatial data
+Publication Date: Thu, 27 Feb 2025 11:59:10 +0000
+Content: The National Geospatial Policy (NGP), announced by the Centre on December 28, 2022, seeks to liberalize access to geospatial data, foster innovation in governance, business, and academia, and drive India toward its vision of a self-reliant “Viksit Bharat” by 2047.
+A key objective of the NGP is to establish a high-resolution topographical survey and mapping system by 2030, along with creating a highly accurate Digital Elevation Model (DEM) for the entire country.
+The policy outlines a strategic plan to develop geospatial infrastructure, services, and platforms at both national and sub-national levels.
+Empowering Governance and Economic Growth
+The National Geospatial Policy acknowledges the critical role of geospatial technology in governance, economic growth, and societal development. It emphasizes enhancing institutional frameworks, promoting state and national-level coordination, and creating a vibrant geospatial ecosystem.
+The Department of Science and Technology (DST) is the central agency responsible for driving this initiative, encouraging the reuse and open access to geospatial data, products, and services via a network of geospatial platforms.
+The policy is expected to revolutionize sectors such as urban planning, disaster management, agriculture, environmental conservation, and transportation by facilitating the adoption of geospatial technology. This is in line with the government’s mission to modernize infrastructure, improve governance, and boost economic efficiency through data-driven decision-making.
+Geospatial Policy aligns with PM Gati Shakti
+The National Geospatial Policy (NGP) 2022 is closely aligned with the PM Gati Shakti – National Master Plan for Multi-modal Connectivity, a transformative digital platform launched to streamline infrastructure development across 16 key Ministries, including Railways and Roadways.
+By fostering coordinated infrastructure planning and execution, PM Gati Shakti aims to create seamless multi-modal connectivity for the efficient movement of people, goods, and services across various transportation modes. This initiative focuses on enhancing last-mile connectivity and significantly reducing travel time.
+Leveraging the power of accurate, real-time geospatial data, NGP 2022 plays a pivotal role in optimizing infrastructure projects. It helps to minimize redundancies, improve resource utilization, and ensure that infrastructure schemes across Ministries and State Governments are integrated effectively. A key feature of this initiative is the extensive use of geospatial technology, including advanced spatial planning tools developed by ISRO and BiSAG-N, which enable data-driven decision-making.
+By aligning with PM Gati Shakti, the National Geospatial Policy 2022 is driving efficient infrastructure development and accelerating economic growth through enhanced connectivity and smart resource management.
+Operation Dronagiri: A Pilot Initiative for Geospatial Innovation
+A significant step under the National Geospatial Policy is the launch of Operation Dronagiri on November 13, 2024. This pilot initiative aims to demonstrate the real-world applications of geospatial technologies in enhancing citizen services, business efficiency, and governance. Operation Dronagiri is designed to integrate geospatial data, analytics, and advanced mapping technologies to support multiple sectors.
+Initially implemented across five states—Uttar Pradesh, Haryana, Assam, Andhra Pradesh, and Maharashtra—the project brings together government departments, industry partners, corporations, and startups to drive geospatial innovation and ensure the efficient utilization of spatial data.
+Key Features: Integrated Geospatial Data Sharing Interface (GDI)
+A standout feature of Operation Dronagiri is the development of an Integrated Geospatial Data Sharing Interface (GDI), which facilitates seamless access to and sharing of geospatial data across various sectors. The GDI supports applications in urban planning, environmental monitoring, and disaster management, helping organizations make informed, data-driven decisions for public welfare.
+Impact and Future Expansion
+Operation Dronagiri is expected to significantly enhance governance, boost economic efficiency, and promote sustainable infrastructure development. By integrating geospatial technologies with public and private sector initiatives, the project envisions a nationwide rollout under a Public-Private Partnership (PPP) model, ensuring long-term sustainability and widespread impact.
+Towards a Geospatial Revolution
+With the introduction of the National Geospatial Policy 2022, India is on the path to becoming a global geospatial hub. The policy simplifies data access, encourages innovation, and supports enterprise development, thereby creating a dynamic geospatial sector that strengthens governance, industry, and research.
+Link: https://ddnews.gov.in/en/national-geospatial-policy-liberalizing-access-to-geospatial-data/
+Fetch Time: 2025-02-27 13:39:33
+
+Title: Stock market ends flat amid cautious sentiment; NBFC stocks rally
+Publication Date: Thu, 27 Feb 2025 11:50:56 +0000
+Content: The Indian stock market traded within a narrow range on Thursday as investors remained cautious, leading to a largely unchanged closing for the benchmark indices.
+The Sensex fluctuated between an intra-day high of 74,834 and a low of 74,521, before closing marginally higher at 74,612, registering a modest gain of 10 points. Similarly, the Nifty moved within a 100-point range, touching a high of 22,613 and a low of 22,508, before settling nearly flat at 22,545 on its expiry day.
+Market sentiment remained subdued, with sellers dominating at higher levels.
+“On the lower end, 22,500 continues to act as support, similar to how 22,800 did a few days ago. We expect Nifty to decline towards 22,200 and lower if it falls below 22,500,” said Rupak De, Senior Technical Analyst at LKP Securities.
+NBFC Stocks Shine Amid Market Weakness
+Among Sensex stocks, Bajaj Finance and Bajaj Finserv led the gainers, rising over 2% each. Other top performers included IndusInd Bank, HDFC Bank, Zomato, and Axis Bank, which saw intra-day gains of over 1%.
+However, UltraTech Cement faced a sharp decline of nearly 5% following its announcement of an entry into the wires and cables business. Other major laggards included Mahindra & Mahindra, Tata Motors, Tech Mahindra, HCL Technologies, Hindustan Unilever, and NTPC.
+The broader market saw selling pressure, with the BSE MidCap index dropping 1% and the SmallCap index slipping over 2%.
+NBFC & MFI Stocks Rally on RBI Move
+Despite the overall caution, stocks in the Non-Banking Financial Companies (NBFCs) and Micro-Finance Institutions (MFIs) sector saw strong buying interest.
+Shares of CreditAccess Grameen, L&T Finance, and Mahindra & Mahindra Finance surged up to 15% after the Reserve Bank of India (RBI) announced a reduction in risk weights on MFI loans and loans extended to NBFCs.
+Rupee Remains Flat Amid High Volatility
+The rupee traded largely flat at 87.17, after witnessing high volatility earlier in the session. It weakened to 87.54 before recovering to 87.10 by the close.
+“The session ended on a neutral note as the dollar index remained range-bound, and FII sell-off was countered by DII inflows, stabilizing the secondary markets,” said Jateen Trivedi, VP Research Analyst – Commodity and Currency at LKP Securities.
+He further noted that the rupee’s movement in the coming days will depend on global cues, dollar momentum, and oil price trends.
+-ANI
+Link: https://ddnews.gov.in/en/stock-market-ends-flat-amid-cautious-sentiment-nbfc-stocks-rally/
+Fetch Time: 2025-02-27 13:39:33
+
+Title: European Commission President arrives in Delhi, calls India a trusted friend and strategic ally
+Publication Date: Thu, 27 Feb 2025 11:35:09 +0000
+Content: European Commission President Ursula von der Leyen arrived in the national capital on Thursday for a two-day official visit, reaffirming India’s role as a trusted friend and strategic ally for Europe.
+Accompanied by the European Union College of Commissioners, von der Leyen’s visit will include the second ministerial meeting of the India-EU Trade and Technology Council, along with several bilateral ministerial meetings.
+She is scheduled to meet Prime Minister Narendra Modi to discuss ways to further enhance the strategic partnership between India and the European Union.
+“Touchdown in Delhi with my team of Commissioners. In an era of conflicts and intense competition, you need trusted friends. For Europe, India is such a friend and a strategic ally. I’ll discuss with @narendramodi how to take our strategic partnership to the next level,” von der Leyen said in a post on X.
+On her arrival, she was accorded a warm welcome and was received at the airport by Minister of State for Health and Family Welfare Anupriya Patel.
+“Elevating the multifaceted partnership to new heights. President of the @EU_Commission @vonderleyen arrives in New Delhi for the first visit of the EU College of Commissioners to India. Warmly received with a special welcome by MoS for Health & Family Welfare @AnupriyaSPatel at the airport,” MEA spokesperson Randhir Jaiswal posted on X.
+This marks von der Leyen’s third visit to India. She previously visited in April 2022 for a bilateral official visit and in September 2023 to attend the G20 Leaders’ Summit. She has also met PM Modi regularly on the sidelines of various multilateral meetings.
+According to the Ministry of External Affairs (MEA), this visit marks the first-ever trip of the EU College of Commissioners to India as a collective body. It is also among the first such visits since the European Commission’s current mandate began in December 2024, following the European parliamentary elections held in June 2024.
+India and the European Union have been strategic partners since 2004, with their bilateral relations expanding across multiple sectors. As both sides enter the third decade of their strategic partnership, the visit of President von der Leyen and the EU College of Commissioners is expected to further strengthen ties based on shared interests and growing cooperation.
+-ANI
+Link: https://ddnews.gov.in/en/european-commission-president-arrives-in-delhi-calls-india-a-trusted-friend-and-strategic-ally/
+Fetch Time: 2025-02-27 13:39:33
+
+Title: Champions Trophy: Rain forces Pakistan, Bangladesh out without a win
+Publication Date: Thu, 27 Feb 2025 11:17:38 +0000
+Content: Pakistan and Bangladesh bowed out of the 2025 Champions Trophy winless after their final Group A match at the Rawalpindi Cricket Stadium was washed out on Thursday. The rain-abandoned game left both teams with just one point each.
+Both Bangladesh and Pakistan, the tournament hosts and defending champions, were already eliminated from the eight-team competition after India and New Zealand secured semi-final spots, making this clash a dead rubber.
+With the rain leading to a washout, this became the second game to be abandoned in Rawalpindi after the South Africa-Australia Group B match.
+It had been drizzling in Rawalpindi for the past 24 hours, raising fears of a washout. An official inspection by on-field umpires Adrian Holdstock and Michael Gough was scheduled for 2:30 PM (IST), but persistent rain prevented it, delaying the toss.
+At 4:00 PM (IST), the match was officially called off without a ball being bowled, and both teams shared a point.
+Pakistan and Bangladesh had hoped to sign off from the 2025 Champions Trophy on a positive note. However, both teams suffered defeats against New Zealand and India, respectively, with their performances lacking in all three departments. Bangladesh’s bowling attack, though, was relatively better than Pakistan’s.
+This also marks Pakistan’s third consecutive early exit from an ICC tournament, following their eliminations in the 2023 Men’s ODI World Cup in India and the 2024 Men’s T20 World Cup in the USA and the West Indies.
+As for the 2025 Champions Trophy, one match remains in Group A, with India and New Zealand set to face off in Dubai on Sunday to determine the group toppers.
+IANS
+Link: https://ddnews.gov.in/en/champions-trophy-rain-forces-pakistan-bangladesh-out-without-a-win/
+Fetch Time: 2025-02-27 13:39:33
+
+Title: Amazon unveils quantum chip, aiming to shave years off development time
+Publication Date: Thu, 27 Feb 2025 11:07:55 +0000
+Content: Amazon Web Services on Thursday showed a quantum computing chip with new technology that it hopes will shave as much as five years off its effort to build a commercially useful quantum computer.
+The chip, named Ocelot, is a prototype that has only a tiny fraction of the computing power needed to create a useful machine. But like its tech rivals, AWS, which is Amazon.com’s cloud computing unit, believes it has finally hit on a technology that can be scaled up into a working machine, though it has not yet set a date for when it will reach that point.
+The AWS announcement, which coincides with the publication of a peer-reviewed paper in the scientific journal Nature, comes as quantum computing is sweeping through the technology world, with Alphabet’s Google, Microsoft and startup PsiQuantum all announcingadvances in recent months.
+Quantum computers hold the promise of carrying out computations that would take conventional computers millions of years and could help scientists develop new materials such as batteries and new drugs. But a fundamental building block of quantum computers called a qubit is fast but finicky and prone to errors.
+Scientists established in the 1990s that some of a quantum computer’s qubits could be dedicated to correcting those errors, and the years since then have been spent searching for ways to construct physical qubits so that enough “logical” qubits are left over to do useful computing work.
+The standard industry thinking has been that a chip will need about a million physical qubits to yield a useful number of logical qubits.
+But AWS said it had built a prototype chip that uses only nine physical qubits to yield one working logical qubit, thanks to the use of what is known as a “cat” qubit, so named for physicist Erwin Schrodinger’s famous thought experiment to illustrate principles of quantum mechanics in which an unlucky cat in a box is both dead and alive at the same time.
+Oskar Painter, AWS director of quantum hardware, said the AWS approach could one day yield useful computers with only 100,000 qubits rather than a million.
+“It should allow us to provide between five and 10 times lower numbers of physical qubits to implement the error correction in a fully scaled machine. So that’s the real benefit,” Painter told Reuters.
+Painter said that the current chip was constructed using standard techniques borrowed from the chip industry and a material called tantalum, but that AWS and partners hope to customize those techniques further.
+“That’s where I think there’s going to be a huge amount of innovation and that will be the thing that could really reel in timelines for development. If we make improvements at the materials and processing level, this will make the underlying technology just much simpler,” Painter said.
+(Reuters)
+Link: https://ddnews.gov.in/en/amazon-unveils-quantum-chip-aiming-to-shave-years-off-development-time/
+Fetch Time: 2025-02-27 13:39:33
+
+Title: North Korea has sent more troops to Russia, reports citing Seoul’s spy agency say
+Publication Date: Thu, 27 Feb 2025 11:03:02 +0000
+Content: North Korea has deployed additional troops to Russia, but the scale of the contingent was not immediately known, South Korean media reported on Thursday, citing the country’s intelligence agency.
+The additional troops have been sent to the battlegrounds in Russia’s Kursk region, the reports said. Russian forces are fighting Ukrainian troops who thrust across the border into the western Russia region.
+The spokesperson’s office at the National Intelligence Service (NIS) did not answer telephone calls seeking comment.
+North Korea has deployed more than 11,000 troops to Russia to fight in the Ukraine war, the NIS has previously said. Ukraine and Western experts say Russian forces have also used North Korean weapons.
+North Korea has not formally acknowledged its military support for Russia in the Ukraine war.
+(Reuters)
+Link: https://ddnews.gov.in/en/north-korea-has-sent-more-troops-to-russia-reports-citing-seouls-spy-agency-say/
+Fetch Time: 2025-02-27 13:39:33
+
+Title: Lulu Group Clinches Top Honors with Sheikh Mansour Bin Zayed Agricultural Excellence Award
+Publication Date: Thu, 27 Feb 2025 11:00:56 +0000
+Content: Lulu Group, the leading retail giant, has been awarded the prestigious Sheikh Mansour Bin Zayed Agricultural Excellence Award for its outstanding contributions to the UAE’s agricultural sector and sustainability initiatives. The award was presented to Ashraf Ali M.A., Executive Director of Lulu Group, by Dr. Amna bint Abdullah Al Dahak, UAE Minister of Climate Change and Environment, at a ceremony held at the Emirates Palace. The recognition highlights Lulu’s pivotal role in supporting the award program and related events at the Sheikh Zayed Festival in Al Wathbah.
+The award is among the UAE’s most esteemed initiatives, encouraging farmers and livestock breeders to embrace modern technologies and sustainable practices. Lulu Group has been a steadfast advocate of these principles, championing innovation, empowering local farmers, and enhancing sustainability in agriculture. Under the patronage of Sheikh Mansour bin Zayed Al Nahyan, Vice President and Deputy Prime Minister of the UAE, the Sheikh Zayed Festival has grown into one of the country’s most prominent cultural and agricultural celebrations, showcasing advancements in homegrown produce and sustainable farming practices.
+Lulu Group International, headquartered in Abu Dhabi, is a multinational conglomerate with an extensive retail presence across the Middle East, Asia, and beyond. Founded by Indian entrepreneur M.A. Yusuff Ali, the group maintains strong ties to India, investing in retail, food processing, and logistics while sourcing a significant portion of its fresh produce from the country for its global operations.
+Link: https://ddnews.gov.in/en/lulu-group-clinches-top-honors-with-sheikh-mansour-bin-zayed-agricultural-excellence-award/
+Fetch Time: 2025-02-27 13:39:33
+
+Title: Trump tariff policy an attack on EU industry and jobs, Italy’s business lobby says
+Publication Date: Thu, 27 Feb 2025 10:59:51 +0000
+Content: Trump tariff policy an attack on EU industry and jobs, Italy’s business lobby says
+U.S. President Donald Trump’s threat to introduce tariffs on European Union imports would undermine the bloc’s companies and its workforce and require a strong response from the EU, Italy’s business lobby said late on Wednesday.
+Trump has said his administration will soon announce a 25% “reciprocal” tariff on goods from the EU, including cars.
+“The threat is not only of an impact on trade dynamics. The truth is far more dramatic … What is coming from the American leadership is an attack on European companies and jobs,” Confindustria president Emanuele Orsini said in a statement.
+He said Trump’s trade policies aimed to “deindustrialise the (European) continent” and urged Brussels to consider “extraordinary measures for an extraordinary time”.
+“It is a dark hour,” Orsini said.
+Bank of Italy Governor Fabio Panetta said this month that a full implementation of the tariffs threatened before the U.S. election, plus retaliatory measures, would cut EU growth by half a percentage point, with Germany and Italy hardest hit.
+The European Commission said on Wednesday that the EU would react “firmly and immediately against unjustified barriers to free and fair trade, including when tariffs are used to challenge legal and non-discriminatory policies”.
+(Reuters)
+Link: https://ddnews.gov.in/en/trump-tariff-policy-an-attack-on-eu-industry-and-jobs-italys-business-lobby-says/
+Fetch Time: 2025-02-27 13:39:33
+
+Title: Nigeria’s museum agrees with royal ruler on custody of Benin Bronzes
+Publication Date: Thu, 27 Feb 2025 10:58:33 +0000
+Content: Nigeria’s national museum commission will be responsible for retrieving and keeping priceless Benin Bronzes, taking on the task with the assent of the royal ruler appointed sole owner and custodian of the objects nearly two years ago, its head said.
+Nigeria is on a quest to recover the thousands of intricate sculptures and castings that were looted by British soldiers during a raid on the then-separate Kingdom of Benin, located in what is now southern Nigeria, in 1897.
+The stolen bronzes are among Africa’s finest and most significant heritage objects and are mostly in Europe.
+In March 2023, then-president Muhammadu Buhari signed a decree saying the Oba, or king, of the historic kingdom of Benin rightfully owned all returned Benin Bronzes and was responsible for managing all places where the artefacts are kept.
+Olugbile Holloway, director general of the National Commission for Museums and Monuments (NCMM), told Reuters that the Oba did not currently have the infrastructure to display the bronzes.
+He said the Oba, with support from NCMM, was working to establish the Benin Royal Museum, which would eventually house some of the artefacts.
+“So, the Oba has given the NCMM the blessing to display, conserve and to pursue reparation of these objects. So, there is no more ambiguity,” said Holloway.
+In 2023 the NCMM had said the University of Cambridge’s Museum of Archaeology and Anthropology put on hold plans to return more than 100 artefacts after the government decree.
+Holloway, however, said it was now a matter of time before an agreement would be reached with Cambridge University for the artefacts’ return.
+“The return of these objects is not just about displaying them in the museum or taking care of them. It is about the dignity of our people and undoing the injustice of 1897,” he said.
+(Reuters)
+Link: https://ddnews.gov.in/en/nigerias-museum-agrees-with-royal-ruler-on-custody-of-benin-bronzes/
+Fetch Time: 2025-02-27 13:39:33
+
+Title: Matthew Perry allegedly recieved 27 shots of Ketamine before his death, new documentary claims
+Publication Date: Thu, 27 Feb 2025 10:57:14 +0000
+Content: ‘Friends’ star Matthew Perry, who passed away two years ago, left a deep scar on the hearts of his fans, friends, and family members. A new Peacock documentary explores his life before he died from an accidental overdose on October 28, 2023.
+According to his autopsy report, the actor had “high levels of ketamine” in his system, and the documentary claims this was because he received 27 shots of the drug in his final three days, reported ‘People’.
+“Allegedly, you have Dr. Salvador Plasencia providing ketamine to a live-in assistant who has no medical training whatsoever, and that live-in assistant is administering ketamine to a person whose risk factors are through the roof,” said Martin Estrada, the former United States Attorney for the Central District of California, in the documentary, as per the outlet.
+In mid-October, Estrada said that Plasencia “had numerous red flags that were flashing in front of him,” yet he allegedly continued to illegally inject Perry.
+“Allegedly, Dr. Plasencia would arrange with Mr. Perry different locations to meet to provide the ketamine,” he said. “On one occasion, they met in a parking lot in Long Beach, and he administered ketamine in the back of a car. Doctors are not supposed to inject people in the back of parking lots,” as per the outlet.
+“A trained doctor like Dr. Plasencia knew much better,” Estrada shared, adding, “One of the overall themes of our indictment is that all these defendants should have known better. They were taking advantage of an individual and letting their greed drive them to endanger Mr. Perry’s life.”
+Perry had a poor reaction to the drug at this time, and prosecutors believe Plasencia saw Perry “freeze up,” yet did “nothing about this,” Estrada claimed.
+“He allegedly continued to provide ketamine to Mr. Perry’s live-in assistant, which was then administered to Mr. Perry,” added Estrada.
+Ultimately, that assistant, named Kenneth Iwamasa, gave Perry the shot of ketamine that killed him. The drug was supplied by a woman known as “The Ketamine Queen,” Jasveen Sangha, reported ‘People.’.
+“When it reached a point where Mr. Perry’s request or demand for more ketamine became so great that Dr. Plasencia and Dr. [Mark] Chavez could not provide that amount, they then reached out to an intermediary,” retired Los Angeles Police Department detective Greg Kading claimed, as per the outlet.
+According to a plea agreement Iwamasa made with the Department of Justice, he had injected Perry with six to eight doses of ketamine per day from October 24 to 27. On October 28, Iwamasa gave Perry his first dose of ketamine at 8:30 in the morning and another at 12:45 p.m. that afternoon. Perry requested another injection 40 minutes later, allegedly telling Iwamasa to “shoot me up with a big one” and to get the hot tub ready. It was either in or near Perry’s jacuzzi that he was given the fatal dose.
+After running errands, Iwamasa returned to find Perry dead in the water, as per court documents, reported ‘People’.
+(ani)
+Link: https://ddnews.gov.in/en/matthew-perry-allegedly-recieved-27-shots-of-ketamine-before-his-death-new-documentary-claims/
+Fetch Time: 2025-02-27 13:39:33
+
