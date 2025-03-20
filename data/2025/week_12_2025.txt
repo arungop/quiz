@@ -1396,3 +1396,139 @@ The new president is elected on an eight-year term with the possibility of re-el
 Link: https://ddnews.gov.in/en/ioc-session-starts-in-greece-president-bach-presides-for-the-last-time/
 Fetch Time: 2025-03-19 13:41:31
 
+Title: Google charged with breaching landmark EU rules, Apple told to open up to rivals
+Publication Date: Wed, 19 Mar 2025 17:31:59 +0000
+Content: Alphabet unit Google was hit with two charges of breaching landmark EU rules on Wednesday while Apple was ordered to help rivals connect with its iPhones and iPads, as antitrust regulators continued a crackdown against Big Tech.
+The move by the European Commission came amid tensions with U.S. President Donald Trump who has threatened to levy tariffs against countries which impose fines on U.S. companies.
+Both Google and Apple have been in the European Commission’s crosshairs since March last year over concerns that they may not be complying with the Digital Markets Act, which aims to rein in the power of Big Tech via a list of dos and don’ts.
+The Google case centred on whether it restricts app developers from informing users about offers outside its app store Google Play and whether it favours its vertical search services such as Google Flights in Google Search.
+The EU competition watchdog on Wednesday issued preliminary findings charging Google of DMA violations in both areas, confirming a Reuters story on Feb. 21.
+The Commission also issued two orders to Apple to open up its ecosystem to rivals, six months after it opened so-called specification proceedings against the iPhone maker.
+The first charge in the Google case focused on the company’s practices on its app store Google Play. Alphabet technically prevents app developers from freely steering consumers to other channels for better offers, regulators said.
+A service fee charged by the company for facilitating the initial acquisition of a new customer by an app developer via Google Play goes beyond what is justified, they added.
+In the second charge, regulators said Google favoured its own services such as Google Shopping, Google Hotels and Google Flights over rivals.
+Google pushed back, saying that EU competition rules are hurting consumers and businesses.
+“The Commission’s findings require us to make even more changes to how we show certain types of Search results, which would make it harder for people to find what they are looking for and reduce traffic to European businesses,” Oliver Bethell, Google’s senior director, Competition, said in a blogpost.
+He said if the company can’t charge reasonable fees to support the ongoing development of Android and the Play services, then it cannot invest in an open platform.
+EU antitrust chief Teresa Ribera said in a statement that the measures “ensure that Alphabet abides by EU rules when it comes to two services widely used by businesses and consumers across the EU, Google Search and Android phones.”
+(Reuters)
+Link: https://ddnews.gov.in/en/google-charged-with-breaching-landmark-eu-rules-apple-told-to-open-up-to-rivals/
+Fetch Time: 2025-03-20 02:39:43
+
+Title: Karnataka CM Siddaramaiah’s helicopter rides cost taxpayers over ₹31 crore
+Publication Date: Wed, 19 Mar 2025 17:01:37 +0000
+Content: Karnataka Chief Minister Siddaramaiah’s extensive use of helicopter travel has sparked controversy, with official records revealing that his chopper expenses amounted to ₹12.65 crore in 2023-24 and ₹19.35 crore in 2024-25, up to January 15, 2025.
+What has drawn further criticism is Siddaramaiah’s preference for helicopters even for short distances, such as Mysuru, which is just a 1.5-hour drive from Bengaluru. According to government documents tabled in the legislative assembly, ₹10.85 lakh was spent on a helicopter ride to Mysuru, despite the short travel time by road.
+In response to a question raised by JD(S) MLC T.N. Javarayigowda in the Legislative Council regarding the Chief Minister’s use of jets and flights, the Chief Minister’s Office (CMO) confirmed that Siddaramaiah had opted for chopper travel even for nearby destinations like Mysuru.
+The documents further reveal that the Chief Minister booked charter flights to destinations such as Delhi and Chennai, which are well-connected by commercial airlines. One instance highlighted a charter flight to Delhi that cost ₹44.40 lakh, while a business-class round-trip ticket on a commercial airline would have been approximately ₹70,000.
+BJP leader Rajeev Chandrasekhar criticized Siddaramaiah’s travel expenses, alleging that the state’s financial priorities were misplaced. He accused the government of allocating significant funds for the Chief Minister’s private jets while development, farmer welfare, and infrastructure projects faced financial constraints.
+“Wah @siddaramaiahavare wah! @RahulGandhi’s ‘paradigm change’ governance in full flow in Karnataka—No money for development, No money for farmers, No money for infra, but plenty of money for CM’s private jets and plenty of land to be grabbed,” Chandrasekhar posted on X.
+Earlier in the day, a delegation of Karnataka BJP leaders met Governor Thaawar Chand Gehlot at Raj Bhavan and submitted a memorandum against the state government’s Bills.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/karnataka-cm-siddaramaiahs-helicopter-rides-cost-taxpayers-over-%e2%82%b931-crore/
+Fetch Time: 2025-03-20 02:39:43
+
+Title: PM Modi and Bill Gates discuss technology, innovation, and sustainability
+Publication Date: Wed, 19 Mar 2025 15:49:09 +0000
+Content: Prime Minister Narendra Modi held a meeting with Microsoft co-founder and philanthropist Bill Gates on Wednesday, where they discussed a range of topics, including technology, innovation, and sustainability.
+Following the meeting, Prime Minister Modi described the discussion as “excellent” in a post on social media platform X. “As always, an excellent meeting with Bill Gates. We spoke about diverse issues, including tech, innovation, and sustainability, towards creating a better future for the coming generations,” he said.
+The conversation also focused on India’s developmental trajectory, the vision for Viksit Bharat 2047, and significant advancements in sectors such as health, agriculture, and artificial intelligence (AI), which are driving progress both locally and globally.
+Bill Gates, in a post on X, echoed similar sentiments, highlighting India’s strides in various fields. “I had a great discussion with @narendramodi about India’s development, the path to Viksit Bharat @ 2047, and exciting advancements in health, agriculture, AI, and other sectors that are creating an impact today. It’s impressive to see how innovation in India is driving progress locally—and globally,” he wrote.
+In addition to his meeting with the Prime Minister, Gates also met External Affairs Minister S. Jaishankar on the sidelines of the Raisina Dialogue. The two discussed pressing development challenges and the role of innovation in addressing them.
+“A thoughtful conversation with @BillGates on the sidelines of #Raisina2025. Discussed development challenges, the promise of innovation, and the relevance of India,” Jaishankar shared in a post on X.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/pm-modi-and-bill-gates-discuss-technology-innovation-and-sustainability/
+Fetch Time: 2025-03-20 02:39:43
+
+Title: TRAI tightens regulations to control spam calls, reduces action time against unregistered telemarketers
+Publication Date: Wed, 19 Mar 2025 15:26:20 +0000
+Content: In a decisive step to tackle the rising problem of spam calls, the Telecom Regulatory Authority of India (TRAI) has amended the Telecom Commercial Communications Customer Preference Regulations (TCCCPR), 2018, according to an official statement from the Minister of State for Communications and Rural Development in the Lok Sabha on Wednesday. The updated regulations, announced on February 12, introduce stricter measures to strengthen customer protection against Unsolicited Commercial Communication (UCC).
+Key highlights of the amendment include:
+Extended Complaint Window: Customers can now file complaints about spam/UCC within 7 days of receiving the communication, an extension from the previous 3-day limit.
+Reduced Action Time: The time frame for access providers to take action against unregistered senders of spam has been significantly reduced from 30 days to just 5 days, ensuring quicker response times.
+Stricter Criteria for Action: TRAI has revised the threshold for triggering action against spam senders. Previously, action would be taken after 10 complaints were filed against a sender within 7 days. The new rule lowers this threshold to 5 complaints within 10 days.
+These changes will take effect 30 days after their publication in the Official Gazette, with certain regulations coming into force after 60 days.
+Additionally, TRAI had previously issued directions on August 13, 2024, mandating the disconnection of all telecom resources used by unregistered telemarketers (UTMs) for making spam calls. Since then, telecom operators have implemented widespread actions, leading to a notable decrease in complaints against UTMs—from 1,89,419 complaints in August 2024 to 1,34,821 in January 2025. Over 1,150 entities and individuals have been blacklisted, and more than 18.8 lakh telecom resources have been disconnected.
+Link: https://ddnews.gov.in/en/trai-tightens-regulations-to-control-spam-calls-reduces-action-time-against-unregistered-telemarketers/
+Fetch Time: 2025-03-20 02:39:43
+
+Title: South Korea unveils plan to train 30,000 aerospace professionals by 2045 in bid to become global space power
+Publication Date: Wed, 19 Mar 2025 15:04:57 +0000
+Content: South Korea’s national space agency, the Korea Aerospace Administration (KASA), unveiled a comprehensive plan on Wednesday to establish a cross-sectoral education system aimed at nurturing 30,000 aerospace professionals by 2045. This initiative is part of South Korea’s long-term strategy to position itself as a global leader in space exploration amid the growing influence of private companies in the New Space era.
+The ambitious plan, revealed at a government policy meeting chaired by Acting President Choi Sang-mok, is designed to build a robust space industry ecosystem by expanding the talent pool and fostering mission-oriented specialists. The goal is to create a workforce capable of supporting the country’s space aspirations.
+Under the initiative, KASA will collaborate with various government ministries to increase the number of young aerospace trainees from 300 to 1,500 per year. To achieve this, the agency will develop specialized space education programs, launch public outreach initiatives modeled after NASA’s Space Ambassador Programme, and expand space education in elementary and secondary schools through after-school activities and the high school credit system.
+KASA also plans to introduce an internship program at its facilities and the three major space industry clusters to be developed in Daejeon, South Jeolla Province, and South Gyeongsang Province. These clusters will serve as recruitment hubs, helping foster aerospace talent in local areas. Additionally, strategy centers for space technology will be established to enhance practical training and strengthen industry-academia partnerships.
+Acting President Choi Sang-mok emphasized the importance of human resource development in the space sector, stating, “To become one of the top five global powers in space, we must focus on nurturing a professional workforce, with active participation from young people. The global technology race extends to space, and we must be prepared.”
+
+Choi also highlighted the government’s commitment to promoting increased collaboration between universities and research institutes, further bolstering South Korea’s research and development capabilities in the space industry.
+(From IANS inputs)
+Link: https://ddnews.gov.in/en/south-korea-unveils-plan-to-train-30000-aerospace-professionals-by-2045-in-bid-to-become-global-space-power/
+Fetch Time: 2025-03-20 02:39:43
+
+Title: Putin wants Trump to formally recognise all land Russia has taken in Ukraine, Kommersant reports
+Publication Date: Wed, 19 Mar 2025 15:03:08 +0000
+Content: President Vladimir Putin wants U.S. President Donald Trump to formally recognise all four Ukrainian regions that Moscow has claimed as its own in addition to Crimea, Russia’s Kommersant daily reported.
+Citing unnamed sources who attended a private business event with Putin on Tuesday, Kommersant said that Putin wanted the U.S. to formally recognise the four regions – Luhansk, Donetsk, Zaporizhzhia and Kherson – as part of Russia along with Crimea, which Moscow seized and annexed in 2014.
+Russia, though advancing on the battlefield, does not fully control any of the four regions.
+In return for recognition and if it happened “in the near future”, Kommersant said Putin would undertake not to lay claim to the Ukrainian port city of Odesa and other Ukrainian territory.
+Asked about the Kommersant report on Wednesday, Kremlin spokesman Dmitry Peskov said Putin and Trump had not discussed the idea on their call on Tuesday.
+But he confirmed, without elaborating, that Putin had discussed the conflict in Ukraine at Tuesday’s closed door meeting with members of Russia’s business elite.
+Peskov did not confirm, however, whether Putin had floated the idea of the U.S. recognising the four regions in addition to Crimea at the meeting.
+(Reuters)
+Link: https://ddnews.gov.in/en/putin-wants-trump-to-formally-recognise-all-land-russia-has-taken-in-ukraine-kommersant-reports/
+Fetch Time: 2025-03-20 02:39:43
+
+Title: ‘Kavach 4.0’ to equip 10,000 locomotives in the next phase: Ashwini Vaishnaw
+Publication Date: Wed, 19 Mar 2025 14:35:47 +0000
+Content: India’s cutting-edge automatic train protection system called ‘Kavach 4.0’ is on track to equip 10,000 locomotives in the next phase (the project has been finalised), and 69 loco sheds have been prepared for the installation of the system, the government informed on Wednesday.
+Bids for trackside works of Kavach for approximately 15,000 route kilometres (RKm) have been invited, covering all GQ, GD, HDN, and identified sections of Indian Railways, out of which works for 1,865 RKm have been awarded, Union Railways Minister Ashwini Vaishnaw said in a written reply in the Lok Sabha.
+“Currently, three original equipment manufacturers (OEMs) are approved for the supply of the Kavach System. To enhance capacity and expand implementation, trials and approvals for additional OEMs are at various stages,” said the minister.
+Specialised training programmes on Kavach are being conducted at centralised training institutes of Indian Railways to impart training to all concerned officials.
+“By now, more than 20,000 technicians, operators, and engineers have been trained on Kavach technology. Courses have been designed in collaboration with IRISET,” Vaishnaw informed.
+The cost for the provision of trackside infrastructure, including station equipment of Kavach, is approximately ₹50 lakh per kilometre, while the cost for installing Kavach equipment on locomotives is approximately ₹80 lakh per locomotive.
+“The funds utilised for Kavach works so far amount to ₹1,950 crore. The allocated funds for the year 2024-25 amount to ₹1,112.57 crore. Necessary funds are allocated based on project progress,” the minister noted.
+Kavach is an indigenously developed Automatic Train Protection (ATP) system that assists the Loco Pilot in operating the train within specified speed limits by automatically applying brakes if the Loco Pilot fails to do so. It also ensures safe train operations during inclement weather conditions.
+Major improvements in Kavach Version 4.0 include enhanced location accuracy, improved signal aspect information in larger yards, station-to-station Kavach interface via OFC, and direct integration with the existing Electronic Interlocking System.
+“Kavach version 4.0 covers all the major features required for the diverse railway network. This is a significant milestone in safety for Indian Railways. Within a short period, IR has developed, tested, and started deploying the Automatic Train Protection System,” informed the minister.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/kavach-4-0-to-equip-10000-locomotives-in-the-next-phase-ashwini-vaishnaw/
+Fetch Time: 2025-03-20 02:39:43
+
+Title: Union Cabinet approves new ammonia-urea complex in Assam
+Publication Date: Wed, 19 Mar 2025 14:19:41 +0000
+Content: The Union Cabinet, chaired by PM Modi, has approved the establishment of a new Brownfield Ammonia-Urea Complex with an annual production capacity of 12.7 Lakh Metric Tonnes (LMT) within the existing premises of Brahmaputra Valley Fertilizer Corporation Limited (BVFCL), Namrup, Assam.
+The project, with an estimated total cost of ₹10,601.40 crore, will be executed under a Joint Venture (JV) with a Debt-Equity ratio of 70:30, in accordance with the New Investment Policy, 2012, and its amendments on October 7, 2014. The commissioning timeline for the Namrup-IV Project is set at 48 months.
+Additionally, the Cabinet has granted approval for National Fertilizers Limited (NFL) to hold an 18% equity stake, exceeding the limits prescribed in the Department of Public Enterprises (DPE) guidelines. An Inter-Ministerial Committee (IMC) has also been constituted to oversee the establishment of the Namrup-IV Fertilizer Plant.
+As part of the approval, the Cabinet has also sanctioned National Fertilizers Limited’s (NFL) equity participation of 18 percent, granting an exemption from the limits prescribed under the Department of Public Enterprises (DPE) guidelines. Additionally, an Inter-Ministerial Committee (IMC) will be constituted to oversee the establishment and execution of the Namrup-IV Fertilizer Plant.
+The equity structure of the Joint Venture will consist of a 40 percent share by the Government of Assam, while Brahmaputra Valley Fertilizer Corporation Limited (BVFCL) will hold 11 percent. Hindustan Urvarak & Rasayan Limited (HURL) will contribute 13 percent, while both National Fertilizers Limited (NFL) and Oil India Limited (OIL) will hold 18 percent each. BVFCL’s equity share will be in the form of tangible assets.
+The project is expected to enhance domestic Urea production capacity, particularly benefiting the North-Eastern region. It will help meet the rising demand for Urea fertilizers in North-East India, Bihar, West Bengal, Eastern Uttar Pradesh, and Jharkhand. The Namrup-IV unit is designed to be more energy-efficient and will generate both direct and indirect employment opportunities in the region.
+Link: https://ddnews.gov.in/en/union-cabinet-approves-new-ammonia-urea-complex-in-assam/
+Fetch Time: 2025-03-20 02:39:43
+
+Title: Cabinet approves construction of 6-lane high-speed highway in Maharashtra
+Publication Date: Wed, 19 Mar 2025 13:09:39 +0000
+Content: The Cabinet Committee on Economic Affairs, chaired by PM Modi, has approved the construction of a six-lane access-controlled Greenfield High-Speed National Highway from JNPA Port (Pagote) to Chowk in Maharashtra. The project, spanning 29.219 km, will be developed under the Build, Operate, and Transfer (BOT) mode at a total capital cost of ₹4,500.62 crore.
+The development of road connectivity to major and minor ports in India is a key focus area under the PM Gati Shakti National Master Plan principles. With the increasing container volume at JNPA Port and the upcoming Navi Mumbai International Airport, the need for enhanced National Highway connectivity in the region has been identified.
+Currently, it takes 2-3 hours for vehicles to move from JNPA Port to the arterial Golden Quadrilateral (GQ) section of NH-48 and the Mumbai-Pune Expressway due to heavy congestion in urban areas such as Palaspe Phata, D-Point, Kalamboli Junction, and Panvel, with traffic volumes reaching approximately 1.8 lakh Passenger Car Units (PCU) per day. Following the operationalization of Navi Mumbai International Airport in 2025, the demand for direct connectivity is expected to increase further.
+The newly approved project aims to address these connectivity challenges and enhance logistics efficiency between JNPA Port and Navi Mumbai International Airport. The highway alignment will commence at JNPA Port (NH 348) in Pagote village and conclude at Mumbai-Pune Highway (NH-48), while also linking the Mumbai-Pune Expressway and the Mumbai-Goa National Highway (NH-66).
+To facilitate smooth movement of commercial vehicles, two tunnels will be constructed through the Sahyadri hills, eliminating the need to navigate the ghat section in the hilly terrain. This design ensures high-speed travel and ease of movement for large container trucks.
+The new six-lane Greenfield highway corridor is expected to significantly improve port connectivity, ensuring safe and efficient freight movement.
+Link: https://ddnews.gov.in/en/cabinet-approves-construction-of-6-lane-high-speed-highway-in-maharashtra/
+Fetch Time: 2025-03-20 02:39:43
+
+Title: India’s role in ending Russia-Ukraine War welcomed by Munich Security Conference VC
+Publication Date: Wed, 19 Mar 2025 12:50:51 +0000
+Content: The Vice Chairman of the Munich Security Conference, Rainer Rudolph, has welcomed India’s contribution toward ending the Russia-Ukraine war, emphasizing the need to uphold international principles. Speaking on Wednesday, Rudolph described the conflict as a “war of aggression” by one United Nations member against another.
+“Any contribution to peacefully end this war is welcome. This is not a conflict; this is a war of aggression by one member of the United Nations against another. It’s these principles that have to be kept in mind when we talk about ending the war peacefully,” Rudolph told ANI on the sidelines of the Raisina Dialogue in Delhi.
+Reaffirming the importance of safeguarding Ukraine’s territorial integrity, he added, “It’s important to remember that Ukraine’s territorial integrity must be maintained, and it’s the Ukrainians themselves who have to decide their country’s destiny.”
+Commenting on the recent speech by United States Vice-President J.D. Vance at the American Dynamism Summit on Tuesday, Rudolph noted that while he may not entirely agree with Vance’s message to Europeans, it served as a “wake-up call” for the continent to strengthen its foreign policy.
+“Obviously, he chose a public event to give his message to the Germans and to the Europeans beyond that, even if at first sight it was a domestic situation in Europe as he saw it, with which maybe I would not always agree with how he presented it. But still, it had a foreign policy effect because it served as a wake-up call to Europeans that we have to invest more in our security and develop a stronger European foreign policy,” he said.
+Expressing confidence in the evolving US-Europe relationship, Rudolph remarked, “I think the relationship between Europe and the US will develop. JD Vance also said that, and the administration has since confirmed it. They are still committed to NATO and the alliance. The relationship is changing, and as far as we Europeans are concerned, we will have to contribute our share to common security.”
+During the summit, Vance also criticized the tendency to “use cheap labor as a crutch,” arguing that it hampers global innovation.
+“Our workers, the populists on the one hand, the tech optimists on the other, have been failed by this government,” Vance said, as reported by Fox News.
+He further said, “Not just the government of the last administration, but the government in some ways of the last 40 years, because there were two conceits that our leadership class had when it came to globalization.”
+Addressing how other nations are gaining ground on the United States, Fox News reported Vance as saying, “Now, we assume that other nations will always trail us in the value chain, but it turns out that as they got better at the low end of the value chain, they also started catching up on the higher end. We were squeezed from both ends. Now, that was the first conceit of globalization.”
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/indias-role-in-ending-russia-ukraine-war-welcomed-by-munich-security-conference-vc/
+Fetch Time: 2025-03-20 02:39:43
+
