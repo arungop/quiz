@@ -2082,3 +2082,189 @@ The conflict in eastern Ukraine began in 2014 after a Russia-friendly president 
 Link: https://ddnews.gov.in/en/russia-and-us-to-discuss-black-sea-shipping-and-ukraine-peace-in-saudi-arabia/
 Fetch Time: 2025-03-21 02:41:28
 
+Title: Centre intensifies efforts to overhaul semiconductor design ecosystem
+Publication Date: Fri, 21 Mar 2025 07:22:27 +0000
+Content: The government is intensifying efforts to revamp the semiconductor design ecosystem, targeting over 300 organizations nationwide, including 250 academic institutions and 65 startups. Led by the Ministry of Electronics and Information Technology (MeitY), this initiative aims to usher in a new era of innovation, empowering skilled individuals from across the country to design semiconductor chips, according to an official statement from MeitY on Thursday.
+The approach aligns with Prime Minister Narendra Modi’s vision that “Design in India” is as crucial as “Make in India.” Through the Chip to Startup (C2S) Programme, the government plans to produce 85,000 industry-ready professionals with specialized knowledge in semiconductor chip design at the B.Tech, M.Tech, and PhD levels.
+The C2S Programme provides students with practical experience in chip design, fabrication, and testing. This hands-on training, developed in collaboration with industry partners, offers access to essential resources like EDA tools, semiconductor foundries, and mentorship opportunities. Participants will also implement R&D projects to develop prototypes of ASICs, SoCs, and IP Core designs.
+To support these efforts, the ChipIN Centre, one of the largest facilities in the country, has been established at C-DAC. This centre brings advanced chip design infrastructure directly to the doorstep of the semiconductor design community.
+As part of India’s semiconductor mission, the indigenous development of the ‘BLDC Controller Chip’ has been awarded to Vervesemi Microelectronics Pvt Ltd. This chip, which will have 90% of its Bill of Materials (BOM) made in India, offers a self-reliant semiconductor solution with a complete power and control system at under $1.50 and scalability to 10 million units per year.
+Founded in 2017, Vervesemi is a fabless semiconductor company specializing in high-performance ASICs for sensors and wireless applications, leveraging state-of-the-art data converters and innovative Analog IP.
+(With IANS inputs)
+Link: https://ddnews.gov.in/en/centre-intensifies-efforts-to-overhaul-semiconductor-design-ecosystem/
+Fetch Time: 2025-03-21 07:34:56
+
+Title: Centre reviewing nuclear laws to boost energy capacity: Jitendra Singh
+Publication Date: Fri, 21 Mar 2025 06:59:22 +0000
+Content: The central government has constituted dedicated task forces to examine amendments required in the Atomic Energy Act and the Civil Liability for Nuclear Damage (CLND) Act as part of efforts to accelerate India’s nuclear energy capacity, Dr. Jitendra Singh, Union Minister for Science and Technology, informed Parliament on Thursday.
+In a written reply to the Rajya Sabha, Singh said that the task force under the Department of Atomic Energy (DAE) includes representatives from the Atomic Energy Regulatory Board (AERB), Nuclear Power Corporation of India Limited (NPCIL), NITI Aayog, Ministry of Law and Justice (MoLJ), and Ministry of External Affairs (MEA). This group is reviewing key aspects such as the build-own-operate model of nuclear power plants (NPPs) by the private sector, nuclear safety, security, safeguards, fuel procurement, waste management, and spent fuel reprocessing.
+A separate task force is also evaluating necessary changes to the CLND Act to address concerns raised by private suppliers, Singh said.
+As part of the Union Budget 2025, the government announced an ambitious Nuclear Energy Mission targeting the deployment of 100 GWe of nuclear energy capacity by 2047. This initiative is critical for achieving India’s Net Zero emissions target by 2070. The mission is aimed at providing a reliable, clean alternative to fossil fuels by replacing retiring thermal power plants, supporting energy-intensive industries with captive nuclear plants, and delivering power to remote and off-grid areas to aid in the decarbonization of the energy sector.
+To support these objectives, DAE is actively engaged in the design and development of various Small Modular Reactors (SMRs), including the 200 MWe Bharat Small Modular Reactor (BSMR), a 55 MWe SMR, and a gas-cooled high-temperature reactor specifically designed for hydrogen production.
+The Union Budget 2025 has allocated ₹20,000 crore for the deployment of five SMRs by 2033. This allocation will also fund continued research and development efforts for these reactors.
+Additionally, as part of the current financial year’s policy directive, a move has been made to involve the private sector in nuclear energy projects. NPCIL has issued a Request for Proposal (RFP) inviting private industries to finance and construct small-sized 220 MW Pressurised Heavy Water Reactor (PHWR)-based NPPs as captive plants dedicated to electricity production.
+Singh announced on Wednesday that North India’s first nuclear power project will be established in Gorakhpur, Haryana. He described the upcoming facility as a major milestone in India’s nuclear energy expansion and a crucial step in advancing the country’s clean energy ambitions.
+Link: https://ddnews.gov.in/en/centre-reviewing-nuclear-laws-to-boost-energy-capacity-jitendra-singh/
+Fetch Time: 2025-03-21 07:34:56
+
+Title: South Korea opposition brings motion to impeach acting president
+Publication Date: Fri, 21 Mar 2025 06:45:14 +0000
+Content: South Korean opposition parties raised a motion to impeach acting President Choi Sang-mok on Friday, the majority Democratic Party said, in a move likely to escalate recent political strife in the country.
+Although the motion starts a process that would lead to a vote by parliament to pass it by a simple majority, the timetable was not immediately clear.
+Choi, who is the finance minister, has been leading the country after President Yoon Suk Yeol was impeached over a short-lived martial law he declared in December.
+Choi has angered opposition parties, which have a commanding majority in parliament, by repeatedly vetoing bills and holding off appointing a Constitutional Court justice approved by the assembly who is viewed as liberal-leaning.
+The court is reviewing Yoon’s impeachment and is expected to deliver its ruling on whether to permanently remove him from office or reinstate him.
+The Democratic Party was aware of the fatigue among the public and in parliament over the more than two dozen motions it has brought to impeach officials from the Yoon administration, Myongji University Professor Shin Yul said.
+But appointing one more liberal judge to the court could have major political repercussions since it increases the prospect of ousting Yoon and forcing a new election, Shin said.
+“There is just one thing the Democratic Party is aiming for and that’s an early election, and as early as possible at that,” he said.
+Democratic Party leader Lee Jae-myung leads polling about who should be the next president.
+He faces multiple criminal trials himself that could disqualify him from running for election. The charges include election law violations and misuse of public funds.
+If Choi’s presidency is vacated, a new election must be held within 60 days.
+As the wait for the court’s ruling has dragged on, tensions between opposing parties in parliament and on the streets have intensified amid calls for and against Yoon’s ouster.
+The majority of the public backs Yoon’s removal, according to public opinion polls, although support has ebbed since the initial days after the martial law declaration last December.
+A Gallup Korea poll released on Friday showed 58% of respondents supported Yoon’s removal.
+His martial law decree plunged Asia’s fourth-largest economy, which had been considered a thriving democracy, into an unprecedented constitutional crisis.
+Opposition parties also impeached Prime Minister Han Duck-soo after he became acting president. The Constitutional Court is due to rule on his impeachment on Monday; if it is struck down, that would mean Han would return and replace Choi as acting leader.
+The Democratic Party has said Choi has been violating his constitutional duty by refusing to appoint the Constitutional Court judge despite a ruling by the top court that such inaction was infringing on parliament’s authority.
+(Reuters)
+Link: https://ddnews.gov.in/en/south-korea-opposition-brings-motion-to-impeach-acting-president/
+Fetch Time: 2025-03-21 07:34:56
+
+Title: Netanyahu government approves firing of Shin Bet head amid protests
+Publication Date: Fri, 21 Mar 2025 06:27:33 +0000
+Content: The Israeli cabinet voted early on Friday to dismiss the head of the Shin Bet domestic intelligence service effective April 10, Prime Minister Benjamin Netanyahu’s office said, after three days of protests against the move.
+Netanyahu said this week he had lost confidence in Ronen Bar, who has led Shin Bet since 2021, and intended to dismiss him.
+Bar did not attend the cabinet meeting but in a letter sent to ministers said the process around his firing did not comply with rules and his dismissal was predicated on baseless claims.
+Late on Thursday, police fired water cannon and made numerous arrests as scuffles broke out during the protests in Tel Aviv and close to the prime minister’s residence in Jerusalem, where police said dozens of protesters tried to break through security cordons.
+Over the past three days, demonstrators protesting the move to sack Bar have joined forces with protesters angry at the decision to resume fighting in Gaza, breaking a two-month-old ceasefire, while 59 Israeli hostages remain in the Palestinian enclave.
+“We’re very, very worried that our country is becoming a dictatorship,” Rinat Hadashi, 59, said in Jerusalem. “They’re abandoning our hostages, they’re neglecting all the important things for this country.”
+The decision followed months of tension between Bar and Netanyahu over a corruption investigation into allegations that a number of aides in Netanyahu’s office were offered bribes by figures connected with Qatar.
+Netanyahu has dismissed the accusation as a politically motivated attempt to unseat him, but his critics have accused him of undermining the institutions underpinning Israel’s democracy by seeking Bar’s removal.
+In his letter to the government, Bar said the decision to fire him was “entirely tainted by … conflicts of interest” and driven by “completely different, extraneous and fundamentally unacceptable motives”.
+He had already announced that he intended to step down early to take responsibility for the intelligence lapses that failed to prevent the attack on Israel by Palestinian militant group Hamas on October 7, 2023.
+DEEP DIVISIONS
+The angry scenes on Thursday highlighted divisions that have deepened since Netanyahu returned to power as head of a right-wing coalition at the end of 2022.
+Even before the war in Gaza, tens of thousands of Israelis were joining regular demonstrations protesting a government drive to curb the power of the judiciary that critics saw as an assault on Israeli democracy but which the government said was needed to limit judicial overreach.
+On Thursday Yair Golan, a former deputy chief of staff in the military who now leads the opposition Democrats party, was pushed to the ground during a scuffle, drawing condemnation and calls for an investigation by other opposition politicians.
+Former Defence Minister Benny Gantz said the clashes were a direct result of divisions caused by “an extremist government that has lost its grip”.
+In Tel Aviv, demonstrators rallied outside the Kirya military headquarters complex as ministers met to formally approve the dismissal of Bar.
+Since the start of the war, there have also been regular protests by families and supporters of hostages seized by Hamas during the October 7 attack that have sometimes echoed the criticisms of the government.
+With the resumption of Israel’s campaign in Gaza, the fate of 59 hostages, as many as 24 of whom are still believed to be alive, remains unclear and protesters said a return to war could see them either killed by their captors or accidentally by Israeli bombardments.
+“This is not an outcome the Israeli people can accept,” The Hostages and Missing Families Forum, a group representing hostage families, said in a statement.
+(Reuters)
+Link: https://ddnews.gov.in/en/netanyahu-government-approves-firing-of-shin-bet-head-amid-protests/
+Fetch Time: 2025-03-21 07:34:56
+
+Title: Huge fire closes UK’s Heathrow Airport, global flight schedules disrupted
+Publication Date: Fri, 21 Mar 2025 05:26:18 +0000
+Content: Britain’s Heathrow Airport said it would be closed all of Friday after a huge fire at a nearby electrical substation wiped out power, disrupting flight schedules around the world.
+The London Fire Brigade said around 70 firefighters were tackling the blaze in the west of London, which caused a mass power outage at Heathrow, Europe’s busiest and the world’s fifth-busiest airport.
+Huge orange flames and smoke could be seen shooting into the sky. Around 150 people were evacuated from nearby buildings and thousands of properties were without power.
+The fire brigade said the cause of the fire was not known.
+“To maintain the safety of our passengers and colleagues, Heathrow will be closed until 23h59 on 21 March,” Heathrow Airport said in a post on X, adding that passengers were advised not to travel to the airport.
+According to flight tracking website FlightRadar24, at least 120 inbound flights to Heathrow were having to divert to other airports.
+It said at least 1,351 flights to and from Heathrow would be affected on Friday, not including flights that might be cancelled or delayed due to aircraft being out of position.
+British Airways itself had 341 flights scheduled to land at Heathrow on Friday.
+“Heathrow is one of the major hubs of the world,” said Ian Petchenik, spokesman for FlightRadar24. “This is going to disrupt airlines’ operations around the world.”
+The impact was immediate. Qantas Airways sent its flight from Perth to Paris, a United Airlines New York flight headed to Shannon, Ireland and a United Airlines flight from San Francisco was due to land in Washington, D.C. rather than London.
+Some flights from the U.S. were turning around mid-air and returning to their point of departure.
+Travel experts said the disruption would extend far beyond Heathrow.
+Airlines’ carefully choreographed networks depend on airplanes and crews being in specific locations at specific times. Dozens of air carriers will have to hurriedly reconfigure their networks to move planes and crews around.
+“The other question is, ‘What will airlines do to deal with the backlog of passengers?'”, said travel industry analyst Henry Harteveldt with Atmosphere Research Group. “It’s going to be a chaotic couple of days.”
+A Heathrow spokesperson informed in an email that there was no clarity on when power would be restored, and they expected significant disruption over the coming days.
+On the ground in London, a number of homes and businesses were without power. “Firefighters have led 29 people to safety from neighbouring properties, and as a precaution, a 200-metre cordon has been established, with around 150 people evacuated,” the fire brigade said.
+(Reuters)
+Link: https://ddnews.gov.in/en/huge-fire-closes-uks-heathrow-airport-global-flight-schedules-disrupted/
+Fetch Time: 2025-03-21 07:34:56
+
+Title: India’s Sacred Forests: Where Faith Fuels Conservation
+Publication Date: Fri, 21 Mar 2025 05:21:43 +0000
+Content: The world unites on Friday to celebrate the International Day of Forests, a day dedicated to recognizing the vital role forests play in sustaining life on Earth. Forests are among the planet’s richest ecosystems, intricately linked to human civilization for millennia. Globally, over five billion people depend on forests and non-timber forest products for essentials like food, medicine, and livelihoods. Moreover, forested watersheds supply freshwater to more than 85% of the world’s major cities, underscoring their ecological significance. In India, however, forests transcend their role as mere ecosystems or habitats –they are woven into the cultural, spiritual, and historical fabric of the nation.
+Sacred Forests of India and its Cultural Tapestry 
+Imagine a forest where cutting a tree is forbidden not by law, but by faith! In India, forests are more than natural landscapes; they are living repositories of the country’s heritage. With over one million sacred forests dotting the landscape, these groves are steeped in the traditions, stories, and identities of countless communities. The International Union for Conservation of Nature (IUCN) aptly describes them as “secret wizards of conservation,” highlighting their dual role as ecological sanctuaries and cultural strongholds. These sacred forests are not managed through formal laws or written decrees but are preserved through the unwritten customs, beliefs, and taboos of the communities that revere them. In Meghalaya, the Mawphlang Sacred Grove, guarded by the Khasi tribe, forbids even the removal of a leaf, preserving both biodiversity and ancestral spirits.
+The cultural significance of forests in India dates back to ancient times, as evidenced in the Vedas and Samhitas. The Aranyakas, or “forest works” (derived from the Sanskrit word Aranya, meaning forest), emphasize the deep connection between spirituality and nature. Epic tales like the Ramayana, which traces Lord Rama’s journey through the forest trails of Chitrakoot, and the Mahabharata, with its references to the Kamyakavana, further illustrate how forests have long been central to India’s narrative traditions. Beyond these texts, indigenous knowledge about forests has been passed down through generations via songs, folk-lores, and oral histories, keeping the bond between people and nature alive.
+India’s tribal communities, such as the Gonds, Bhils, Santhals, Munda, Khasi, and Garasia, share an especially profound relationship with forests. For these groups, forests are not just sources of sustenance, providing food, shelter, and medicine but also sacred spaces integral to their cultural practices and spiritual beliefs. The Gond tribe, for instance, venerates the tribal deity Pashupati, while the story of Lord Jagannatha visiting the Sora tribe reflects the intertwining of mythology and forest life. These tales are more than folklore; they are part of India’s forest heritage, extending beyond the utilitarian gifts of timber and produce to embody a deeper, existential connection. The Santhals of Jharkhand perform annual rituals in their sacred Jaherthan groves, ensuring no hunting or logging occurs, a practice that has kept local wildlife thriving.
+In sacred forests, conservation is not a modern imposition but an organic extension of community life. The essence of preservation is rooted in ethnic identity, where the forest is seen as a living entity deserving respect and protection. Customary laws, though rarely documented, are strictly enforced through cultural norms. It is taboo to pluck flowers, uproot plants, harm animals, or disturb religious objects within these groves. This unspoken code has ensured that sacred forests remain untouched, allowing communities to evolve alongside them for centuries.
+Forests in Modern India: A Biodiversity Haven 
+Today, forests cover more than 25% of India’s land area, totaling approximately 827,357 square kilometers as per the 2023 India State of Forest Report. Maharashtra leads with 14,524.88 square kilometers of tree cover, while 40% of the country’s hilly districts and 67% of the northeastern states are forested. These forests are biodiversity hotspots, with four of the world’s 36 recognized hotspots located in India. The Western Ghats alone Harbour over 5,000 flowering plant species, around 130 mammals, more than 500 birds, and close to 180 amphibians, with at least 325 globally threatened species. The Himalayas support unique species like the snow leopard and red panda, alongside 15,000–25,000 vascular plants, 50% of which are endemic. The Indo-Burma region, spanning North-Eastern India, boasts over 5,000 flowering plants and iconic fauna like the Bengal tiger and Indian rhinoceros. Sundaland’s Nicobar Islands are home to 3,500 plant species, including 648 endemic ones, and rare reptiles like the saltwater crocodile.
+A Legacy Worth Protecting 
+India’s forests are a global treasure, teeming with life and lessons in sustainable coexistence. The 2023 Forest Survey of India report notes a growing stock of 6,430 million cubic metres and a carbon stock of 7,285.5 million tons, emphasizing their role in climate regulation. As the world sees its industrial developments and climate change looms, these biodiverse havens face threats from deforestation and habitat loss. The traditional stewardship of tribal communities that is rooted in reverence rather than regulation offers a powerful counterpoint to modern conservation challenges.
+As the world celebrates the International Day of Forests in 2025, India’s sacred forests stand as a testament to the synergy of culture and ecology. They are not relics but thriving ecosystems where biodiversity flourishes alongside human heritage. Protecting them preserves not just species like the 33% of India’s endemic plants or the 17% of the world’s tiger population they shelter but a timeless ethos of living in harmony with nature.
+Link: https://ddnews.gov.in/en/indias-sacred-forests-where-faith-fuels-conservation/
+Fetch Time: 2025-03-21 07:34:56
+
+Title: BCCI introduces major rule changes for IPL 2025: Saliva ban lifted, captains get over-rate relief
+Publication Date: Fri, 21 Mar 2025 05:21:24 +0000
+Content: The Board of Control for Cricket in India (BCCI) on Thursday announced major rule revisions for IPL 2025, scheduled to commence on March 22. Among the key changes are the lifting of the saliva ban, the continuation of the Impact Player rule, and a modification to over-rate penalties, ensuring captains will no longer face suspensions.
+Saliva ban lifted after four years
+One of the most notable changes is the lifting of the saliva ban, which was originally implemented in May 2020 as a temporary COVID-19 precaution and later made permanent by the International Cricket Council (ICC) in September 2022. The decision to revoke the ban comes after repeated appeals from bowlers, who argued that the restriction made reverse swing more difficult, particularly in white-ball cricket where two new balls are used.
+Under the previous rule, players were only permitted to use sweat to shine the ball. The removal of the saliva ban is expected to have a significant impact on bowlers, especially in the latter stages of matches.
+Captains exempt from suspension for slow over-rates
+In a major relief for team captains, slow over-rate penalties will no longer result in bans. This change follows incidents like the one in IPL 2024, where Mumbai Indians captain Hardik Pandya was handed a one-match suspension after his team failed to maintain the required over-rate against Lucknow Super Giants (LSG).
+While teams will still face financial penalties and other repercussions for slow over-rates, captains will not be individually banned, ensuring that leadership continuity remains intact throughout the tournament.
+Impact player rule to stay
+The much-debated Impact Player rule, introduced in IPL 2023, will remain in place for IPL 2025. The rule allows teams to make a strategic substitution during a match, providing an additional tactical element that has been widely discussed since its implementation.
+These changes are expected to influence team strategies and gameplay dynamics in IPL 2025. The removal of the saliva ban could aid bowlers, while the captaincy rule change ensures that teams are not disrupted due to slow over-rate penalties. The continuation of the Impact Player rule keeps the door open for innovative team tactics.
+Link: https://ddnews.gov.in/en/bcci-introduces-major-rule-changes-for-ipl-2025-saliva-ban-lifted-captains-get-over-rate-relief/
+Fetch Time: 2025-03-21 07:34:56
+
+Title: French scientist denied entry into the U.S., French government says
+Publication Date: Fri, 21 Mar 2025 05:13:10 +0000
+Content: A French scientist has been denied entry into the United States, apparently because the scientist had expressed a personal opinion on the Trump administration’s research policy, the French Education Ministry said on Thursday.
+“I learned with concern that a French researcher on assignment for the French National Center for Scientific Research (CNRS) who was traveling to a conference near Houston was denied entry to the United States before being expelled,” Minister for Higher Education and Research Philippe Baptiste said in a statement to AFP.
+The measure was apparently taken because the scientist had expressed a personal opinion on the Trump administration’s research policy, he added, but did not elaborate.
+An Education Ministry spokesperson confirmed the reports by AFP and Le Monde over a scientist being denied entry, without giving details.
+A spokesperson for U.S. Customs and Border Protection said privacy restrictions barred the agency from discussing specific cases, adding that all people arriving in the country are subject to inspection on a case-by-case basis.
+“If an individual has material discovered on their electronic media that raises flags during an inspection, it can result in further analysis. Claims that such decisions are politically motivated are completely unfounded,” the spokesperson, Hilton Beckham, said in a statement.
+President Donald Trump’s administration has taken various steps to cut or freeze federal funding for universities, medical centres and other research institutions since he took office in January.
+On border matters, Trump has announced a number of immigration-related executive orders that focus on stricter border policy, tighter visa vetting procedures and a crackdown on undocumented migrants in the United States.
+Germany this week updated its travel advisory for the U.S. to emphasise that a visa or entry waiver does not guarantee entry for its citizens after several Germans were detained at the border recently, a foreign ministry spokesperson said.
+In recent weeks Britain has also revised its advice for citizens travelling to the U.S., to include a warning that anyone found breaking its entry rules could face arrest or detention.
+(Reuters)
+Link: https://ddnews.gov.in/en/french-scientist-denied-entry-into-the-u-s-french-government-says/
+Fetch Time: 2025-03-21 07:34:56
+
+Title: Asian stocks slide as growth, tariff worries weigh
+Publication Date: Fri, 21 Mar 2025 05:11:23 +0000
+Content: Asian stocks fell on Friday in a downbeat end to the week as deepening geopolitical worries and fears over U.S. tariffs and their impact on the global economy curbed investors appetite for risk, keeping safe-haven gold near record highs.
+Futures for the S&P 500 and Nasdaq were steady in Asian hours, while European futures pointed to a weak open.
+Policymakers across the globe struck a cautious note in a week filled with central bank meetings as uncertainty in global economics and politics grew. The U.S. Federal Reserve, the Bank Of Japan and the Bank of England all held rates steady.
+Central bankers highlighted the unsettled outlook due largely to rising trade tensions triggered by the U.S under President Donald Trump. Trump intends to impose new reciprocal tariff rates on April 2, ushering in fresh wave of uncertainty.
+Reports of Israeli airstrikes on Gaza and a huge blast from a Ukrainian drone attack on a Russian military airfield were a reminder of rising geopolitical tensions pushing investors towards safe haven assets.
+“With the bar for near-term rate cuts still high, markets have shifted focus back to growth concerns and tariff risks which will continue to fuel volatility,” said Charu Chanana, Saxo’s chief investment strategist.
+MSCI’s broadest index of Asia-Pacific shares outside Japan fell 0.85%, with stocks in China, Hong Kong, Taiwan and Indonesia dropping sharply.
+Hong Kong’s Hang Seng index slid over 2%, poised for its second straight week in the red as investors turned cautious following a surge in tech stocks and the index hitting a three-year high on Tuesday. The Hang Seng is still up 18% for the year, the best performing major stock market in the world.
+Japan’s Nikkei, however, was up 0.3% and the broader Topix index touched an eight-month high led by banking stocks as stronger-than-expected inflation data fuelled expectations for further interest rate hikes by the Bank of Japan.
+Investors will now focus on the details of the Trump administration’s April 2 tariffs as markets become increasingly nervous about the impact of tit-for-tat tariffs on inflation and economic growth.
+Ray Sharma-Ong, head of multi-asset investment solutions for Southeast Asia at Aberdeen Investments, said the main uncertainty revolves around the size of reciprocal tariffs, which may lead to markets repricing further downside risks to growth.
+The growing uncertainty and the Fed reiterating that it was in no rush to cut rates lent support to the dollar. The dollar index measure against a basket of six counterparts was steady at 103.84, after climbing 0.36% on Thursday.
+The index fell to a five-month low this week as earlier hopes for growth-friendly policies under Trump have given way to anxiety that the global trade war he started could trigger a U.S. recession.
+The yen was slightly weaker on the day at 149.20 per dollar but stayed close to the near five-month high of 146.545 touched last week. The yen is up 5% this year on expectations that the BOJ will hike rates again in 2025.
+Data showed Japan’s core inflation hit 3.0% in February and an index stripping away the effect of fuel rose at the fastest pace in nearly a year, a sign of broadening price pressure that reinforces market expectations of further hikes.
+“Although Governor Ueda made much of the risks surrounding U.S. trade policy on Wednesday, we think he’s just hedging his bets – considering it a risk factor,” said Min Joo Kang, senior economist at ING.
+“Therefore, if trade tensions don’t escalate more than the market currently expects, they won’t affect the BOJ’s rate hike plans.”
+In commodities, oil prices rose on Friday, poised for their strongest weekly performance since January.
+Brent crude futures climbed 0.5%, while U.S. West Texas Intermediate crude futures were up 0.6%. Both were set for 2% gains for the week.
+Gold eased 0.4% to $3,031.5 in Asian hours, just below the record high of the previous session but on course for the third straight week of gains, supported by safe-haven demand.
+(Reuters)
+Link: https://ddnews.gov.in/en/asian-stocks-slide-as-growth-tariff-worries-weigh/
+Fetch Time: 2025-03-21 07:34:56
+
+Title: Panama stun US with stoppage-time winner, Mexico beat Canada to reach Nations League final
+Publication Date: Fri, 21 Mar 2025 05:00:23 +0000
+Content: The United States’ bid for a fourth consecutive CONCACAF Nations League title came to a stunning end as they fell 1-0 to Panama after a stoppage-time goal from Cecilio Waterman on Thursday in Inglewood, California.
+Panama spent the bulk of the match defending but pounced on a giveaway by the Americans before substitute forward Waterman sent a shot from the right side of the area to the bottom left corner late in stoppage time.
+Up next for Panama in Sunday’s final will be Mexico, who beat Canada 2-0 in California.
+Raul Jimenez fired home from the centre of the box inside the first minute before sealing the win in the 75th minute from a free kick after Stephen Eustaquio fouled Santiago Gimenez.
+For the U.S., their latest loss to Panama is a massive blow as their only chance to collect silverware before co-hosting the 2026 World Cup with Mexico and Canada now rests with the June 14-July 6 CONCACAF Gold Cup.
+The U.S. came into the game hoping to avenge a loss to Panama at last year’s Copa America where the hosts failed to reach the knockout stage, a humiliating result that led to the firing of head coach Gregg Berhalter.
+After a somewhat tentative start on Thursday the U.S. enjoyed a brief stretch where they threatened Panama, nearly scoring twice while another chance was squandered by an offside call just past the midway mark of a scoreless first half.
+Josh Sargent nearly opened the scoring in the 19th minute when he got free in front of the Panama goal from where his shot hit a defender and then the post before being cleared.
+Moments later Weston McKennie delivered a strong header from the back post after a brilliant cross from Timothy Weah but Panama goalkeeper Orlando Mosquera was in perfect position to make the save.
+Sargent then found the back of the Panama net but Weah was clearly offside in the buildup and the linesman’s flag went up immediately after the ball crossed the goal line.
+The U.S. had several chances in the latter portion of the game as the toll of defending all night seemed to sap the Panama players’ strength and left them unable to generate much in the way of an attack until the late turnover.
+The U.S. remain the only team to win the CONCACAF Nations League – which launched in 2019 and is modeled after its UEFA counterpart – having triumphed in 2021, 2023 and 2024.
+(Reuters)
+Link: https://ddnews.gov.in/en/panama-stun-us-with-stoppage-time-winner-mexico-beat-canada-to-reach-nations-league-final/
+Fetch Time: 2025-03-21 07:34:56
+
