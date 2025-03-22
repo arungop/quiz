@@ -2424,3 +2424,183 @@ He also announced that India will host the next AI Action Summit, which will ser
 Link: https://ddnews.gov.in/en/india-calls-for-ethical-and-responsible-use-of-ai-at-the-un/
 Fetch Time: 2025-03-21 13:40:02
 
+Title: Telecom fraud: DoT disconnects over 3.4 cr mobiles, blocks 17 lakh WhatsApp accounts
+Publication Date: Fri, 21 Mar 2025 17:08:09 +0000
+Content: In an effort to combat telecom fraud, the government on Friday said it has disconnected more than 3.4 crore mobile phones while blocking 3.19 lakh IMEI numbers to date through the Sanchar Saathi portal.
+The Department of Telecommunications (DoT) said that with the help of AI and Big Data, it also disengaged 16.97 lakh WhatsApp accounts.
+Over 20,000 bulk SMS senders were also blacklisted as part of DoT’s ‘Sanchar Saathi’ initiative, said Dr. Pemmasani Chandra Sekhar, Minister of State for Communications and Rural Development, in a written reply in the Rajya Sabha.
+Through the Sanchar Saathi portal, the government facilitates citizens to report suspected fraud communications on the Chakshu facility.
+DoT then carries out several analyses and takes action against telecom resources found to be linked to misuse, said the minister.
+Rather than acting on individually reported suspected fraud communications, DoT uses crowdsourced data to carry out analyses and zero in on the misuse of telecom resources.
+The Department uses AI-based tools and big data analysis to identify suspected mobile connections obtained using fake documents.
+Furthermore, DoT and telecom service providers (TSPs) have devised a system for near real-time identification and blocking of incoming international spoofed calls that display Indian mobile numbers and appear to originate from India, said the minister.
+Meanwhile, telecom service providers have blacklisted 1,150 entities/individuals and disconnected more than 18.8 lakh resources.
+The actions led to a significant reduction in the complaints against unregistered telemarketers (UTMs) — from 1,89,419 in August 2024 to 1,34,821 in January 2025.
+The Telecom Regulatory Authority of India (TRAI) amended the Telecom Commercial Communications Customer Preference Regulations (TCCCPR), 2018 on February 12.
+A customer can now file a complaint about spam or unsolicited commercial communication (UCC) within seven days of receiving it, compared to the previous three-day time limit.
+The time limit for taking action by the access providers against the UCC from unregistered senders has been reduced from 30 days to 5 days, according to the amendments.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/telecom-fraud-dot-disconnects-over-3-4-cr-mobiles-blocks-17-lakh-whatsapp-accounts/
+Fetch Time: 2025-03-22 02:37:35
+
+Title: Cash at judge’s residence: CJI to examine ‘in-house’ enquiry report
+Publication Date: Fri, 21 Mar 2025 17:02:33 +0000
+Content: Chief Justice of India (CJI) Sanjiv Khanna will receive the report on Friday, prepared by the Delhi High Court’s Chief Justice D.K. Upadhyaya, after a large amount of unaccounted cash was reportedly discovered at the residence of a high court judge in the national capital.
+“The Chief Justice of the Delhi High Court, who had commenced his inquiry before the Collegium meeting on March 20, 2025, will be submitting his report to the Chief Justice of India today, i.e., on March 21, 2025. The report will be examined and processed for further and necessary action,” said a statement released by the Supreme Court.
+According to media reports, a large sum of cash was discovered last week when a fire brigade arrived at the residence of Delhi HC’s Justice Yashwant Varma to extinguish a fire.
+The Supreme Court’s press statement clarified that the proposal to transfer Justice Varma—who is the second-senior-most judge in the Delhi High Court—to his parent High Court, the High Court of Judicature at Allahabad (where he will rank ninth in seniority), is “independent and separate from the in-house inquiry procedure.”
+“The proposal was examined by the Collegium comprising the Chief Justice of India (CJI) and four senior-most Judges of the Supreme Court on March 20, 2025, and thereafter letters were written to the consultee Judges of the Supreme Court, the Chief Justices of the High Courts concerned, and Justice Yashwant Varma. Responses received will be examined, and thereupon, the Collegium will pass a resolution,” the statement added.
+“Misinformation and rumors are being spread regarding the incident at the residence of Justice Yashwant Varma,” the press statement said.
+Under the “in-house procedure,” the Chief Justice of India (CJI) is authorized to receive complaints regarding the conduct of Supreme Court judges and High Court Chief Justices. Similarly, the Chief Justices of the High Courts are authorized to receive complaints against the conduct of High Court judges.
+The Supreme Court, in its full-court meeting in May 1997, adopted two resolutions. The first resolution, “The Restatement of Values of Judicial Life,” lays down certain judicial standards and principles to be observed and followed by the judges of the Supreme Court and High Courts. The second, “in-house procedure,” provides for taking suitable remedial action against judges who do not follow universally accepted values of judicial life, including those included in the Restatement.
+According to the Supreme Court judgment in Indira Jaising v. Supreme Court of India, the report of a committee constituted under the “in-house procedure” is not to be made public.
+The existing Memorandum of Procedure (MoP) provides that the proposal for the transfer of High Court judges is initiated by the CJI in consultation with four senior-most puisne judges of the Supreme Court, commonly known as the Collegium. The MoP further provides that the CJI is also expected to take into account the views of the Chief Justice of the High Court from which the judge is to be transferred, as well as the Chief Justice of the High Court to which the transfer is to be effected, besides taking into account the views of one or more Supreme Court judges who are in a position to offer insights.
+Born in January 1969, Justice Varma earned a law degree from Rewa University and primarily practiced civil law, handling a wide range of matters related to constitutional issues, industrial disputes, corporate law, taxation, environmental law, and allied fields. He served as Chief Standing Counsel for the State of UP from 2012 till August 2013, when he was designated as ‘senior advocate’ by the Allahabad High Court. Justice Varma was elevated as an Additional Judge in October 2014 and was transferred to the Delhi High Court in October 2021.
+At the Delhi High Court, Justice Varma is currently the second-senior-most judge dealing with writ petitions challenging the constitutional validity of any law, statutory rule, regulation, or notification pertaining to municipal tax. As per the latest roster, the Justice Varma-led division bench, which also comprised Justice Harish Vaidyanathan Shankar, dealt with sales tax cases, GST cases, Letters Patent Appeals, regular First Appeals (Original Side), Company Appeals, matters to be heard by the Commercial Appellate Division, etc.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/cash-at-judges-residence-cji-to-examine-in-house-enquiry-report/
+Fetch Time: 2025-03-22 02:37:35
+
+Title: MEA on Pakistan High Commission’s Iftar invitation: “Nimantran toh rishton pe nirbhar karta hai”
+Publication Date: Fri, 21 Mar 2025 16:15:46 +0000
+Content: The Ministry of External Affairs (MEA) on Friday emphasized that invitations between nations are contingent upon the state of bilateral relations, responding to queries on whether any Indian government officials were invited to the Iftar dinner hosted by the Pakistan High Commission to mark Pakistan’s National Day.
+Addressing the media during the weekly briefing, MEA spokesperson Randhir Jaiswal remarked, “Nimantran toh rishton pe nirbhar karta hai” (invitations depend on the relationship between the countries). Accepting an invitation also depends on the relationship.”
+The comments came after the Pakistan High Commission in New Delhi hosted an Iftar gathering on Thursday as part of its annual observance of Pakistan’s National Day. The event was attended by dignitaries, diplomats, and prominent personalities, including former Union Minister Mani Shankar Aiyar, who was present as a guest. The gathering aimed to foster diplomatic engagement and cultural exchange.
+However, alongside discussions on diplomatic courtesies, India reiterated its strong stance against Pakistan’s role in promoting cross-border terrorism, which remains a significant obstacle to regional peace and stability.
+“The world clearly knows that the real issue is Pakistan’s active promotion and sponsorship of cross-border terrorism. In fact, this is the biggest roadblock to peace and security in the region,” Jaiswal stated.
+Jaiswal’s remarks underscored the long-standing tensions between India and Pakistan, particularly regarding Islamabad’s support for terrorist organizations operating in the region. India has consistently called on Pakistan to take decisive action against these groups.
+Referring to Pakistan’s recent comments on Jammu and Kashmir, Jaiswal directed the media to a previous statement issued by the MEA. “I urge you to refer to the statement we released two days ago for more information,” he added.
+The MEA’s response follows Pakistan’s remarks on Jammu and Kashmir, which came after Prime Minister Narendra Modi discussed India-Pakistan relations in a podcast interview with American podcaster Lex Fridman.
+In the interview, PM Modi reflected on his efforts to improve ties with Pakistan, including inviting then-Pakistani Prime Minister Nawaz Sharif to his swearing-in ceremony in 2014 and making a surprise visit to Lahore in 2015 in an attempt to foster goodwill.
+“I even personally traveled to Lahore in the pursuit of peace. When I became Prime Minister, I specially invited Pakistan to my swearing-in ceremony so we could turn over a new leaf. Yet, every noble attempt at fostering peace was met with hostility and betrayal,” PM Modi stated in the podcast.
+His comments came just days after Pakistan’s foreign office issued a statement criticizing India in the wake of the attack on the Jaffar Express train by Baloch rebels, in which passengers were taken hostage. In response to PM Modi’s remarks on the podcast, Pakistan’s foreign office issued a statement rebuffing his comments.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/mea-on-pakistan-high-commissions-iftar-invitation-nimantran-toh-rishton-pe-nirbhar-karta-hai/
+Fetch Time: 2025-03-22 02:37:35
+
+Title: Nature’s groceries and safety net: How forests help feed the world better
+Publication Date: Fri, 21 Mar 2025 15:55:51 +0000
+Content: Our forests play a vital role in feeding the world. From wild foods to fresh water, from shelter to energy, forests sustain billions of people and biodiversity.
+Yet we continue to lose them at an alarming rate through deforestation and land degradation. Between 2015 and 2020, more than 10 million hectares of forest were lost each year—an area roughly the size of the Republic of Korea. Meanwhile, intensifying wildfires and pest outbreaks are further threatening these valuable ecosystems.
+Studies have shown that a major underlying driver of deforestation is the need to meet the demands of a growing global population. As we mark International Day of Forests with the theme ‘Forests and Foods’, we must urgently address the question of how we can ensure food security for all, while protecting the forests that are so fundamental to our agrifood systems.
+The answer lies in embracing solutions that combine both agriculture and forests.
+We can make landscapes more productive through sustainable intensification, integrated production systems and circular economies. By building on both innovation and traditional knowledge, we can limit the expansion of arable land, while producing the foods we need.
+FAO’s Action Against Desertification programme has been working in Africa’s Sahel region to ensure that the traditional knowledge and interests of rural communities are at the heart of efforts to restore degraded lands. This has encouraged the selection and planting of many wild food species rich in micronutrients. As a result, not only have regreening and growth rates of plants improved, but food insecurity has also declined.
+In Colombia, where Indigenous Peoples and local communities manage 53 percent of land and forests, a new community forest management model is being deployed to help halt deforestation and improve coordination between agriculture and forestry. By establishing nurseries, agroforestry systems and restoration actions, and promoting financial incentives and the use of timber and non-timber forest products, the new model has revitalized community forest enterprises and increased market access, improving the quality of life for many people in rural areas.
+In Vanuatu, an innovative project is improving harvests in traditional water gardens by incorporating new technologies, practices and plant varieties for sustainable water and forest management in an area where the deterioration of forests had reduced water capacity. This has helped curb water waste and increase overall water availability, contributing to recharging water sources for taro, an important staple crop for local diets and food security for the country.
+In Tunisia, a project jointly implemented by FAO together with partners has focused on reseeding degraded land with a native legume that livestock can graze on, while regenerating local shrubs and trees such as saltbush, carob, medic tree and cactus pear, which support livelihoods, while providing shade for crops and additional fodder. As a result, the cost of feeding livestock on the restored site has halved.
+These examples show how forests, bushes and grasslands integration with new crops can enhance food production.
+Forests provide habitat for pollinators and are home to most of the world’s terrestrial biodiversity, necessary both to increasing food production and improving sustainability.
+Forests nourish soils, regulate temperature and offer sustenance and shade for livestock. They can act as natural barriers against wind for crops and deliver fresh water to more than 85 percent of the world’s major cities.
+Forests are nature’s groceries, providing a direct source of vegetables, fruits, seeds, roots, tubers, mushrooms, honey, natural herbs and protein-rich wild meat for rural communities and functional foods in the urban areas. This is even more so during times of crisis, when forests serve as an emergency food security net.
+Agroforestry—incorporating trees into farming—can improve ecosystem, increase crop resilience, restore degraded land and enhance food production and food diversity, as well as increasing farmer incomes.
+Silvopastoral systems, which combine tree cultivation and restoration with livestock grazing and fodder cropping, are also important.
+At the same time, more efforts must be made to restore more than two billion hectares of land estimated to be degraded worldwide. The good news is that some 1.5 billion hectares of degraded land are suitable for mosaic restoration, that is combining forests and trees with agriculture.
+A further 1 billion hectares of croplands on previous forestlands would benefit from strategic additions of trees and bushes to enrich both agricultural productivity and ecosystem services.
+The path forward requires policy changes that reflect the interdependence of agriculture and forests. While many countries have begun integrating agroforestry into their national land use plans, we need a broader commitment to policies that view forests as essential to food security and food diversity.
+This extends to private sector commitments to zero deforestation in agricultural value chains and ensuring that those commitments translate to measurable actions.
+Finally, educating consumers on healthier diets and healthy life from sustainable agrifood systems and reducing food loss and waste are also key.
+Forests are key to the transformation of global agrifood systems to be more efficient, more inclusive, more resilient and more sustainable.
+When forests themselves as a big part of agrifood systems are deemed indispensable to human well-being, then incentives to care for them will grow.
+We need to stress forests as a big bridge to integrate implementation under the guidance of the Four Betters: Better Production, Better Nutrition, a Better Environment and a Better Life – leaving no one behind.
+Conserving and sustainably managing and using forests is not just an environmental imperative—it’s a crucial strategy for food security and food diversity. Without this, meeting the UN’s Sustainable Development Goals(SDGs) – ending hunger and poverty and restoring ecosystems – becomes more elusive.
+
+By Dr QU Dongyu (Director-General of the Food and Agriculture Organization of the United Nations)
+Link: https://ddnews.gov.in/en/natures-groceries-and-safety-net-how-forests-help-feed-the-world-better/
+Fetch Time: 2025-03-22 02:37:35
+
+Title: SEBI proposes ESOP benefits for startup founders even after IPO
+Publication Date: Fri, 21 Mar 2025 15:04:32 +0000
+Content: The Securities and Exchange Board of India (SEBI) has proposed a rule change that would allow startup founders to retain Employee Stock Option Plans (ESOPs) even after their company goes public.
+This move aims to support founders of new-age technology companies, who often receive ESOPs in place of cash salaries during their company’s early years.
+ESOPs align founders’ interests with those of other shareholders. However, as startups raise investments, founders’ ownership stakes are diluted.
+Under current SEBI rules, founders are classified as promoters at the time of filing for an initial public offering (IPO).
+Existing regulations prohibit issuing ESOPs to promoters, creating a challenge for founders who received stock options as employees before the IPO.
+The market regulator noted that an employee who becomes a promoter due to their shareholding may be required to forfeit ESOP benefits, which could be deemed unfair.
+It noted that the rules are unclear on whether such founders can exercise their vested and unvested ESOPs after being classified as promoters.
+To address this, SEBI has proposed clarifying that stock benefits granted to founders will continue even if they are later classified as promoters in the Draft Red Herring Prospectus (DRHP). However, the rule preventing new ESOP issuances to promoters will still apply.
+This proposal is expected to benefit startup founders who receive equity-based compensation and ensure they do not lose their ESOP benefits after their company goes public.
+Meanwhile, SEBI recently partnered with DigiLocker to help investors track their securities holdings and reduce unclaimed financial assets.
+This initiative aims to enhance investor protection and make access to financial holdings easier and more secure.
+With this integration, investors will be able to store and retrieve details of their demat accounts and mutual fund holdings through DigiLocker.
+The platform already provides access to bank account statements, insurance policies, and National Pension System (NPS) details.
+Now, it will also serve as a centralised place for managing securities information.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/sebi-proposes-esop-benefits-for-startup-founders-even-after-ipo/
+Fetch Time: 2025-03-22 02:37:35
+
+Title: At least 10 military personnel, journalists killed in attack on presidential palace in Sudan’s capital
+Publication Date: Fri, 21 Mar 2025 14:59:17 +0000
+Content: At least 10 military personnel and journalists were killed in a drone attack targeting a military and media gathering inside the Republican Palace in the Sudanese capital, Khartoum, according to a military source.
+“A suicide drone attacked the outer courtyard of the palace, killing approximately 10 military personnel and journalists,” the military source told Xinhua news agency on the condition of anonymity.
+An eyewitness said the drone launched about two projectiles into the outer courtyard of the palace when “soldiers of the Sudanese Armed Forces (SAF) were celebrating the takeover of the palace, and a Sudan TV team was covering the event.”
+Another eyewitness told Xinhua that among the casualties were two military media officers, several soldiers from the SAF’s moral guidance division, and three members of the official Sudan TV, with the death toll expected to rise.
+The incident came after the SAF reportedly regained control of the Republican Palace, or the presidential palace, on Friday, which had been held by the paramilitary Rapid Support Forces (RSF) since mid-April 2023.
+Later on Friday, the RSF vowed in a statement that the battle for the palace is “not over yet,” stressing that its forces remain in the vicinity and continue to fight.
+The RSF also claimed it had carried out a military operation inside the palace, killing 89 army personnel and destroying various military vehicles.
+Sudan has been embroiled in a devastating conflict between the SAF and the RSF since mid-April 2023, which has claimed almost 30,000 lives, according to the Armed Conflict Location and Event Data, a crisis monitoring group cited by the United Nations.
+The conflict has also displaced more than 15 million people, both inside and outside Sudan, according to estimates by the International Organisation for Migration.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/at-least-10-military-personnel-journalists-killed-in-attack-on-presidential-palace-in-sudans-capital/
+Fetch Time: 2025-03-22 02:37:35
+
+Title: “Conversations and dialogues have been going on”: MEA on ties with China
+Publication Date: Fri, 21 Mar 2025 14:39:18 +0000
+Content: India and China continue to make progress in their diplomatic relations, with ongoing constructive engagements at various levels, the Ministry of External Affairs (MEA) said on Friday.
+Addressing a weekly media briefing, MEA spokesperson Randhir Jaiswal highlighted key developments in the relationship between the two nations. He pointed out that the meeting between Prime Minister Narendra Modi and Chinese President Xi Jinping in Kazan was a significant step forward, followed by productive discussions between Indian Foreign Secretary and Chinese Vice Foreign Minister. Since then, he said, India and China have remained engaged at multiple levels, including discussions involving External Affairs Minister (EAM) S. Jaishankar and National Security Advisor (NSA) Ajit Doval.
+Jaiswal emphasized that conversations between both sides have been moving in the right direction. He noted that several agreements had been reached in principle, and further progress is expected in the coming days.
+The high-level engagement between PM Modi and Xi took place on the sidelines of the 16th BRICS Summit in Kazan, Russia, on October 23, 2024. One of the key takeaways from these discussions was the decision to resume the Kailash Mansarovar Yatra in 2025. The pilgrimage, which holds immense religious significance for Hindus, had been suspended in recent years. While the finer details are still being worked out, Jaiswal confirmed that both countries had agreed to facilitate the yatra’s revival.
+The MEA spokesperson also underscored broader efforts to improve India-China relations, mentioning a series of initiatives agreed upon by both nations. These include the resumption of trade through the Nathula border, cooperation on trans-border rivers, enhanced border management to maintain peace and stability, and renewed efforts to promote cultural, educational, and tourism exchanges. The broader objective, he said, is to foster a stable, predictable, and amicable relationship between the two countries.
+Meanwhile, India is also advancing its trade negotiations with Peru, with the long-pending Free Trade Agreement (FTA) between the two countries now in its final stages. The eighth round of negotiations is expected to take place soon. According to Jaiswal, discussions on the agreement have been ongoing since 2017, and both sides remain committed to finalizing the deal.
+During his visit to India for the Raisina Dialogue 2025, Peru’s Foreign Minister Elmer Schialer spoke about the need to enhance logistical connectivity between the two nations to strengthen economic ties. He proposed the construction of a naval and aerial hub with two large ports to facilitate trade and investment. Schialer stressed that Peru views India as one of its most important trading partners and that a successful FTA would send a strong signal to businesses in both countries to collaborate more closely.
+With bilateral trade between India and Peru growing from USD 66 million in 2003 to USD 3.68 billion in 2023, the proposed agreement is expected to further enhance economic cooperation. While some sensitive sectors, such as textiles, have been set aside for later discussions, both nations are determined to move forward in other key areas.
+Schialer also spoke about the importance of cooperation within the Global South, emphasizing the need for tangible measures to strengthen ties in trade, investment, and cultural exchanges. He expressed hope that the India-Peru FTA could be finalized by the end of the year, paving the way for deeper economic engagement.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/conversations-and-dialogues-have-been-going-on-mea-on-ties-with-china/
+Fetch Time: 2025-03-22 02:37:35
+
+Title: Naxalism will be eliminated from the country by March 21, 2026: Amit Shah in Rajya Sabha
+Publication Date: Fri, 21 Mar 2025 14:12:21 +0000
+Content: Home Minister Amit Shah on Friday outlined the steps taken by the BJP-led government to strengthen internal security and said Naxalism will be eliminated from the country by March 21, 2026.
+Replying to the debate on the functioning of his ministry in Rajya Sabha, Amit Shah spoke about the steps taken by the government to tackle terrorism in J-K, the Naxal challenge, drug abuse, and issues in the Northeast.
+He said the country would be free of the “Naxal problem” during the term of the BJP-led government.
+“I say it in this House with responsibility that Naxalism in this country will be eliminated by March 21, 2026,” he said.
+Amit Shah spoke about the steps taken by the government to provide accurate intelligence to security forces dealing with Naxalites and expressed pity for those who believe Naxalism is merely a political issue.
+“When Narendra Modi Government was elected to power in 2014, we received several legacy issues from prior to 2014. The security and development of this country were always challenged due to three main issues. These three issues caused obstruction to the peace of the country, raised questions on the security of the country, and slowed the pace of development for almost four decades; they also made the country’s entire system appear laughable at times,” he said.
+“These three issues were terrorism in J-K, Leftist insurgency, which aimed to extend from Tirupati to Pashupatinath, and the Northeast insurgency. When combined, these three issues have led to the deaths of around 92,000 citizens over four decades. A well-planned effort was never made to eliminate these challenges. PM Narendra Modi took those efforts after coming to power,” he added.
+Amit Shah said 21 members shared their views on the functioning of his ministry.
+“Efforts were made to address various aspects of the MHA’s work. First of all, I express my gratitude to thousands of state police and central paramilitary force jawans who made the supreme sacrifice to strengthen the country’s internal security as well as its borders,” he said.
+Amit Shah said several crimes, such as narcotics trafficking and cybercrime, have inter-state and even international dimensions.
+“In a way, the Home Ministry operates under very difficult conditions. The Constitution has given the responsibility of law and order to states, while border security and internal security come under the MHA. This is a correct decision, and there is no need for any changes. However, after 76 years, we now face a situation where many crimes are not confined to state borders—they are inter-state and even multi-state, such as narcotics, cybercrime, organized crime gangs, and hawala transactions,” he said.
+“All these crimes do not take place just within a state. Several crimes are committed in the country, even orchestrated from outside its borders. So, keeping all this in view, it becomes essential to make changes in the MHA. I say this with pride that in 10 years, PM Narendra Modi made long-overdue changes to the MHA at once to ensure national security,” he added.
+Amit Shah also spoke about the changes in the situation in Jammu and Kashmir after the abrogation of Article 370.
+“After the removal of Article 370, the involvement of Indian youth with terrorists has almost disappeared. Ten years ago, terrorist glorification was common, and funeral processions would take place. But now, when terrorists are killed, they are buried on the spot. Relatives of terrorists who once enjoyed government perks have been dismissed from government posts to send a strong message,” he said.
+“I want to thank our Constitution makers for making Article 370 temporary and providing a solution for its removal within the same article. However, vote bank politics kept it safeguarded. But on August 5, 2019, PM Modi took the historic step of removing it, marking the beginning of a new era of Kashmir’s integration with the rest of India,” he said.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/naxalism-will-be-eliminated-from-the-country-by-march-21-2026-amit-shah-in-rajya-sabha/
+Fetch Time: 2025-03-22 02:37:35
+
+Title: India to host third Central Asian youth delegation under International Youth Exchange Programme
+Publication Date: Fri, 21 Mar 2025 11:22:09 +0000
+Content: The Ministry of Youth Affairs & Sports will host the third Central Asian Youth Delegation to India from March 22 to 28, as part of the International Youth Exchange Programme (IYEP). This initiative aims to foster youth collaboration, promote cultural exchange, and strengthen diplomatic ties between India and the five Central Asian nations: Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.
+The youth exchange program is in line with the vision articulated during the India-Central Asia Summit in January 2022, when Prime Minister Narendra Modi proposed an annual youth exchange initiative to enhance mutual understanding and cooperation among young leaders from the region. The delegation, consisting of 100 members, will engage in a variety of activities that include exploring India’s rich historical, educational, and cultural landmarks. The participants will also have opportunities to interact with local youth leaders and key stakeholders, further building bridges between the nations.
+During their visit, the delegation will be immersed in India’s cultural and heritage legacy with visits to iconic sites like the Taj Mahal, Agra Fort, Humayun’s Tomb, and various heritage landmarks in Goa. These experiences will provide them with a deeper understanding of India’s architectural grandeur and historical significance.
+The delegation will also engage in academic and economic exchanges, interacting with students and faculty at IIT Delhi, one of India’s premier institutions, and visiting the Goa Chamber of Commerce & Industry (GCCI) and the Goa Institute of Management. These interactions are aimed at showcasing India’s advancements in technology, research, and entrepreneurship, providing delegates with valuable insights into India’s growing role in the global economy.
+An essential part of the program will involve youth networking and volunteerism. The delegation will meet with MY Bharat volunteers to discuss youth empowerment, leadership, and innovation, providing them with an opportunity to share ideas and best practices to inspire youth engagement back home.
+High-level diplomatic interactions are also part of the visit, with the delegation scheduled to meet the External Affairs Minister, S. Jaishankar, Chief Minister of Goa, Pramod Sawant and the Governor of Goa, P.S. Sreedharan Pillai. These meetings will emphasize the importance of youth diplomacy and underscore the need for strengthened international cooperation.
+Link: https://ddnews.gov.in/en/india-to-host-third-central-asian-youth-delegation-under-international-youth-exchange-programme/
+Fetch Time: 2025-03-22 02:37:35
+
+Title: Yuvraj Singh to captain India champions in WCL Season 2; Dhawan set for debut
+Publication Date: Fri, 21 Mar 2025 11:20:00 +0000
+Content: Cricket legend Yuvraj Singh has confirmed his return as captain of the India Champions for the second season of the World Championship of Legends (WCL), set to be held in July in the United Kingdom.
+Having led the team to victory in the tournament’s inaugural edition, Yuvraj will again spearhead the squad, now joined by former Indian opener Shikhar Dhawan, who will make his WCL debut following his international retirement last year.
+Reflecting on his role as captain for the second season, Yuvraj said, “I’m eager to represent our nation again at the World Championship of Legends. The memories of our first title win, alongside my teammates, are cherished and unforgettable.”
+The first edition of the WCL saw standout performances from Indian cricketing icons like Yuvraj, Suresh Raina, Robin Uthappa, and the Pathan brothers, demonstrating that their love for the game remains undiminished. The tournament gained global attention as fans relished watching their heroes shine on the big stage once more.
+Harshit Tomar, the visionary behind WCL, shared his passion for the tournament, stating, “This platform gives senior cricketers a chance to continue inspiring fans. Watching these legends recreate the magic that made them icons is truly fulfilling. Our heroes are our pride, and hosting them with utmost respect and care has always been our goal.”
+The India Champions, owned by Sumant Bahl, Salman Ahmed, and Jaspal Bahra, are set to return to Edgbaston, preparing for intense competition against top international stars from Australia, West Indies, England, Pakistan, and South Africa.
+Bahl, co-owner of Team India Champions, reflected on their previous success: “Owning Team India Champions and lifting the inaugural trophy after defeating arch-rivals Pakistan still feels like a dream. We’re excited for Season 2 and confident that with an even stronger team, we can recreate history.”
+(With IANS inputs)
+Link: https://ddnews.gov.in/en/yuvraj-singh-to-captain-india-champions-in-wcl-season-2-dhawan-set-for-debut/
+Fetch Time: 2025-03-22 02:37:35
+
