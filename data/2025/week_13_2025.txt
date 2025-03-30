@@ -3092,3 +3092,143 @@ Dr. William Schaffner, an infectious disease expert at the Vanderbilt University
 Link: https://ddnews.gov.in/en/measles-outbreak-worsens-as-texas-new-mexico-cases-rise-20-in-3-days/
 Fetch Time: 2025-03-30 02:49:01
 
+Title: Research examines better screening methods for statin use
+Publication Date: Sun, 30 Mar 2025 07:29:10 +0000
+Content: A new study in the United States is exploring the most effective method to screen and assess patients at risk of developing coronary heart disease and to determine who would benefit from statin medication to lower cholesterol.
+Researchers at Intermountain Health in Salt Lake City have introduced a new approach that relies on the coronary artery calcium (CAC) score to assess risk and guide statin prescriptions. The CAC score is determined through a low-radiation computed tomography (CT) scan, which detects calcium deposits in plaques within the coronary arteries of the heart.
+Dr. Jeffrey L. Anderson, the study’s principal investigator and a distinguished clinical and cardiovascular research physician at Intermountain Health, explained that the research aims to improve the selection process for patients who need statins. Instead of relying solely on coronary risk factor equations, the study examines whether direct imaging of plaque burden is a more effective indicator of risk.
+The study, which has now enrolled over 5,600 patients, was presented at the American College of Cardiology’s Annual Scientific Sessions meeting in Chicago on Saturday. As part of the research, patients’ risk assessment scores were shared with their physicians through letters, indicating whether a statin was recommended based on high-risk findings.
+Initial findings revealed that while the two groups in the study had similar baseline characteristics, the rate of statin prescription recommendations varied significantly. The study is expected to conclude in early 2026, after which researchers will compare outcomes such as deaths, heart attacks, strokes, and revascularizations over a follow-up period of up to seven years, with an average follow-up of over four years.
+Understanding the most effective approach to statin prescription is crucial, given that these medications come with costs and potential side effects, including muscle aches and an increased risk of diabetes. The study’s findings could help refine treatment strategies for patients at risk of coronary heart disease.
+(IANS)
+Link: https://ddnews.gov.in/en/research-examines-better-screening-methods-for-statin-use/
+Fetch Time: 2025-03-30 07:33:37
+
+Title: Big storms can’t uproot those connected to roots, says PM Modi, lauds Indian diaspora
+Publication Date: Sun, 30 Mar 2025 07:14:12 +0000
+Content: Prime Minister Narendra Modi on Sunday underscored the importance of staying connected to one’s roots, stating that no matter how strong a storm may be, those deeply rooted in their heritage cannot be uprooted. Reflecting on his recent visit to Mauritius, he praised the Indian diaspora for preserving their cultural identity across generations.
+Speaking during the 120th episode of Mann Ki Baat, he shared messages he received through MyGov and the NaMo App, highlighting the unique expressions of Indian culture. Among them, he mentioned a message that particularly stood out.
+“Atharva Kapoor from Varanasi, Aaryash Leekha, and Atrey Maan from Mumbai expressed their thoughts on my visit to Mauritius. They said they greatly enjoyed the performance of Geet Gawai during the event. I received similar sentiments from people in eastern Uttar Pradesh and Bihar. Watching Geet Gawai in Mauritius was a truly incredible experience,” he said.
+Recalling the historical journey of Indian indentured labourers, he reflected on their resilience and commitment to cultural preservation. “Nearly 200 years ago, many Indians went to Mauritius as indentured labourers, uncertain of what lay ahead. Over time, they built their lives there, forged a unique identity, and remained deeply connected to their roots,” he noted.
+He shared another anecdote from his visit to Guyana, where he witnessed a Chowtaal performance, emphasizing how Indian traditions continue to thrive beyond the subcontinent. To illustrate this cultural continuity, he played an audio clip of Phagwa Chowtaal from Fiji, expressing his admiration for how these traditions still evoke enthusiasm and joy.
+“You might think this music is from some part of India, but you would be surprised to know it’s from Fiji. This Phagwa Chowtaal is immensely popular there and fills people with incredible energy,” he remarked. He also played a Chowtaal recording from Suriname, pointing out its significance and the enthusiasm with which it is celebrated.
+During the broadcast, he highlighted how Indian cultural traditions are not just preserved but also cherished across the world. He mentioned seeing the President of Suriname, Chan Santokhi, enjoying the performance, adding that similar traditions thrive in Trinidad and Tobago, where Indian festivals are celebrated with great fervor. Many of the songs performed in these countries continue to be in Bhojpuri, Awadhi, Braj, and Maithili, keeping linguistic heritage alive.
+The Prime Minister also acknowledged the efforts of various organizations that are committed to conserving Indian heritage globally. He praised the Singapore Indian Fine Arts Society, which recently marked its 75th anniversary. Applauding their dedication to preserving Indian dance, music, and culture, he noted that even Singapore’s President, Tharman Shanmugaratnam, was a guest of honor at the event and commended the organization’s contributions.
+Extending his best wishes, Modi emphasized how these global efforts reaffirm the deep cultural ties that Indians maintain across generations, no matter where they are in the world.
+(IANS)
+Link: https://ddnews.gov.in/en/big-storms-cant-uproot-those-connected-to-roots-says-pm-modi-lauds-indian-diaspora/
+Fetch Time: 2025-03-30 07:33:37
+
+Title: ChatGPT can be used in sensory evaluation of foods, specifically brownies: study
+Publication Date: Sun, 30 Mar 2025 07:08:36 +0000
+Content: A recent study suggests that ChatGPT can be utilized in the sensory evaluation of foods, particularly brownies, offering insights that may streamline new product development and even enhance recipes.
+Researchers from the University of Illinois Urbana-Champaign in the US examined 15 different brownie recipes, ranging from traditional ingredient combinations to unconventional ones, such as mealworm powder and fish oil. Study author Damir Torrico, an assistant professor in the Department of Food Science and Human Nutrition, provided ChatGPT with these recipe formulas and asked it to describe the sensory characteristics of each brownie, including taste, texture, and overall appeal. He then categorized ChatGPT’s responses to determine whether they were positive, negative, or neutral.
+Torrico noted that relying on human testers can sometimes slow down the evaluation process, especially when multiple product prototypes need assessment simultaneously. Sensory panels require time, coordination, and, in some cases, certain ingredients may not be food-grade, making them unsuitable for human consumption. This is why large language models like ChatGPT are being explored for sensory evaluation, as they have the potential to replicate certain human responses.
+Interestingly, ChatGPT’s responses were overwhelmingly positive, even for brownies containing unusual ingredients. This aligns with a psychological concept known as “hedonic asymmetry,” which suggests that both humans and AI tend to describe beneficial experiences in more positive terms. Torrico explained that food plays a fundamental role in nourishment and energy, leading humans to respond positively to it. In attempting to mimic human behavior, ChatGPT appeared to exhibit the same tendency, always focusing on the positive aspects of the recipes.
+The study suggests that AI can provide general insights into which products are worth further testing and which might not be suitable for a lengthy evaluation process. Torrico believes that ChatGPT could be further developed for sensory evaluation to assist the food industry. Moving forward, he plans to refine the experiment by training ChatGPT to use a vocabulary similar to that of a human descriptive panel.
+— IANS
+Link: https://ddnews.gov.in/en/chatgpt-can-be-used-in-sensory-evaluation-of-foods-specifically-brownies-study/
+Fetch Time: 2025-03-30 07:33:37
+
+Title: PM Modi visits Deekshabhoomi in Nagpur, pays tribute to Dr. Ambedkar
+Publication Date: Sun, 30 Mar 2025 07:00:15 +0000
+Content: Prime Minister Narendra Modi visited Deekshabhoomi in Nagpur on Sunday, paying tribute to the site where Dr. Bhimrao Ambedkar embraced Buddhism along with thousands of his followers in 1956. During his visit, he offered prayers at the Buddha statue, and the monks of Deekshabhoomi welcomed him with a flower bouquet and a shawl. Maharashtra Chief Minister Devendra Fadnavis and other leaders were also present alongside the Prime Minister.
+Before visiting Deekshabhoomi, Prime Minister Modi paid floral tributes to RSS founder Keshav Baliram Hedgewar at Smruti Mandir in Reshimbagh. He also signed the visitor’s book, expressing his reverence for Hedgewar Ji and Guruji. In his message, he described Smruti Mandir as a place deeply rooted in Indian culture and nationalism, a source of inspiration for millions dedicated to the service of the nation.
+He said that the legacy of the two great leaders of the RSS continues to energize volunteers working toward the country’s progress. RSS chief Mohan Bhagwat, Union Minister Nitin Gadkari, and Maharashtra Chief Minister Devendra Fadnavis accompanied him during the visit. Bhagwat also paid tribute to Hedgewar at the memorial.
+Later in the day, the Prime Minister is set to inaugurate the Loitering Munition Testing Range and Runway facility for UAVs at Solar Defence and Aerospace Limited in Nagpur. He will also lay the foundation stone for the Madhav Netralaya Premium Centre, an extension of the Madhav Netralaya Eye Institute & Research Centre, which has been providing super-specialty ophthalmic care in Nagpur since 2014.
+(ANI)
+Link: https://ddnews.gov.in/en/pm-modi-visits-deekshabhoomi-in-nagpur-pays-tribute-to-dr-ambedkar/
+Fetch Time: 2025-03-30 07:33:37
+
+Title: Market Outlook: US tariff, PMI, FIIs and global economic data key triggers for next week
+Publication Date: Sun, 30 Mar 2025 06:36:12 +0000
+Content: The market outlook for the coming week will be shaped by a combination of domestic and global economic factors, including key indicators such as PMI data, foreign institutional investments (FIIs), auto sales figures, and major US economic data releases. Among the most closely watched developments will be the HSBC Composite PMI data for India, set to be released on Friday, while auto companies will begin reporting their sales figures from Monday.
+On the global front, market sentiment will be influenced by policy developments related to India-US tariffs and the potential impact of former US President Donald Trump’s announcement of a 25% tariff on finished vehicle imports, which is set to take effect from April 3. Additionally, investors will closely track the speech by US Federal Reserve Chair Jerome Powell, as well as a series of crucial US economic data releases, including job openings, non-farm payrolls, and the unemployment rate.
+Last week, the Indian stock market ended on a positive note, with both the Nifty and Sensex posting gains of approximately 0.70%, closing at 23,519.35 and 77,414.92, respectively. Banking stocks played a key role in driving the rally, with Bank Nifty rising nearly 2% to settle at 51,564.81. Among sectoral indices, Nifty PSE and FMCG emerged as the top performers, whereas media and pharma stocks lagged behind.
+Foreign institutional investors continued their buying spree, infusing Rs 17,426 crore into equities between March 24 and 28, while domestic institutional investors contributed Rs 6,797 crore during the same period. This consistent inflow of foreign capital helped the Nifty post a 6.3% gain in March, reversing losses from the previous month and closing on a strong note.
+The Indian stock market will remain closed on March 31 in observance of Eid.
+According to Puneet Singhania, Director at Master Trust Group, Nifty has strong support at 23,300, and if breached, it could decline towards 23,000. On the upside, resistance is seen at 23,800, and a breakout above this level could push the index towards 24,100, potentially extending the ongoing rally.
+(IANS)
+Link: https://ddnews.gov.in/en/market-outlook-us-tariff-pmi-fiis-and-global-economic-data-key-triggers-for-next-week/
+Fetch Time: 2025-03-30 07:33:37
+
+Title: PM Modi extends greetings on Navratri, Ugadi, and Hindu New Year
+Publication Date: Sun, 30 Mar 2025 04:58:17 +0000
+Content: Prime Minister Narendra Modi on Sunday extended his best wishes to the nation on the auspicious occasion of Navratri and Hindu Nav Varsha (Nav Samvatsar).
+“Best wishes to all countrymen on Navratri. May this sacred festival of Shakti-sadhana fill everyone’s life with courage, discipline, and strength. Jai Mata Di,” PM Modi posted on X.
+Calling Navratri the festival of Shakti and Sadhana, the Prime Minister also shared a hymn by renowned classical singer Pandit Jasraj, dedicated to Goddess Durga.
+“The beginning of Navratri awakens a new fervor of devotion among the worshippers of the mother goddess. This hymn by Pandit Jasraj, dedicated to her worship, is truly mesmerizing,” he said.
+Extending his greetings on Nav Samvatsar, he added, “Many best wishes to all countrymen on the occasion of Hindu New Year. May this auspicious occasion bring new enthusiasm and energy, strengthening our resolve for a developed India.”
+Ugadi Wishes
+PM Modi also extended his wishes for Ugadi, which marks the Telugu and Kannada New Year and is celebrated in Andhra Pradesh, Telangana, and Karnataka.
+“This is a special festival associated with hope and vibrancy. I pray that this new year brings joy, prosperity, and success to everyone’s lives. May the spirit of happiness and harmony continue to grow and flourish,” the Prime Minister posted on X.
+Navratri Significance and Celebrations
+Navratri, meaning ‘nine nights’ in Sanskrit, is dedicated to the worship of Goddess Durga and her nine avatars, collectively known as Navdurga.
+Hindus observe four Navratris throughout the year, but Chaitra Navratri and Sharadiya Navratri are the most widely celebrated, as they coincide with seasonal transitions. The nine-day festival, also known as Ram Navratri, concludes with Ram Navami, marking the birth of Lord Ram.
+During Navratri, devotees honor the nine incarnations of Goddess Shakti with rituals and prayers across India.
+Special Navratri Broadcast by Akashvani’s Aradhana Channel
+To celebrate Navratri, Akashvani’s Aradhana YouTube Channel will present a series of special programs from March 30 to April 6.
+According to a statement from the Ministry of Information & Broadcasting, the channel will feature curated content from 8:00 AM to 8:00 PM daily. Additionally, Shakti Aradhana, a special devotional segment, will be broadcast from 8:30 AM to 8:40 AM every day.
+A major highlight will be Navratri Bhajans performed by renowned artists, including Anup Jalota, Narinder Chanchal, Jagjit Singh, Hari Om Sharan, Mahendra Kapoor, and Anuradha Paudwal. These performances will air from 6:00 PM to 7:00 PM daily.
+The channel will also present “Devi Maa Ke Anek Swaroop,” a unique series narrating inspiring stories on Navratri, airing from 9:00 AM to 9:30 AM. Additionally, special features on various Shakti Peeths across India will provide deeper insights into these revered sites dedicated to Goddess Durga.
+The Navratri celebrations will conclude with a grand live broadcast of Ram Janmotsav from Shri Ram Janmabhoomi Mandir, Ayodhya, on April 6 from 11:45 AM to 12:15 PM. This special event will bring the divine celebrations to audiences across the country.
+(ANI)
+Link: https://ddnews.gov.in/en/pm-modi-extends-greetings-on-navratri-ugadi-and-hindu-new-year/
+Fetch Time: 2025-03-30 07:33:37
+
+Title: PM Modi pays tribute to RSS founder Hedgewar in Nagpur
+Publication Date: Sun, 30 Mar 2025 04:30:47 +0000
+Content: Prime Minister Narendra Modi on Sunday visited Dr. Hedgewar Smruti Mandir in Nagpur, Maharashtra, where he paid floral tributes at the memorials of Rashtriya Swayamsevak Sangh (RSS) founder Keshav Baliram Hedgewar and second Sarsanghchalak M.S. Golwalkar. RSS chief Mohan Bhagwat accompanied PM Modi during the visit, marking the first time a sitting Prime Minister has visited the RSS headquarters in Nagpur.
+Earlier, Maharashtra Chief Minister Devendra Fadnavis and Union Minister Nitin Gadkari received PM Modi at Nagpur airport. Following his visit to the Smruti Mandir, the Prime Minister will head to Deekshabhoomi, after which he will lay the foundation stone for Madhav Netralaya Premium Centre, an advanced eye care facility in Nagpur. PM Modi will also visit Solar Defence and Aerospace Limited’s ammunition facility, where he is scheduled to inaugurate a loitering munition testing range and an airstrip for Unmanned Aerial Vehicles (UAVs) at 12:30 p.m.
+The Madhav Netralaya Premium Centre, an extension of the Madhav Netralaya Eye Institute and Research Centre, will feature 250 beds, 14 outpatient departments, and 14 modular operation theatres, offering world-class eye care services.
+Later in the day, PM Modi will travel to Bilaspur, Chhattisgarh, where he will lay the foundation stone and dedicate development projects worth over ₹33,700 crore across power, oil and gas, rail, road, education, and housing sectors. The key projects include NTPC’s Sipat Super Thermal Power Project Stage-III worth ₹9,790 crore, the Chhattisgarh State Power Generation Company’s first Super Critical Thermal Power Project worth ₹15,800 crore, and three POWERGRID transmission projects worth ₹560 crore. To enhance energy infrastructure, he will also launch BPCL’s City Gas Distribution project and HPCL’s Visakh-Raipur Pipeline Project valued at ₹2,210 crore.
+PM Modi will inaugurate multiple railway and road projects, including seven railway projects covering 108 km and three completed projects spanning 111 km. He will also flag off a MEMU train on the Abhanpur-Raipur section. In the education sector, he will dedicate 130 PM SHRI Schools and a Vidya Samiksha Kendra in Raipur. Additionally, he will hand over keys to beneficiaries of the Pradhan Mantri Awas Yojana – Gramin, reaffirming the government’s commitment to infrastructure development, energy expansion, and social welfare.
+(IANS)
+Link: https://ddnews.gov.in/en/pm-modi-pays-tribute-to-rss-founder-hedgewar-in-nagpur/
+Fetch Time: 2025-03-30 07:33:37
+
+Title: GRAP-I restrictions revoked in Delhi-NCR as air quality improves
+Publication Date: Sun, 30 Mar 2025 02:45:32 +0000
+Content: The Commission for Air Quality Management (CAQM) has revoked the Graded Response Action Plan – Stage I (GRAP-I) in the Delhi National Capital Region (NCR) with immediate effect after air quality improved in the city.
+The decision came after Delhi’s Air Quality Index (AQI) on Saturday clocked 153 as per the daily bulletin provided by the Central Pollution Control Board (CPCB).
+The CAQM said that the AQI of the national capital showed significant improvement due to strong surface winds and improved meteorological conditions prevailing in Delhi-NCR.
+“AQI of Delhi has shown significant improvement due to strong surface winds and improved meteorological conditions prevailing in Delhi-NCR. The AQI of Delhi has been recorded as 153 for 29.03.2025 (in ‘Moderate’ category). Further, the forecast by IMD/IITM also predicts AQI to mainly remain in the ‘Moderate’ category in the coming days,” CAQM said in a statement.
+“Therefore, keeping in view this trend of improvement in the overall AQI of Delhi, the CAQM Sub-Committee unanimously decided to revoke Stage-I of the extant schedule of GRAP in the entire NCR, with immediate effect,” it added.
+“All the agencies concerned are also required to take note of various actions and the targeted timelines as envisaged in the comprehensive policy issued by the Commission to curb air pollution in the NCR and take appropriate actions accordingly in the field, particularly the dust mitigation measures for C&amp;D activities &amp; Roads/Open areas, which becomes a pre-dominant factor in the coming months determining the air quality in Delhi-NCR,” CAQM further said.
+“The Sub-Committee shall be keeping a close watch on the air quality scenario and review the situation from time to time for further appropriate decision depending upon the air quality in Delhi and the forecast made by IMD/ IITM,” CAQM stated in the statement.
+–IANS
+Link: https://ddnews.gov.in/en/grap-i-restrictions-revoked-in-delhi-ncr-as-air-quality-improves/
+Fetch Time: 2025-03-30 07:33:37
+
+Title: ‘Operation Brahma’: India sends two C-17 aircraft, more relief aid to quake-hit Myanmar, says MEA
+Publication Date: Sun, 30 Mar 2025 02:37:53 +0000
+Content: Two C-17 aircraft, carrying a 118-member Indian Army Field Hospital Unit along with 60 tonnes of relief material, have landed in Myanmar as part of India’s Operation Brahma following the devastating 7.7-magnitude earthquake that struck the country on Friday.
+Ministry of External Affairs (MEA) spokesperson Randhir Jaiswal provided details of the operation, stating that the unit also includes Women and Child Care services.
+India’s swift response highlights its commitment to being a first responder in regional crises, reaffirming its leadership in humanitarian aid both within its neighborhood and beyond.
+In a post on X, Jaiswal stated, “#OperationBrahma continues. Two C-17 aircraft carrying 118 members of the Indian Army Field Hospital Unit, including Women & Child Care services, along with 60 tonnes of relief material, have landed in Myanmar. With these, five relief flights have landed in Myanmar today.”
+Additionally, a second C-130 aircraft landed in Naypyitaw, carrying the remaining 38 personnel from the National Disaster Response Force (NDRF) along with 10 tonnes of relief material.
+The MEA further stated that two more C-17 aircraft, carrying 60 Para Field Ambulances, would arrive shortly.
+As part of the relief effort, the Indian Army will establish a 60-bed Medical Treatment Centre to provide immediate care to those injured. The facility will be equipped to handle trauma cases, emergency surgeries, and essential medical services to support the local healthcare system, which has been severely strained by the disaster, the Indian Army added.
+Earlier in the day, India dispatched the first tranche of urgent humanitarian aid for Myanmar from Hindon Air Force Station.
+Meanwhile, the death toll from the powerful earthquake has risen to 694, with 1,670 people injured, Myanmar’s military junta reported on Saturday, citing figures from the Mandalay region, which was near the epicenter.
+Authorities also confirmed that 68 people remain missing in the region. According to early modeling by the United States Geological Survey (USGS) on Friday, the death toll from the disaster could exceed 10,000. (ANI)
+Link: https://ddnews.gov.in/en/two-c-17-aircraft-with-60-tonnes-of-relief-material-land-in-myanmar/
+Fetch Time: 2025-03-30 07:33:37
+
+Title: Syria’s president al-Sharaa forms new transitional government
+Publication Date: Sun, 30 Mar 2025 02:27:46 +0000
+Content: Syrian President Ahmed al-Sharaa announced a transitional government on Saturday, appointing 23 ministers in a broadened cabinet seen as a key milestone in the transition from decades of Assad family rule and to improving Syria’s ties with the West.
+Syria’s new Sunni Islamist-led authorities have been under pressure from the West and Arab countries to form a government that is more inclusive of the country’s diverse ethnic and religious communities.
+That pressure increased following the killings of hundreds of Alawite civilians – the minority sect from which toppled leader Bashar al-Assad hails – in violence along Syria’s western coast this month.
+The cabinet included Yarub Badr, an Alawite who was named transportation minister, while Amgad Badr, who belongs to the Druze community, will lead the agriculture ministry.
+Hind Kabawat, a Christian woman and part of the previous opposition to Assad who worked for interfaith tolerance and women’s empowerment, was appointed as social affairs and labor minister.
+Mohammed Yosr Bernieh was named finance minister.
+It kept Murhaf Abu Qasra and Asaad al-Shibani, who were already serving as defence and foreign ministers respectively in the previous caretaker cabinet that has governed Syria since Assad was toppled in December by a lightning rebel offensive.
+Sharaa also said he established for the first time a ministry for sports and another for emergencies, with the head of a rescue group known as the White Helmets, Raed al-Saleh, appointed as the minister of emergencies.
+In January, Sharaa was named as interim president and pledged to form an inclusive transitional government that would build up Syria’s gutted public institutions and run the country until elections, which he said could take up to five years to hold.
+The government will not have a prime minister, with Sharaa expected to lead the executive branch.
+Earlier this month, Syria issued a constitutional declaration, designed to serve as the foundation for the interim period led by Sharaa. The declaration kept a central role for Islamic law and guaranteed women’s rights and freedom of expression.
+(REUTERS)
+Link: https://ddnews.gov.in/en/syrias-president-al-sharaa-forms-new-transitional-government/
+Fetch Time: 2025-03-30 07:33:37
+
