@@ -1601,3 +1601,150 @@ Foot-and-mouth disease poses no danger to humans but causes fever and mouth blis
 Link: https://ddnews.gov.in/en/hungary-deploys-military-to-contain-foot-and-mouth-outbreak/
 Fetch Time: 2025-04-03 02:42:53
 
+Title: DoT cracks down on spam calls, disconnects 1.75 lakh landline numbers
+Publication Date: Thu, 03 Apr 2025 07:30:24 +0000
+Content: The Department of Telecommunications (DoT) has disconnected approximately 1.75 lakh Direct Inward Dialing (DID) and landline telephone numbers found to be engaged in unauthorized promotional and illegal activities.
+Authorities have observed a surge in spam calls originating from telecom identifiers such as 0731, 079, and 080, often exploiting Primary Rate Interfaces (PRIs), Lease Lines, Internet Lease Lines, Session Initiation Protocol (SIP), and International Private Leased Circuits (IPLC). Citizens, under the Jan Bhagidari initiative, have been actively reporting incidents of Unsolicited Commercial Communication (UCC), spam, and fraudulent calls via the Chakshu module of Sanchar Saathi.
+The DoT analyzes this crowdsourced data and forwards identified cases to its Licensed Service Areas (LSAs) field offices for further investigation. Upon confirmation of violations, telecom services linked to such activities are immediately suspended.
+Telecom Service Providers (TSPs) have been directed to enforce strict compliance with Unified License conditions to prevent the misuse of telecom resources, including PRIs, SIP trunks, Lease Lines, and IPLC connections. TSPs are required to conduct regular checks to ensure that these services are used for legitimate purposes only.
+The DoT urges enterprises, bulk customers, and consumers to ensure their telecom services comply with regulations and are not misused for spam or unauthorized commercial communication. Violations could lead to strict penalties, including service disconnections.
+Additionally, citizens are encouraged to continue reporting spam calls through the Chakshu module of Sanchar Saathi ([www.sancharsaathi.gov.in](http://www.sancharsaathi.gov.in)). This collaborative initiative aims to enhance telecom security and user protection.
+Link: https://ddnews.gov.in/en/dot-cracks-down-on-spam-calls-disconnects-1-75-lakh-landline-numbers/
+Fetch Time: 2025-04-03 07:35:07
+
+Title: ICC announces match officials for Women’s ODI World Cup qualifiers in Pakistan
+Publication Date: Thu, 03 Apr 2025 07:29:36 +0000
+Content: The International Cricket Council (ICC) has named a panel of 10 umpires and three match referees to officiate the upcoming ICC Women’s ODI World Cup Qualifiers, set to take place from April 9 to 19 in Lahore, Pakistan.
+Ali Naqvi, Shandre Fritz, and Trudy Anderson have been appointed as match referees, while the umpiring panel includes Faisal Khan Afridi, Saleema Imtiaz, Sarah Dambanevana, Masudur Rahman Mukul, Shatira Jakir Jesy, Donovan Koch, Babs Gcuma, Candace La Borde, Dedunu de Silva, and Shaun Haig.
+Saleema Imtiaz, the mother of Pakistan women’s all-rounder Kainat Imtiaz, made history last year as the first Pakistani woman to join an ICC panel of umpires after her nomination to the ICC International Panel of Development Umpires. “This isn’t just a win for me, it’s a win for every aspiring female cricketer and umpire in Pakistan. I hope my success motivates countless women who dream of making their mark in the sport,” she said.
+Sarah Dambanevana became the first female Zimbabwean umpire to officiate in a Cricket World Cup final during the ICC U19 Women’s T20 World Cup 2023 and was also the first female umpire to stand in a Zimbabwean domestic men’s fixture.
+Masudur Rahman Mukul has been a regular official at ICC events, including the ICC U19 Men’s Cricket World Cups in 2020 and 2024. Meanwhile, Shatira Jakir Jesy, a former Bangladesh women’s international cricketer, is set to make her umpiring debut in the tournament.
+Donovan Koch, encouraged by elite umpire Richard Kettleborough during his playing stint in England, has also been selected for the panel.
+“This is an exciting opportunity for our appointed match officials as they oversee this crucial tournament—the final step for teams on their path to the World Cup. Our officials are experienced and well-prepared, and we look forward to their participation in this event,” said Sean Easey, ICC Senior Manager – Umpires and Referees, in a statement on Thursday.
+The sixth edition of the Women’s ODI World Cup Qualifiers will feature four full-member teams—Bangladesh, Ireland, Pakistan, and the West Indies—competing alongside associate nations Scotland and Thailand in a 15-match tournament. The top two teams will secure a spot in the ICC Women’s ODI World Cup, scheduled to take place later this year in India.
+(With IANS inputs)
+Link: https://ddnews.gov.in/en/icc-announces-match-officials-for-womens-odi-world-cup-qualifiers-in-pakistan/
+Fetch Time: 2025-04-03 07:35:07
+
+Title: Political storm erupts in West Bengal over Supreme Court’s decision on WBSSC appointments
+Publication Date: Thu, 03 Apr 2025 07:25:48 +0000
+Content: A political controversy has erupted in West Bengal following the Supreme Court’s decision to uphold the Calcutta High Court’s ruling that annulled over 25,000 appointments made by the West Bengal School Service Commission (WBSSC) in 2016. The decision, which affects secondary and higher secondary teachers as well as non-teaching staff in Group-C and Group-D categories, has sparked widespread debate and criticism from various political quarters.
+On April 22, 2024, the Calcutta High Court’s division bench, led by Justice Debangsu Basak and Justice Shabbar Rashidi, had cancelled 25,753 appointments made by WBSSC. The ruling came after it was found that many of these appointments were tainted by corruption, with candidates allegedly securing jobs by paying money, making it impossible to distinguish between legitimate and ineligible applicants.
+On Thursday, the Supreme Court, in a division bench led by Chief Justice of India Sanjiv Khanna and Justice Sanjay Kumar, upheld the Calcutta High Court’s decision. This ruling has triggered a political uproar, with both the ruling and opposition parties in West Bengal reacting strongly to the judgment.
+Bikas Ranjan Bhattacharya, a senior advocate in the Calcutta High Court and Rajya Sabha member from CPI(M), expressed regret that some “eligible” candidates would suffer due to the ruling. He stated that the scale of corruption in the recruitment process made it impossible to separate genuine candidates from ineligible ones. “The nature of institutional corruption in the entire selection process was so rampant that it became impossible to segregate the ‘genuine’ candidates from ‘ineligible’ candidates. The apex court repeatedly questioned WBSSC on whether such segregation was possible or not, but the commission was unable to come up with any definite answer,” Bhattacharya said.
+The BJP’s state president, Dr. Sukanta Majumdar, who is also the Union Minister of State, accused the Mamata Banerjee-led Trinamool Congress government of shielding corrupt practices. “The genuine candidates will now have to suffer because of the sustained efforts of the Mamata Banerjee-led state government to protect ineligible candidates who secured jobs by paying money to TMC leaders,” Majumdar said. He called for the resignation of Chief Minister Mamata Banerjee, demanding she take full responsibility for what he described as a “huge corruption.”
+Meanwhile, Biswajit Deb, a senior Trinamool Congress leader and the advocate general of Mizoram, suggested that the state government should file a review petition in the Supreme Court to address the impact on genuine candidates. “The basic principle of the legal system is that 1,000 culprits can escape, but not even one innocent should be punished. But following the verdict, now the genuine candidates will have to suffer. So I think that the state government should immediately file a review petition at the apex court,” Deb argued.
+However, Bhattacharya opposed the idea of filing a review petition, citing the potential for further delays and the unnecessary expenditure of public funds. He pointed out that such a move would prolong the legal process and burden the state’s finances.
+At the time of filing the report, there was no official reaction from CM Mamata Banerjee regarding the Supreme Court’s decision or the ongoing political fallout. The state government has yet to confirm whether it will pursue a review petition in the matter.
+(With IANS inputs)
+Link: https://ddnews.gov.in/en/political-storm-erupts-in-west-bengal-over-supreme-courts-decision-on-wbssc-appointments/
+Fetch Time: 2025-04-03 07:35:07
+
+Title: Indian exporters to face fewer challenges as US tariffs take effect, say economists
+Publication Date: Thu, 03 Apr 2025 07:22:26 +0000
+Content: As U.S. President Donald Trump mandates a 26 percent tariff on Indian goods, economists and industry experts believe that Indian exporters will face relatively fewer challenges compared to other major emerging markets in Asia. Among these economies, India’s tariffs remain the lowest, barring the Philippines.
+According to economic experts, India is expected to be less impacted by the tariffs due to its inward-focused economy, unlike export-driven nations such as China, Japan, Vietnam, and Sri Lanka.
+“This is expected to have a significant impact on U.S. inflation and global trade dynamics. Exporters from India are likely to face relatively less trouble, as among major emerging markets in Asia, tariffs on U.S. imports from India remain the lowest, barring the Philippines,” said Sonal Badhan, Economics Specialist at Bank of Baroda.
+Reacting to the tariff announcements, industry body ASSOCHAM highlighted that the policy shift would trigger a major realignment in global trade and supply chains.
+“Tariffs unveiled by President Trump last night will lead to a significant restructuring of global trade and manufacturing value chains. India has been placed somewhere in the middle, with tariffs set at 26 percent, in addition to a 10 percent baseline duty. The actual impact of these tariffs needs thorough assessment,” said ASSOCHAM President Sanjay Nayar.
+Amid these changes, economists stress that India must strengthen domestic bank liquidity to support local businesses and consumers.
+“Inward-focused economies like India should ensure strong bank liquidity so that financial institutions can lend freely to domestic retail borrowers and small business owners, helping sustain domestic consumption,” said Debopam Chaudhuri, Chief Economist at Piramal Group.
+Kunal Chaudhary, Tax Partner at EY India, pointed out that the new tariffs create a dual-edged scenario for India’s manufacturing sector.
+“On the one hand, India benefits from relatively lower tariffs compared to China, Thailand, and Vietnam, which could offer an arbitrage opportunity for Indian exports. However, on the other hand, Indian manufacturers might face intensified competition in other markets, as countries that traditionally focus on the U.S. market may now redirect exports to other nations to compensate for the losses,” said Chaudhary.
+Under the new tariff policy, steel, aluminium, and auto-related goods from India will face a 25 percent tariff. Pharmaceuticals, semiconductors, copper, and energy products will remain tariff-free. All other goods from India will be taxed at 26 percent.
+(Inputs from ANI)
+Link: https://ddnews.gov.in/en/indian-exporters-to-face-fewer-challenges-as-us-tariffs-take-effect-say-economists/
+Fetch Time: 2025-04-03 07:35:07
+
+Title: Liverpool restore 12-point lead as Jota seals win over Everton
+Publication Date: Thu, 03 Apr 2025 07:00:27 +0000
+Content: Liverpool continued their march towards the Premier League title with a 1-0 victory over Everton in a scrappy Merseyside derby as Diogo Jota slotted home the winner in the second half on Wednesday.
+The champions elect, with 73 points after 30 games, restored their 12-point lead over second-placed Arsenal while Everton, whose nine-game league unbeaten ended, are 15th on 34 points.
+Everton’s Beto had an early goal chalked off for offside and missed a sitter before Jota broke the deadlock in the 57th minute with his first goal in two-and-a-half months. Anfield erupted when Luis Diaz back-heeled the ball into Jota’s path and the Portuguese forward beat a tackle before firing into the net.
+“Massive, of course,” Jota said summing up the win. “Not only because it is a derby, but because of the (first game since the) international break. It was important to start with three points and hopefully that gives us momentum for the rest of the season.”
+Liverpool fans thought Everton should have been reduced to 10 men after 11 minutes following a fierce tackle by defender James Tarkowski on Alexis Mac Allister, but Everton’s captain was only shown a yellow card.
+The teams had met in an explosive derby in February that ended 2-2, with Tarkowski equalising deep in stoppage time in a chaotic game that featured four red cards, including one to Liverpool manager Arne Slot.
+While Liverpool are unbeaten in 26 league games, they went into last month’s international break on a negative note after being eliminated by Paris St Germain in the Champions League and losing to Newcastle United in the League Cup final.
+Slot’s men looked sluggish and disjointed on Wednesday and Everton could have gone ahead when Beto raced away from defender Virgil van Dijk and beat goalkeeper Caoimhin Kelleher before hitting his shot against the post.
+Kelleher started in goal for Liverpool, with regular starter Alisson recovering from a concussion suffered on international duty with Brazil.
+The heated mood in Anfield was cranked-up another notch with the contentious early tackle. Tarkowski won the ball but his studs-up follow-through caught Mac Allister square in the calf. VAR confirmed the decision of a yellow card, which gave the centre back the joint most yellow cards without being sent off in Premier League history, with 63.
+“I thought at the time that it was a brilliant tackle for a derby game,” Everton boss David Moyes said.
+Former Manchester United defender Gary Neville said on the Sky Sports commentary that Tarkowski was very lucky to escape a red card for a tackle that was a “potential leg breaker”.
+“We were playing against Everton, they make it very difficult for you,” Van Dijk said. The games we have played against each other over the years have always been tough.
+“They have a certain way of playing and you have to be ready for it. The first half wasn’t our greatest but we kept a clean sheet and obviously, Jota made a fantastic goal. Three points and we move on.”
+Moyes remained without a victory at Anfield in 22 games leading Manchester United, Sunderland, and West Ham United as well as his current team.
+“Liverpool were the better team, there’s no doubt about that,” Moyes said.
+“But I don’t like the goal, I think the goal was offside. I’m really surprised it wasn’t given. Or maybe I’m not surprised. I don’t think many managers come here and think that they get loads of decisions at Anfield generally.”
+–Reuters
+Link: https://ddnews.gov.in/en/liverpool-restore-12-point-lead-as-jota-seals-win-over-everton/
+Fetch Time: 2025-04-03 07:35:07
+
+Title: Mansukh Mandaviya inaugurates Viksit Bharat youth parliament 2025
+Publication Date: Thu, 03 Apr 2025 06:47:55 +0000
+Content: Union Minister Mansukh Mandaviya inaugurated the National Round of the Viksit Bharat Youth Parliament Festival 2025 in New Delhi on Wednesday. The two-day event aims to empower young minds and foster leadership through parliamentary discussions.
+The festival began with the District Youth Parliament, held from March 16 to 27, followed by the State Youth Parliament, which took place from March 23 to 31 across various state legislative assemblies.
+A total of 105 finalists, who excelled at both the district and state levels, are now competing in the national round.
+Union Minister of State for Youth Affairs & Sports, Raksha Khadse, was also present at the inauguration.
+In his inaugural speech, Mandaviya highlighted the integration of the Youth Parliament with the vision of Viksit Bharat, emphasizing that over 75,000 young individuals submitted one-minute videos to be part of this initiative. After rigorous selection at the district and state levels, the finalists are now debating in the Parliament, where India’s leaders have shaped the nation’s course. He urged the youth to adopt a ‘Nation First’ mindset, emphasizing that democracy thrives on constructive discussions rather than arguments. He praised India’s democratic strength, stating that Parliament symbolizes unity in diversity and offers opportunities for all, where even individuals from humble backgrounds can rise to the highest offices.
+The event featured two Question Hour sessions, where participants engaged in meaningful discussions. The first session debated One Nation, One Election (ONOE), covering governance, political stability, and legal challenges. The second session focused on youth empowerment, education, skill development, and sustainability under the vision of Viksit Bharat. Each session featured teams representing MPs and Ministers, with their debates judged by a panel of Members of Parliament and senior government officials.
+Additionally, Sudhanshu Trivedi, MP, conducted a master class on oratory skills, providing valuable insights into effective public speaking, a crucial skill for leadership and parliamentary debates.
+On the second day, participants will visit the new Parliament building to witness live proceedings and experience the legislative process firsthand. They will engage in a focused discussion on ONOE, examining implementation models and Centre-State implications. A deliberation session led by the Ministry of Law and Justice will introduce a motion for voting. The day will conclude with the National Youth Awards ceremony (2021-22 & 2022-23), recognizing exceptional contributions to youth leadership, followed by the Viksit Bharat Youth Parliament Awards 2025, celebrating the most impactful participants.
+Link: https://ddnews.gov.in/en/mansukh-mandaviya-inaugurates-viksit-bharat-youth-parliament-2025/
+Fetch Time: 2025-04-03 07:35:07
+
+Title: PM Modi arrives in Bangkok to warm reception ahead of BIMSTEC summit
+Publication Date: Thu, 03 Apr 2025 06:43:43 +0000
+Content: Prime Minister Narendra Modi arrived in Bangkok on Thursday to a vibrant and enthusiastic welcome from the Indian diaspora, who greeted him with chants of “Modi Modi” and “Vande Mataram.”
+Deputy Prime Minister of Thailand, Suriya Jungrungreangkit, along with several senior officials, welcomed PM Modi at the airport. His arrival marks the beginning of his official visit to Thailand, where he is set to attend the 6th BIMSTEC Summit, scheduled for April 4.
+During his visit, PM Modi will engage with regional leaders to discuss key areas of cooperation within the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC). The summit will serve as a platform to strengthen collaboration among member countries, addressing issues such as regional development, connectivity, and economic progress.
+The Prime Minister is also scheduled to hold bilateral talks with Thai leadership to further enhance the robust India-Thailand relationship, which is grounded in shared culture, history, and economic ties. Following his arrival, PM Modi is set to interact with the Indian diaspora in Thailand, emphasizing the deep cultural and economic connections between the two nations.
+In his departure statement, PM Modi highlighted the growing importance of BIMSTEC as a forum for promoting regional development. “At the invitation of Prime Minister Paetongtarn Shinawatra, I am departing today for Thailand on an official visit and to attend the 6th BIMSTEC Summit,” PM Modi said. He further noted, “Over the past decade, BIMSTEC has emerged as a significant forum for promoting regional development, connectivity, and economic progress in the Bay of Bengal region.”
+The Prime Minister also expressed his eagerness to engage with leaders of BIMSTEC countries, adding, “I look forward to meeting the leaders of the BIMSTEC countries and engaging productively to further strengthen our collaboration with the interests of our people in mind.”
+On his official engagements in Thailand, PM Modi emphasized the importance of strengthening India-Thailand ties, particularly in the context of their shared history and culture. “During my visit, I will have the opportunity to engage with Prime Minister Shinawatra and the Thai leadership, with a common desire to elevate our age-old historical ties, which are based on the strong foundations of shared culture, philosophy, and spiritual thought,” he said.
+PM Modi’s visit to Thailand is part of a two-nation tour that will also take him to Sri Lanka from April 4-6. “From Thailand, I will pay a two-day visit to Sri Lanka from April 4-6. This follows the highly successful visit of President [Ranil] Wickremesinghe to India last December. We will have the opportunity to review progress made on the joint vision of ‘Fostering Partnerships for a Shared Future’ and provide further guidance to realize our shared objectives,” PM Modi added.
+Expressing optimism about his visits, the Prime Minister said, “I am confident that these visits will build on the foundations of the past and contribute to strengthening our close relationships for the benefit of our people and the wider region.”
+As India takes a leading role in BIMSTEC, its involvement in the summit is poised to reinforce its commitment to regional cooperation. BIMSTEC, a regional grouping of seven countries, includes five South Asian nations—Bangladesh, Bhutan, India, Nepal, and Sri Lanka—and two Southeast Asian countries, Myanmar and Thailand. The grouping serves as a bridge between South Asia and Southeast Asia, with India playing a central role in shaping its agenda and promoting collaboration across sectors.
+
+(With IANS inputs)
+Link: https://ddnews.gov.in/en/pm-modi-arrives-in-bangkok-to-warm-reception-ahead-of-bimstec-summit/
+Fetch Time: 2025-04-03 07:35:07
+
+Title: Indian Pharmaceutical Alliance welcomes exclusion from US tariffs
+Publication Date: Thu, 03 Apr 2025 06:21:10 +0000
+Content: The Indian Pharmaceutical Alliance (IPA) on Thursday welcomed the exclusion of pharmaceuticals from the new import tariffs announced by US President Donald Trump, emphasizing the growing bilateral trade ties between India and the United States.
+Sudarshan Jain, Secretary General of the IPA, expressed appreciation for the decision and highlighted the vital role that India plays in global healthcare, particularly in supplying affordable medicines to the US market. In a statement, Jain stated, “India and the US share a strong and growing bilateral trade relationship, with a shared vision to double trade to USD 500 billion under the Mission 500 initiative. Pharmaceuticals remain a cornerstone of this partnership, as India plays a vital role in global and US healthcare by ensuring a steady supply of affordable medicines.”
+Jain also underscored the significance of the tariff exemption, noting that it highlights the importance of cost-effective, life-saving generic medicines in public health, economic stability, and national security. He reaffirmed the Indian pharmaceutical industry’s commitment to bolstering supply chain resilience and ensuring continued access to affordable medicines, which aligns with the shared priorities of both nations.
+Trump’s tariff announcement, made during a speech at the Make America Wealthy Again Event on Wednesday, included new import tariffs on countries across the globe, with India facing a 26% tariff. During his address, Trump referred to Prime Minister Narendra Modi as a “great friend” but criticized India’s tariff policies, saying, “India charges the US 52 percent, and we charge them almost nothing.” He further elaborated on the discrepancy in tariff rates, adding, “The United States charges other countries only a 2.4 percent tariff on motorcycles. Meanwhile, Thailand and others are charging much higher prices like 60 percent, India charges 70 percent, Vietnam charges 75 percent and others are even higher than that.”
+Trump also mentioned that a 25% tariff would be imposed on all foreign-made automobiles. The US President’s remarks come as part of a broader effort to address what he views as unfair trade practices, particularly in key sectors such as agriculture, automobiles, and pharmaceuticals.
+Earlier reports indicated that any potential trade agreement between India and the US might focus on these sectors, given their political and economic sensitivity for India, especially due to high tariff rates.
+In addition to India’s 26% tariff, the import tariffs imposed by Trump on other major trading partners include China at 34%, the European Union at 20%, Vietnam at 46%, Taiwan at 32%, Japan at 24%, the United Kingdom at 10%, Bangladesh at 37%, Pakistan at 29%, Sri Lanka at 44%, and Israel at 17%.
+(With IANS inputs)
+Link: https://ddnews.gov.in/en/indian-pharmaceutical-alliance-welcomes-exclusion-from-us-tariffs/
+Fetch Time: 2025-04-03 07:35:07
+
+Title: CAQM invokes stage I of GRAP in Delhi-NCR as air quality declines
+Publication Date: Thu, 03 Apr 2025 06:01:18 +0000
+Content: The Commission for Air Quality Management (CAQM) has reimposed Stage I of the Graded Response Action Plan (GRAP) in Delhi-NCR with immediate effect after the region’s Air Quality Index (AQI) slipped into the ‘poor’ category on Wednesday.
+The decision was based on the daily average AQI provided by the Central Pollution Control Board (CPCB), the CAQM stated. Under Stage I of GRAP, which is activated when AQI ranges between 201-300, 27 preventive actions are to be strictly implemented by all relevant agencies across NCR.
+Pollution Control Boards (PCBs) of NCR states and the Delhi Pollution Control Committee (DPCC) have been directed to ensure strict enforcement of Stage I measures. Meanwhile, the Sub-Committee on GRAP has urged citizens to cooperate and follow the Citizen Charter guidelines for improving air quality.
+Earlier, on March 29, CAQM had revoked Stage I of GRAP after Delhi’s AQI improved to 153 (moderate category). However, the recent deterioration has prompted its reimplementation.
+Authorities will continue to monitor air quality levels and take further action as needed to mitigate pollution in the region.
+(With ANI inputs)
+Link: https://ddnews.gov.in/en/caqm-invokes-stage-i-of-grap-in-delhi-ncr-as-air-quality-declines/
+Fetch Time: 2025-04-03 07:35:07
+
+Title: Sensex, Nifty open lower as Trump tariffs trigger global sell-off
+Publication Date: Thu, 03 Apr 2025 05:44:56 +0000
+Content: Indian equity indices opened lower on Thursday following a sharp sell-off in global markets after U.S. President Donald Trump’s announcement of reciprocal tariffs.
+At around 9:20 AM, the Sensex was down 470 points or 0.61 percent at 76,197, while the Nifty was down 105 points or 0.45 percent, at 23,227.
+In the early trading hours, midcaps and smallcaps were trading with minor gains compared to largecaps. The Nifty Midcap 100 index was up 125 points or 0.24 percent at 52,183, and the Nifty Smallcap 100 index was up 121 points or 0.75 percent at 16,283.
+On the sectoral front, auto, IT, PSU banks, FMCG, metals, and media were among the top laggards, while pharma, realty, and energy were the major gainers.
+In the Sensex pack, Infosys, HCL Tech, TCS, Tech Mahindra, Tata Motors, M&M, Bharti Airtel, Reliance, HDFC Bank, Maruti Suzuki, and Kotak Mahindra Bank were the major losers. On the other hand, Sun Pharma, Power Grid, NTPC, Bajaj Finance, Bajaj Finserv, Titan, and UltraTech Cement were the top gainers.
+Vikram Kasat, Head of Advisory at PL Capital-Prabhudas Lilladher, stated, “Large tariff shocks threaten the U.S. and global economy. If these policies are sustained, they could likely push the U.S. and global economy into recession this year.”
+“In general terms, Canada and Mexico have been impacted less severely, while Asian countries, particularly China and Vietnam, have been hit the hardest. The European Union and Japan fall somewhere in between. The hope is that no one retaliates, because if retaliation occurs, there will be an escalation. If no retaliation happens, this might be the high-water mark,” he added.
+Most Asian markets witnessed heavy selling due to U.S. tariffs, with Tokyo, Shanghai, Hong Kong, Bangkok, and Seoul trading in the red. However, U.S. markets closed in the green during Wednesday’s trading session.
+On the institutional front, foreign institutional investors (FIIs) extended their selling streak for the third consecutive session on April 2, offloading equities worth Rs 1,538 crore. In contrast, domestic institutional investors (DIIs) remained net buyers for the fourth consecutive day, purchasing equities worth Rs 2,800 crore.
+(Inputs from IANS)
+Link: https://ddnews.gov.in/en/sensex-nifty-open-lower-as-trump-tariffs-trigger-global-sell-off/
+Fetch Time: 2025-04-03 07:35:07
+
