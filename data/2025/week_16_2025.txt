@@ -3745,3 +3745,215 @@ Alan Fern, professor of computer science, artificial intelligence and robotics a
 Link: https://ddnews.gov.in/en/china-pits-humanoid-robots-against-humans-in-half-marathon/
 Fetch Time: 2025-04-20 02:50:58
 
+Title: Scientists create novel method to identify healthy and cancerous cells
+Publication Date: Sun, 20 Apr 2025 07:24:59 +0000
+Content: Researchers from Tokyo Metropolitan University in Japan on Saturday said they have found that the motion of unlabelled cells can be used to tell whether they are cancerous or healthy.
+They observed malignant fibrosarcoma cells and healthy fibroblasts on a dish and found that tracking and analysis of their paths can be used to differentiate them with up to 94 per cent accuracy.
+Beyond diagnosis, their technique may also shed light on cell motility related functions, like tissue healing, according to the study published in the journal PLOS One.
+The team of researchers, led by Professor Hiromi Miyoshi, came up with a way of tracking cells using phase-contrast microscopy, one of the most common ways of observing cells.
+Phase-contrast microscopy is entirely label free, allowing cells to move about on a petri dish closer to their native state, and is not affected by the optical properties of the plastic petri dishes through which cells are imaged.
+Through innovative image analysis, they were able to extract trajectories of many individual cells. They focused on properties of the paths taken, like migration speed, and how curvy the paths were, all of which would encode subtle differences in deformation and movement.
+As a test, they compared healthy fibroblast cells, the key component of animal tissue, and malignant fibrosarcoma cells, cancerous cells which derive from fibrous connective tissue.
+They were able to show that the cells migrated in subtly different ways, as characterised by the “sum of turn angles” (how curvy the paths were), the frequency of shallow turns, and how quickly they moved. In fact, by combining both the sum of turn angles and how often they made shallow turns, they could predict whether a cell was cancerous or not with an accuracy of 94 per cent.
+The team’s work not only promises a new way to discriminate cancer cells, but applications to research of any biological function based on cell motility, like the healing of wounds and tissue growth, said the study.
+(IANS)
+Link: https://ddnews.gov.in/en/scientists-create-novel-method-to-identify-healthy-and-cancerous-cells/
+Fetch Time: 2025-04-20 07:34:22
+
+Title: India’s forex, money markets have doubled in last 4 years: RBI Governor
+Publication Date: Sun, 20 Apr 2025 07:06:37 +0000
+Content: India’s financial markets have developed into a dynamic and resilient force to fuel economic growth with an almost doubling of the foreign exchange market from $32 billion in 2020 to $60 billion in 2024 and the average daily volumes in the overnight money markets surging from about Rs 3 lakh crore to over Rs 5.4 lakh in this four-year period, according to RBI Governor Sanjay Malhotra.
+There has also been a 40 per cent surge in average daily volumes in the government securities (G-secs) markets to Rs 66,000 crore over the same period.
+Addressing the 24th FIMMDA-PDAI annual conference in Bali this weekend, Malhotra said the levels of transparency in Indian markets are at par with the best in the world.
+“With recent regulatory reforms, we have seen greater product and participant diversity, and the onshore and offshore markets have become tightly integrated,” he pointed out.
+Malhotra said all the financial market segments of the country, including Forex, G-sec, and Money Markets, have largely remained stable. While the Rupee came under a bit of pressure a few months ago, it has fared better thereafter and regained some lost ground.
+The foreign exchange markets are reasonably liquid with narrow bid-ask spreads. There is growing transparency in this market. All FX derivatives are reported to the Trade Repository, and reporting of cash and spot transactions has commenced. A bulk of FX spot transactions are traded on electronic trading platforms (ETPs). Authorised trading platforms are also available for forward transactions, but there appears to be a preference for such trades to take place bilaterally. Trading on ETPs enhances transparency and market efficiency. We would like to see an increasing share of transactions done on ETPs, he said..
+Malhotra further stated that fair treatment of customers and transparency in forex pricing for the smaller and less sophisticated customers continue to engage the RBI’s attention.
+“Much more can be and needs to be done here. Divergence in pricing in FX markets for the small and large customers is far wider than what can be justified by operational considerations. FX-Retail, a transparent platform for undertaking FX transactions, has witnessed a lukewarm response, and our feedback is that this is largely due to the reluctance of banks to offer the platform to their customers,” The RBI governor said.
+He highlighted that there are regulations in place to ensure transparency in pricing for retail customers, including a mandate for disclosing the mid-market or interbank rate to customers. As an industry, there is a need for market-makers to introspect and assess in what ways they can effectively deliver on these regulatory and fiduciary mandates, he added.
+Malhotra further stated that the RBI has recently announced that access to FX Retail will also be provided through the Bharat Connect platform. In the first phase, a pilot to facilitate the purchase of US dollars by individuals is planned. Subsequently, its scope will be expanded based on the experience gained.
+He urged all the financial market participants, including Authorised Dealers, to extend their full cooperation in ensuring that the pilot is implemented smoothly and successfully.
+He red-flagged the use of banking channels for activities on unauthorised FX trading platforms. “This calls for greater vigilance and stronger efforts by banks to create awareness among their customers about the perils of using such platforms,” the RBI Governor said.
+(IANS)
+Link: https://ddnews.gov.in/en/indias-forex-money-markets-have-doubled-in-last-4-years-rbi-governor/
+Fetch Time: 2025-04-20 07:34:22
+
+Title: Iran, US task experts with framework for a nuclear deal after ‘progress’ in talks
+Publication Date: Sun, 20 Apr 2025 06:31:43 +0000
+Content: Iran and the United States agreed on Saturday to begin drawing up a framework for a potential nuclear deal, Iran’s foreign minister said, after talks that a U.S. official described as yielding “very good progress.”
+U.S. President Donald Trump, who abandoned a 2015 nuclear pact between Tehran and world powers during his first term in 2018, has threatened to attack Iran unless it reaches a new deal swiftly that would prevent it from developing a nuclear weapon.
+At their second indirect meeting in a week, Iranian Foreign Minister Abbas Araqchi negotiated for four hours in Rome with Trump’s Middle East envoy Steve Witkoff through an Omani official who shuttled messages between them.
+Speaking on state TV after the talks, Araqchi described the engagement as useful and conducted in a constructive atmosphere.
+“We were able to make some progress on a number of principles and goals, and ultimately reached a better understanding,” Araqchi said.
+“It was agreed that negotiations will continue and move into the next phase, in which expert-level meetings will begin on Wednesday in Oman. The experts will have the opportunity to start designing a framework for an agreement,” he said.
+The top negotiators would meet again in Oman next Saturday to “review the experts’ work and assess how closely it aligns with the principles of a potential agreement,” he added.
+Echoing cautious comments last week from Supreme Leader Ali Khamenei, he said: “We cannot say for certain that we are optimistic. We are acting very cautiously. There is no reason either to be overly pessimistic.”
+Iran, which calls its nuclear programme peaceful, says it is willing to discuss limited curbs to its atomic work in return for lifting international sanctions.
+A Trump administration official confirmed that the two sides agreed to meet again next week.
+“Today, in Rome over four hours in our second round of talks, we made very good progress in our direct and indirect discussions,” the official said.
+Trump told reporters on Friday: “I’m for stopping Iran, very simply, from having a nuclear weapon. They can’t have a nuclear weapon. I want Iran to be great and prosperous and terrific.”
+Washington’s ally Israel, which opposed the 2015 agreement with Iran that Trump abandoned in 2018, has not ruled out an attack on Iran’s nuclear facilities in the coming months, according to an Israeli official and two other people familiar with the matter.
+Since 2019, Iran has breached and far surpassed the 2015 deal’s limits on its uranium enrichment, producing stocks far above what the West says is necessary for a civilian energy programme.
+A senior Iranian official, who described Iran’s negotiating position on condition of anonymity on Friday, listed its red lines as never agreeing to dismantle its uranium enriching centrifuges, halt enrichment altogether or reduce its enriched uranium stockpile below levels agreed in the 2015 deal.
+(Reuters)
+Link: https://ddnews.gov.in/en/iran-us-task-experts-with-framework-for-a-nuclear-deal-after-progress-in-talks/
+Fetch Time: 2025-04-20 07:34:22
+
+Title: China pits humanoid robots against humans in half-marathon
+Publication Date: Sun, 20 Apr 2025 06:27:10 +0000
+Content: Twenty-one humanoid robots joined thousands of runners at the Yizhuang half-marathon in Beijing on Saturday, the first time these machines have raced alongside humans over a 21-km (13-mile) course.
+The robots from Chinese manufacturers such as DroidUP and Noetix Robotics came in all shapes and sizes, some shorter than 120 cm (3.9 ft), others as tall as 1.8 m (5.9 ft). One company boasted that its robot looked almost human, with feminine features and the ability to wink and smile.
+Some firms tested their robots for weeks before the race. Beijing officials have described the event as more akin to a race car competition, given the need for engineering and navigation teams.
+“The robots are running very well, very stable … I feel I’m witnessing the evolution of robots and AI,” said spectator He Sishu, who works in artificial intelligence.
+The robots were accompanied by human trainers, some of whom had to physically support the machines during the race.
+A few of the robots wore running shoes, with one donning boxing gloves and another wearing a red headband with the words “Bound to Win” in Chinese.
+The winning robot was Tiangong Ultra, from the Beijing Innovation Center of Human Robotics, with a time of 2 hours and 40 minutes. The men’s winner of the race had a time of 1 hour and 2 minutes.
+The centre is 43% owned by two state-owned enterprises, while tech giant Xiaomi’s 1810.HK robotics arm and leading Chinese humanoid robot firm UBTech have equal share in the rest.
+Tang Jian, chief technology officer for the robotics centre, said Tiangong Ultra’s performance was aided by long legs and an algorithm allowing it to imitate how humans run a marathon.
+“I don’t want to boast but I think no other robotics firms in the West have matched Tiangong’s sporting achievements,” Tang said, adding that the robot switched batteries just three times during the race.
+SOME ROBOTS STRUGGLE
+Some robots, like Tiangong Ultra, completed the race, while others struggled from the beginning. One robot fell at the starting line and lay flat for a few minutes before getting up and taking off. One crashed into a railing after running a few metres, causing its human operator to fall over.
+Although humanoid robots have made appearances at marathons in China over the past year, this is the first time they have raced alongside humans.
+China is hoping that investment in frontier industries like robotics can help create new engines of economic growth. Some analysts, though, question whether having robots enter marathons is a reliable indicator of their industrial potential.
+Alan Fern, professor of computer science, artificial intelligence and robotics at Oregon State University, said contrary to claims from Beijing officials that such a race requires “AI breakthroughs”, the software enabling humanoid robots to run was developed and demonstrated more than five years ago.
+“Chinese companies have really focused on showing off walking, running, dancing, and other feats of agility.
+“Generally, these are interesting demonstrations, but they don’t demonstrate much regarding the utility of useful work or any type of basic intelligence,” Fern said.
+Tang, the robotic centre’s CTO, said: “A focus going forward for us will be industrial applications for humanoid robots so they can truly enter factories, business scenarios, and finally households.”
+(Reuters)
+Link: https://ddnews.gov.in/en/china-pits-humanoid-robots-against-humans-in-half-marathon-2/
+Fetch Time: 2025-04-20 07:34:22
+
+Title: Red notice sought from Interpol against Hasina, 11 others: Bangladesh Police
+Publication Date: Sun, 20 Apr 2025 05:28:57 +0000
+Content: The National Central Bureau (NCB) of Bangladesh Police has submitted a request to Interpol seeking a ‘red notice’ against 12 people, including former Prime Minister Sheikh Hasina; former road transport and bridges minister and Awami League general secretary Obaidul Quader; and former home minister Asaduzzaman Khan.
+Confirming the development, Enamul Haque Sagor, Assistant Inspector General (Media) at the Police Headquarters, said on Saturday that the NCB branch makes such requests to Interpol based on appeals received from courts, public prosecutors, or investigating agencies, reports United News of Bangladesh (UNB).
+“These applications are filed in connection with allegations that emerge during investigations or through ongoing case proceedings,” he said.
+Interpol plays a key role in identifying the locations of fugitives residing abroad. Once the whereabouts of any absconding individual are confirmed, that information is relayed to Interpol, the AIG added.
+The request for the Red Notice is currently under process, he noted.
+Meanwhile, the Chief Prosecutor’s Office of the International Crimes Tribunal, Dhaka in November last year formally requested the Police Headquarters to seek Interpol’s assistance in arresting Sheikh Hasina and others deemed fugitives, reports UNB.
+Link: https://ddnews.gov.in/en/red-notice-sought-from-interpol-against-hasina-11-others-bangladesh-police/
+Fetch Time: 2025-04-20 07:34:22
+
+Title: Russia’s Putin declares unilateral Easter ceasefire in Ukraine
+Publication Date: Sun, 20 Apr 2025 05:22:06 +0000
+Content: Russian President Vladimir Putin announced a surprise one-day ceasefire in Ukraine on Saturday for Easter, but Kyiv said Russian forces continued artillery fire and called instead for an extended true halt to hostilities.
+Ukrainian President Volodymyr Zelenskiy said Russia had rejected just such a proposal brokered by U.S. President Donald Trump last month and could not be trusted.
+Putin’s unilateral move, to last for 30 hours, followed Washington’s announcement that it could abandon peace talks within days unless Moscow and Kyiv showed they were serious about negotiating.
+Putin ordered fighting to stop as of 6 p.m. Moscow time (1500 GMT) on Saturday until midnight on Sunday night.
+“Based on humanitarian considerations … the Russian side announces an Easter truce. I order a stop to all military activities for this period,” Putin told Valery Gerasimov, Chief of Russia’s General Staff, at a televised meeting.
+“We assume that Ukraine will follow our example. At the same time, our troops should be prepared to repel possible violations of the truce and provocations by the enemy, any aggressive actions.”
+Shortly after the announcement, around an hour before it was due to take effect, air raid sirens rang out in Kyiv. Another warning was put in place briefly in Kyiv and the region around the capital about four hours after the ceasefire deadline.
+Zelenskiy dismissed the proposal as “yet another attempt by Putin to play with human lives”. As of 45 minutes before the truce was meant to start, Ukrainian planes were repelling Russian air strikes, Zelenskiy said in a post on X.
+In a post on social media platform X, Zelenskiy quoted Ukraine’s top commander, Oleksandr Syrskyi, as saying that Russian assault operations “continue on several frontline sectors, and Russian artillery fire has not subsided.”
+“Therefore, there is no trust in words coming from Moscow.”
+Zelenskiy later expanded on Syrskyi’s report, saying that Putin’s ceasefire did not apply to Russia’s Kursk and Belgorod regions, border areas where Ukrainian forces have made incursions and where hostilities were still going on.
+“Fighting continues, Russian strikes continue,” he wrote, without providing evidence.
+Zelenskiy said that in some areas along the front, “Russian artillery still sounds, rather than any promise of silence from the Russian leader. Russian drones are being used. In some sectors it is quieter.”
+He recalled that Russia last month rejected the U.S.-proposed full 30-day ceasefire and said that if Moscow agreed to “truly engage in a format of full and unconditional silence, Ukraine will act accordingly — mirroring Russia’s actions”.
+“If a complete ceasefire truly takes hold, Ukraine proposes extending it beyond the Easter day of April 20,” Zelenskiy wrote.
+In Brussels, a European Union spokesperson expressed caution over the proclaimed ceasefire, saying: “Russia has a track record as an aggressor, so first we need to see any actual halt of the aggression and clear deeds for a lasting ceasefire.”
+A British foreign ministry spokesperson said: “Ukraine has committed to a full ceasefire. We urge Russia to do the same.”
+LITTLE FAITH
+Kyiv residents expressed little faith in the ceasefire, saying similar past moves by Putin had had little effect.
+“This man is not capable of reaching any sort of a deal. He does not know how to do that,” said Tetiana Solovei, 65. “Tonight, in Ukraine and especially in Kyiv, we expect missiles. There will be no ceasefire.”
+Andriy Kovalenko, head of Ukraine’s Centre for Countering Disinformation, said Russian forces continued to fire on Ukrainian positions after the truce was meant to have taken effect.
+The governor of southern Ukraine’s Kherson province said Russian air strikes began shortly before the truce was to start and continued after. He posted a picture of a damaged building.
+“Unfortunately, we are not seeing any sort of calm here. The shelling continues and our civilians are under fire,” he wrote on Telegram.
+Reuters could not independently verify the situation at the front.
+Ukrainian bloggers who cover the war said firing continued along the entire line of contact. But public broadcaster Suspilne quoted servicemen on the eastern front as saying the number of Russian attacks had declined.
+Trump and Secretary of State Marco Rubio had said on Friday the United States would walk away from efforts to broker a Russia-Ukraine peace deal unless there were clear signs of progress soon.
+Kirill Dmitriev, an envoy for Putin who travelled to Washington this month, posted news of the ceasefire on X, adding: “One step closer to peace” and an emoji of a dove.
+Trump has vowed to bring a swift end to the war, while shifting U.S. policy from firmly supporting Kyiv towards accepting Moscow’s account of the conflict.
+Last month, after Ukraine accepted Trump’s proposal for a 30-day truce but Moscow rejected it, the sides agreed only to limited pauses of attacks on energy targets and at sea, which each accuses the other of breaking.
+Putin announced his Easter truce a week after a Russian missile attack killed 35 people and wounded nearly 120 in the Ukrainian city of Sumy, including Christians heading to celebrate Palm Sunday.
+That attack, the deadliest against civilians of the year so far, spurred Kyiv and its European allies to press Washington to take a tougher line towards Moscow.
+Putin has proclaimed unilateral pauses in fighting in the past with little impact, including a 36-hour proposed truce for Orthodox Christmas in January 2023, which Kyiv rejected.
+(Reuters)
+Link: https://ddnews.gov.in/en/russias-putin-declares-unilateral-easter-ceasefire-in-ukraine/
+Fetch Time: 2025-04-20 07:34:22
+
+Title: ‘New hope, new beginnings’, Prez Murmu, PM Modi extend Easter greetings
+Publication Date: Sun, 20 Apr 2025 04:10:43 +0000
+Content: On the occasion of Easter Sunday, President Droupadi Murmu and Prime Minister Narendra Modi extended heartfelt greetings to citizens, emphasising the festival’s universal message of new beginnings.
+Taking to the social media platform X, President Murmu shared a message celebrating the resurrection of Jesus Christ and its enduring significance.
+“Easter greetings to all! On this occasion, we celebrate the resurrection of Jesus Christ. This festival inspires the spirit of new hope and new beginnings. The teachings of Jesus Christ inspire humanity to follow the path of love and sacrifice. May this festival of joy and hope bring peace and prosperity to all,” the President wrote.
+Easter, also known as Resurrection Sunday, is one of the most important festivals in Christianity, marking the belief in Jesus Christ’s resurrection after crucifixion.
+PM Modi also extended his wishes, saying this Easter is special as the Jubilee Year is being observed. He also prayed that this occasion inspires hope in all.
+H wrote on X, “Wishing everyone a blessed and joyous Easter. This Easter is special because world over, the Jubilee Year is being observed with immense fervour. May this sacred occasion inspire hope, renewal and compassion in every person. May there be joy and harmony all around.”
+Congress President Mallikarjun Kharge also extended his wishes through X, highlighting the spiritual meaning behind the resurrection.
+“Our warmest greetings on the joyous occasion of Easter which symbolises renewal of hope for a better tomorrow. The eternal significance of Jesus Christ’s resurrection is that compassion is stronger than hatred and truth triumphs over evil. As we celebrate Easter Sunday, may joy, peace, amity and harmony illuminate our path ahead,” he posted.
+Christians worldwide observe this day with religious services, Easter Mass, family gatherings, and traditions such as Easter egg hunts and festive meals. The occasion represents the triumph of life over death and good over evil and offers a message of forgiveness and renewal to the faithful.
+Easter is rooted in the New Testament of the Bible, which recounts how Jesus was arrested by the Roman authorities for claiming to be the “Son of God”.
+He was subsequently sentenced to death by the Roman Governor Pontius Pilate on Good Friday. Jesus’ resurrection, which occurred three days after his crucifixion, is celebrated on Easter Sunday.
+According to the New Testament, Jesus rose from the dead on the third day following his burial, after being crucified by the Romans at Calvary.
+Easter also marks the conclusion of the 40-day Lent liturgical season, a period characterised by penance, prayer, and fasting. Additionally, Easter is closely associated with the Jewish holiday of Passover.
+(IANS)
+Link: https://ddnews.gov.in/en/new-hope-new-beginnings-prez-murmu-pm-modi-extend-easter-greetings/
+Fetch Time: 2025-04-20 07:34:22
+
+Title: Honour to speak with PM Modi, will visit India later this year: Elon Musk
+Publication Date: Sat, 19 Apr 2025 09:47:27 +0000
+Content: Tesla and SpaceX CEO Elon Musk on Saturday said it was an honour to speak with Prime Minister Narendra Modi and confirmed that he looks forward to visiting India later this year.
+The conversation between the billionaire entrepreneur and the Prime Minister revolved around potential collaborations in technology and innovation.
+“It was an honour to speak with PM Modi. I am looking forward to visiting India later this year,” Musk posted on X.
+PM Modi also shared details of the interaction, saying he spoke with Musk on various matters, building on discussions they had during a meeting in Washington, D.C. earlier this year.
+“Spoke to Elon Musk and talked about various issues, including the topics we covered during our meeting in Washington, D.C. earlier this year. We discussed the immense potential for collaboration in the areas of technology and innovation. India remains committed to advancing our partnerships with the US in these domains,” the Prime Minister said in a post on X.
+During PM Modi’s visit to the US in February, he had met with Musk and discussed a broad range of topics, including space, mobility, and innovation.
+“Had a very good meeting with Elon Musk in Washington, D.C. We discussed various issues, including those he is passionate about such as space, mobility, technology, and innovation. I talked about India’s efforts towards reform and furthering ‘Minimum Government, Maximum Governance,’” PM Modi had posted following the meeting.
+This renewed engagement comes as Tesla is reportedly preparing to enter the Indian market. It also aligns with ongoing discussions on a bilateral trade agreement between India and the United States.
+Meanwhile, Union Commerce and Industry Minister Piyush Goyal met with senior executives from Musk’s satellite venture, Starlink, in Delhi earlier this week.
+“Met a delegation from Starlink, comprising Vice President Chad Gibbs and Senior Director Ryan Goodnight. Discussions covered Starlink’s cutting-edge technology platform, their existing partnerships, and future investment plans in India,” Goyal shared on X.
+— IANS
+Link: https://ddnews.gov.in/en/honour-to-speak-with-pm-modi-look-forward-to-visit-india-this-year-elon-musk/
+Fetch Time: 2025-04-20 07:34:22
+
+Title: Luke Skywalker’s planet orbited two stars. How about brown dwarfs instead?
+Publication Date: Sat, 19 Apr 2025 09:14:45 +0000
+Content: In a memorable image from the 1977 film “Star Wars,” the young hero Luke Skywalker gazes at two suns setting above the horizon on his desert planet Tatooine. Astronomers since then indeed have discovered worlds, called circumbinary planets, orbiting two stars.
+ 
+But for sheer exoticism, it would be hard to top a newly described circumbinary planet located relatively nearby in our Milky Way galaxy. It orbits not two stars but two brown dwarfs – celestial objects too small to be a star and too big to be a planet. And its orbit is unlike any other such planet on record.
+ 
+Brown dwarfs could be considered wannabe stars that during their formative stages did not reach the mass necessary to ignite nuclear fusion at their core like a star. But they are more massive than the biggest planets and are modestly luminous.
+ 
+Using the European Southern Observatory’s Chile-based Very Large Telescope, researchers have found evidence of a planet roughly 120 light-years away – probably a gas planet at least four or five times the mass of Earth – orbiting two brown dwarfs, each about 35 times more massive than Jupiter. A light-year is the distance light travels in a year, 5.9 trillion miles (9.5 trillion km). Jupiter is our solar system’s largest planet.
+ 
+The two brown dwarfs are gravitationally bound and orbit near to each other – as close as just 4% of the distance between Earth and the sun. The planet, named 2M1510 (AB) b, orbits around this pair. Another brown dwarf is present in this system, but is too far away – about 250 times the distance between Earth and the sun – for its gravitational pull to measurably disturb the other two.
+ 
+Of the approximately 5,800 planets beyond our solar system – called exoplanets – confirmed to date, only 16 are circumbinary. And until now, none of those were found to be orbiting brown dwarfs, rather than regular stars.
+ 
+The nature of this planet’s orbit also is unique. Rather than following the plane established for the orbit of the two brown dwarfs, the planet instead orbits almost nearly perpendicular from the plane – called a polar orbit – in a journey lasting at least 100 days.
+ 
+“A satellite on a polar orbit around the Earth is one that would pass over the north and south pole. It would therefore be on an orbit that is inclined at 90 degrees to the rotation axis of the Earth,” said Thomas Baycroft, a doctoral student in astronomy at the University of Birmingham in England and lead author of the study published in the journal Science Advances.
+ 
+No planet in our solar system has a polar orbit. The several exoplanets known to follow such a path orbit only a single star.
+ 
+When two stars, or in this case two brown dwarfs, orbit each other, it is called a binary system, like the fictional one in “Star Wars.” The view by an observer from this planet, however, would be unlike the one that Luke Skywalker saw.
+ 
+“This would be different from the Tatooine image. Both brown dwarfs would be identical and red. Since they are brown dwarfs they are fainter than the sun in general, though how bright they would appear in the sky also depends on how close the planet is to them,” Baycroft said.
+ 
+These binary brown dwarfs each have a mass approximately 4% that of the sun and are only about 0.1% as luminous.
+ 
+“This appears like an exotic configuration for a planetary system. Probably the most important discovery since the first exoplanet has been how diverse planetary systems are. They seem to defy our expectations, which is great – they present a fantastic opportunity to learn,” said University of Birmingham astrophysicist and study co-author Amaury Triaud.
+ 
+While scientists previously had hypothesized the existence of exoplanets in a polar orbit around a binary system, this is the first good evidence of that, Triaud said.
+ 
+(Reuters)
+Link: https://ddnews.gov.in/en/luke-skywalkers-planet-orbited-two-stars-how-about-brown-dwarfs-instead/
+Fetch Time: 2025-04-20 07:34:22
+
+Title: PM Modi to visit Saudi Arabia from April 22-23
+Publication Date: Sat, 19 Apr 2025 09:05:43 +0000
+Content: Prime Minister Narendra Modi will embark on a two-day official visit to the Kingdom of Saudi Arabia from April 22 to 23. The visit is being undertaken at the invitation of Crown Prince and Prime Minister of Saudi Arabia, Mohammed bin Salman. 
+ 
+This will be Prime Minister Modi’s third visit to Saudi Arabia, following his previous visits in 2016 and 2019. The upcoming trip follows Prince Mohammed bin Salman’s State Visit to New Delhi in September 2023, during which he attended the G20 Summit and co-chaired the first meeting of the India-Saudi Arabia Strategic Partnership Council.
+ 
+In a statement issued by the Ministry of External Affairs (MEA), it was said that India and Saudi Arabia share long-standing and friendly ties rooted in strong socio-cultural and trade links. Over the past decade, the bilateral relationship has evolved into a robust strategic partnership spanning a wide range of sectors.
+ 
+“As strategic partners, India and Saudi Arabia have developed strong cooperation across multiple domains, including political, defence, security, trade, investment, energy, technology, health, education, culture, and people-to-people ties,” the MEA said.
+ 
+The ministry highlighted that India’s relationship with Saudi Arabia has deepened considerably in recent years, with increased investment commitments, enhanced defence collaboration, and frequent high-level exchanges between the two countries.
+ 
+Prime Minister Modi’s visit is expected to further advance this comprehensive partnership and foster deeper engagement between the two nations. “The visit reflects the importance India places on its bilateral relations with the Kingdom of Saudi Arabia. It will provide an opportunity to strengthen the multi-faceted ties and exchange views on key regional and international developments of mutual interest,” the MEA added.
+Link: https://ddnews.gov.in/en/pm-modi-to-visit-saudi-arabia-from-april-22-23/
+Fetch Time: 2025-04-20 07:34:22
+
